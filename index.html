@@ -45,6 +45,12 @@
   <p class="note">Checked by romanising the Hangul (Unicode syllable arithmetic, Revised Romanization) and comparing a variant-tolerant consonant key, syllable by syllable.</p>
   <div id="flags"></div>
 
+  <h2>Review feed: copies and regulator flags</h2>
+  <p class="note">The same resolver idea applied to the public review feed: block on (clinic, rating, date), then compare word pairs. Unrelated reviews never score above 0.11; copies of one source review score 0.14 and up. Regulator actions are joined on normalised Korean name.</p>
+  <div class="stats" id="review-stats"></div>
+  <div id="sanctions"></div>
+  <details><summary class="note">Show the copy pairs</summary><div id="copies"></div></details>
+
   <h2>How it decides</h2>
   <ol>
     <li><b>Block on Hangul, not English.</b> Romanisation is many-to-one (Gang/Kang, Hyeong/Hyung, U/Woo); Hangul is what Korean sources publish. Whitespace and Unicode form are normalised first.</li>
@@ -63,7 +69,7 @@
   <p class="note" id="source"></p>
 </main>
 <script type="module">
-  import { resolve } from './resolver.js';
+  import { resolve, matchSanctions } from './resolver.js';
 
   const escape = (s) => String(s ?? '').replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
   const profile = (d) => `<a href="https://gangnambeautyguide.com/en/doctors/${d.slug}/" target="_blank" rel="noopener">${d.slug}</a> ${escape(d.romanizedName)}`;
@@ -85,6 +91,21 @@
     document.getElementById('review').innerHTML = r.review.map(pairRow).join('');
     document.getElementById('flags').innerHTML = r.nameMismatches.map(flagRow).join('');
     document.getElementById('source').textContent = `Snapshot of ${snapshot.source} taken ${snapshot.fetchedAt.slice(0, 10)}. Public directory fields only. Refresh with: node extract.mjs`;
+
+    const feed = await (await fetch('data/reviews.json')).json();
+    const actions = await (await fetch('data/sanctions.json')).json();
+    const flags = matchSanctions(feed.clinics, actions);
+    const flagged = new Set(flags.filter((f) => f.siteClinic).map((f) => f.siteClinic.slug));
+    const fromFlagged = feed.reviews.filter((r) => flagged.has(r.clinicSlug)).length;
+    const byId = new Map(feed.reviews.map((r) => [r.id, r]));
+    document.getElementById('review-stats').innerHTML = [
+      stat('', feed.reviews.length, 'reviews shown'),
+      stat('review', feed.copies.length, 'likely copy pairs'),
+      stat('merge', feed.reviews.length - feed.copies.length, 'unique reviews, estimated'),
+      stat('flag', `${fromFlagged}/${feed.reviews.length}`, 'from clinics sanctioned for paid reviews'),
+    ].join('');
+    document.getElementById('sanctions').innerHTML = flags.map((f) => `<div class="row"><span class="ko">${escape(f.koreanName)}</span> ${f.siteClinic ? `<a href="https://gangnambeautyguide.com/en/clinics/${f.siteClinic.slug}/" target="_blank" rel="noopener">${escape(f.siteClinic.name)}</a> (${escape(f.siteClinic.tier)} tier on the site)` : 'not listed'}<ul><li>${escape(f.authority)}, ${escape(f.date)}: ${escape(f.action)}. Remedy: ${escape(f.remedy)}.</li><li><a href="${escape(f.source)}" target="_blank" rel="noopener">Source</a></li></ul></div>`).join('');
+    document.getElementById('copies').innerHTML = feed.copies.map((c) => { const a = byId.get(c.a); const b = byId.get(c.b); return `<div class="row">${escape(a.clinicName)}, ${a.rating} stars, ${escape(a.date)}, similarity ${c.score}<ul><li>${escape(a.snippet)}</li><li>${escape(b.snippet)}</li></ul></div>`; }).join('');
   } catch (err) {
     document.getElementById('stats').innerHTML = `<div class="stat"><b>!</b><span>Could not load the snapshot: ${escape(err.message)}</span></div>`;
   }

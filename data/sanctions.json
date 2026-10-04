@@ -1,0 +1,13 @@
+[
+ {
+  "authority": "Korea Fair Trade Commission",
+  "date": "2026-07-12",
+  "action": "Offered surgery discounts in exchange for patient reviews without disclosing it, on clinic homepages, Naver cafes and beauty apps",
+  "source": "https://www.newspim.com/news/view/20260710001140",
+  "clinics": [
+   { "koreanName": "뷰성형외과", "remedy": "correction order, prohibition, public notice" },
+   { "koreanName": "에이비성형외과의원", "remedy": "correction order, prohibition" },
+   { "koreanName": "디에이성형외과", "remedy": "prohibition" }
+  ]
+ }
+]

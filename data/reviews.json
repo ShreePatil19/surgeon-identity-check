@@ -1,0 +1,2132 @@
+{
+ "source": "https://gangnambeautyguide.com/en/reviews/",
+ "fetchedAt": "2026-10-04T09:24:37.556Z",
+ "reviews": [
+  {
+   "id": 1,
+   "rating": 5,
+   "clinicName": "Nana PS",
+   "clinicSlug": "nana-ps",
+   "source": "GangnamUnni",
+   "date": "2026-04-13",
+   "snippet": "The patient had nasal surgery for rhinitis and a low nose. They reported that..."
+  },
+  {
+   "id": 2,
+   "rating": 4,
+   "clinicName": "View PS",
+   "clinicSlug": "view-ps",
+   "source": "GangnamUnni",
+   "date": "2026-04-13",
+   "snippet": "The reviewer had eyelid surgery to correct a sleepy-looking appearance and said forcing the..."
+  },
+  {
+   "id": 3,
+   "rating": 5,
+   "clinicName": "View PS",
+   "clinicSlug": "view-ps",
+   "source": "GangnamUnni",
+   "date": "2026-04-13",
+   "snippet": "The reviewer had facial contour surgery to address a long-standing concern about their jawline..."
+  },
+  {
+   "id": 4,
+   "rating": 5,
+   "clinicName": "Marble PS",
+   "clinicSlug": "marble-ps",
+   "source": "GangnamUnni",
+   "date": "2026-04-13",
+   "snippet": "The reviewer had rhinoplasty to shorten a very long nose, reduce a prominent nasal..."
+  },
+  {
+   "id": 5,
+   "rating": 5,
+   "clinicName": "Chai PS",
+   "clinicSlug": "chai-ps",
+   "source": "GangnamUnni",
+   "date": "2026-04-13",
+   "snippet": "The patient had revision double-eyelid surgery because a previous left eyelid crease had loosened...."
+  },
+  {
+   "id": 6,
+   "rating": 5,
+   "clinicName": "Nana PS",
+   "clinicSlug": "nana-ps",
+   "source": "GangnamUnni",
+   "date": "2026-04-13",
+   "snippet": "The reviewer had breast augmentation with Motiva implants to address a flat chest. Six..."
+  },
+  {
+   "id": 7,
+   "rating": 4,
+   "clinicName": "View PS",
+   "clinicSlug": "view-ps",
+   "source": "GangnamUnni",
+   "date": "2026-04-13",
+   "snippet": "The reviewer had eye surgery to correct a sleepy-looking appearance and the need to..."
+  },
+  {
+   "id": 8,
+   "rating": 5,
+   "clinicName": "AB PS",
+   "clinicSlug": "ab-ps",
+   "source": "GangnamUnni",
+   "date": "2026-04-13",
+   "snippet": "The reviewer had a third rhinoplasty after two prior nose surgeries left the shape..."
+  },
+  {
+   "id": 9,
+   "rating": 5,
+   "clinicName": "View PS",
+   "clinicSlug": "view-ps",
+   "source": "GangnamUnni",
+   "date": "2026-04-13",
+   "snippet": "The patient had double-eyelid surgery with epicanthoplasty and ptosis correction to address uneven eyes..."
+  },
+  {
+   "id": 10,
+   "rating": 5,
+   "clinicName": "Girin PS",
+   "clinicSlug": "girin-ps",
+   "source": "GangnamUnni",
+   "date": "2026-04-13",
+   "snippet": "The reviewer had revision double-eyelid surgery after a previous natural adhesion method began to..."
+  },
+  {
+   "id": 11,
+   "rating": 4.5,
+   "clinicName": "G clinic",
+   "clinicSlug": "g-clinic",
+   "source": "GangnamUnni",
+   "date": "2026-04-13",
+   "snippet": "The reviewer had another face-slimming treatment three months after the previous one because they..."
+  },
+  {
+   "id": 12,
+   "rating": 5,
+   "clinicName": "Pop PS",
+   "clinicSlug": "pop-ps",
+   "source": "GangnamUnni",
+   "date": "2026-04-13",
+   "snippet": "The reviewer had an epicanthoplasty-style eye corner procedure to address severe epicanthal folds that..."
+  },
+  {
+   "id": 13,
+   "rating": 5,
+   "clinicName": "AB PS",
+   "clinicSlug": "ab-ps",
+   "source": "GangnamUnni",
+   "date": "2026-04-13",
+   "snippet": "The reviewer had a third rhinoplasty after two prior nose surgeries left them unhappy..."
+  },
+  {
+   "id": 14,
+   "rating": 5,
+   "clinicName": "Hit PS",
+   "clinicSlug": "hit-ps",
+   "source": "GangnamUnni",
+   "date": "2026-04-13",
+   "snippet": "The reviewer had an endoscopic forehead lift and anterior neck muscle resection, and at..."
+  },
+  {
+   "id": 15,
+   "rating": 5,
+   "clinicName": "Hit PS",
+   "clinicSlug": "hit-ps",
+   "source": "GangnamUnni",
+   "date": "2026-04-13",
+   "snippet": "The reviewer had multiple nose procedures, including bridge augmentation, tip work with donated rib..."
+  },
+  {
+   "id": 16,
+   "rating": 4.5,
+   "clinicName": "DA PS",
+   "clinicSlug": "da-ps",
+   "source": "GangnamUnni",
+   "date": "2026-04-13",
+   "snippet": "The reviewer had revision double-eyelid incision surgery plus lower eyelid surgery and eye-area correction..."
+  },
+  {
+   "id": 17,
+   "rating": 4.5,
+   "clinicName": "DA PS",
+   "clinicSlug": "da-ps",
+   "source": "GangnamUnni",
+   "date": "2026-04-13",
+   "snippet": "The reviewer had revision double-eyelid incision surgery with lateral and lower canthoplasty and ptosis..."
+  },
+  {
+   "id": 18,
+   "rating": 4,
+   "clinicName": "G clinic",
+   "clinicSlug": "g-clinic",
+   "source": "GangnamUnni",
+   "date": "2026-04-13",
+   "snippet": "The reviewer had shoulder Botox to reduce prominent shoulders and make off-shoulder clothing fit..."
+  },
+  {
+   "id": 19,
+   "rating": 5,
+   "clinicName": "Pop PS",
+   "clinicSlug": "pop-ps",
+   "source": "GangnamUnni",
+   "date": "2026-04-13",
+   "snippet": "The reviewer had double eyelid surgery with natural adhesion, epicanthoplasty, canthoplasty, and eye correction..."
+  },
+  {
+   "id": 20,
+   "rating": 5,
+   "clinicName": "View PS",
+   "clinicSlug": "view-ps",
+   "source": "GangnamUnni",
+   "date": "2026-04-13",
+   "snippet": "The reviewer had eye-area surgery to improve the shape and openness of already double..."
+  },
+  {
+   "id": 21,
+   "rating": 5,
+   "clinicName": "Hit PS",
+   "clinicSlug": "hit-ps",
+   "source": "GangnamUnni",
+   "date": "2026-04-13",
+   "snippet": "The reviewer had facial liposuction for a round face and combined it with thread..."
+  },
+  {
+   "id": 22,
+   "rating": 5,
+   "clinicName": "Saekim PS",
+   "clinicSlug": "saekim-ps",
+   "source": "GangnamUnni",
+   "date": "2026-04-13",
+   "snippet": "The reviewer had chin pin removal surgery and was 2 months out from the..."
+  },
+  {
+   "id": 23,
+   "rating": 5,
+   "clinicName": "Hit PS",
+   "clinicSlug": "hit-ps",
+   "source": "GangnamUnni",
+   "date": "2026-04-13",
+   "snippet": "The reviewer had facial contouring, rhinoplasty, forehead lift, facial liposuction, and thread lifting, with..."
+  },
+  {
+   "id": 24,
+   "rating": 5,
+   "clinicName": "Hit PS",
+   "clinicSlug": "hit-ps",
+   "source": "GangnamUnni",
+   "date": "2026-04-13",
+   "snippet": "The reviewer had an endoscopic forehead lift and corrugator muscle removal, and at about..."
+  },
+  {
+   "id": 25,
+   "rating": 5,
+   "clinicName": "Pop PS",
+   "clinicSlug": "pop-ps",
+   "source": "GangnamUnni",
+   "date": "2026-04-13",
+   "snippet": "The reviewer had a double-eyelid revision using an in-out line natural adhesion method after..."
+  },
+  {
+   "id": 26,
+   "rating": 5,
+   "clinicName": "Girin PS",
+   "clinicSlug": "girin-ps",
+   "source": "GangnamUnni",
+   "date": "2026-04-13",
+   "snippet": "The reviewer had revision double-eyelid surgery after a previous non-incisional result began to loosen..."
+  },
+  {
+   "id": 27,
+   "rating": 5,
+   "clinicName": "View PS",
+   "clinicSlug": "view-ps",
+   "source": "GangnamUnni",
+   "date": "2026-04-13",
+   "snippet": "The patient had double eyelid surgery to soften a strong-looking eye shape. They had..."
+  },
+  {
+   "id": 28,
+   "rating": 5,
+   "clinicName": "View PS",
+   "clinicSlug": "view-ps",
+   "source": "GangnamUnni",
+   "date": "2026-04-13",
+   "snippet": "The reviewer had double-eyelid suture, epicanthoplasty, and eye-shape correction to address uneven eye size..."
+  },
+  {
+   "id": 29,
+   "rating": 5,
+   "clinicName": "Nana PS",
+   "clinicSlug": "nana-ps",
+   "source": "GangnamUnni",
+   "date": "2026-04-13",
+   "snippet": "The patient had nasal surgery to address rhinitis and a low nose. Recovery was..."
+  },
+  {
+   "id": 30,
+   "rating": 5,
+   "clinicName": "Saekim PS",
+   "clinicSlug": "saekim-ps",
+   "source": "GangnamUnni",
+   "date": "2026-04-13",
+   "snippet": "The reviewer had chin pin removal surgery to address discomfort from the hardware. By..."
+  },
+  {
+   "id": 31,
+   "rating": 5,
+   "clinicName": "Hit PS",
+   "clinicSlug": "hit-ps",
+   "source": "GangnamUnni",
+   "date": "2026-04-13",
+   "snippet": "The reviewer had facial liposuction with thread lifting to sharpen a round face and..."
+  },
+  {
+   "id": 32,
+   "rating": 5,
+   "clinicName": "Hit PS",
+   "clinicSlug": "hit-ps",
+   "source": "GangnamUnni",
+   "date": "2026-04-13",
+   "snippet": "The reviewer had facial contouring, rhinoplasty, a forehead lift, neck muscle reduction, facial liposuction,..."
+  },
+  {
+   "id": 33,
+   "rating": 5,
+   "clinicName": "Nana PS",
+   "clinicSlug": "nana-ps",
+   "source": "GangnamUnni",
+   "date": "2026-04-13",
+   "snippet": "The reviewer had Motiva breast augmentation to address a flat chest that had been..."
+  },
+  {
+   "id": 34,
+   "rating": 5,
+   "clinicName": "Marble PS",
+   "clinicSlug": "marble-ps",
+   "source": "GangnamUnni",
+   "date": "2026-04-13",
+   "snippet": "The reviewer had breast augmentation to address very low volume and slight asymmetry that..."
+  },
+  {
+   "id": 35,
+   "rating": 5,
+   "clinicName": "Pop PS",
+   "clinicSlug": "pop-ps",
+   "source": "GangnamUnni",
+   "date": "2026-04-13",
+   "snippet": "The reviewer had a double-eyelid revision using a natural adhesion method to create an..."
+  },
+  {
+   "id": 36,
+   "rating": 5,
+   "clinicName": "Pop PS",
+   "clinicSlug": "pop-ps",
+   "source": "GangnamUnni",
+   "date": "2026-04-13",
+   "snippet": "The reviewer had a double-incision eyelid surgery with an epicanthoplasty-style correction for severe epicanthal..."
+  },
+  {
+   "id": 37,
+   "rating": 5,
+   "clinicName": "Pop PS",
+   "clinicSlug": "pop-ps",
+   "source": "GangnamUnni",
+   "date": "2026-04-13",
+   "snippet": "The reviewer had double eyelid surgery with a natural adhesion buried suture technique to..."
+  },
+  {
+   "id": 38,
+   "rating": 5,
+   "clinicName": "Hit PS",
+   "clinicSlug": "hit-ps",
+   "source": "GangnamUnni",
+   "date": "2026-04-13",
+   "snippet": "The reviewer had rhinoplasty with bridge augmentation, tip surgery using donated rib cartilage, nasolabial..."
+  },
+  {
+   "id": 39,
+   "rating": 4.5,
+   "clinicName": "G clinic",
+   "clinicSlug": "g-clinic",
+   "source": "GangnamUnni",
+   "date": "2026-04-13",
+   "snippet": "The patient had another face-slimming treatment three months after the previous one because they..."
+  },
+  {
+   "id": 40,
+   "rating": 4,
+   "clinicName": "G clinic",
+   "clinicSlug": "g-clinic",
+   "source": "GangnamUnni",
+   "date": "2026-04-13",
+   "snippet": "The reviewer had shoulder Botox for bulky shoulders that made off-shoulder clothing look bad..."
+  },
+  {
+   "id": 41,
+   "rating": 5,
+   "clinicName": "View PS",
+   "clinicSlug": "view-ps",
+   "source": "GangnamUnni",
+   "date": "2026-04-13",
+   "snippet": "The reviewer had jawline-contouring surgery to address a long-standing facial shape concern. Recovery was..."
+  },
+  {
+   "id": 42,
+   "rating": 5,
+   "clinicName": "Pop PS",
+   "clinicSlug": "pop-ps",
+   "source": "GangnamUnni",
+   "date": "2026-04-13",
+   "snippet": "The reviewer had double-eyelid buried suture surgery using a 12-hole natural adhesion method to..."
+  },
+  {
+   "id": 43,
+   "rating": 5,
+   "clinicName": "View PS",
+   "clinicSlug": "view-ps",
+   "source": "GangnamUnni",
+   "date": "2026-04-13",
+   "snippet": "The reviewer had eye muscle correction for naturally double-lidded eyes that still looked sleepy...."
+  },
+  {
+   "id": 44,
+   "rating": 5,
+   "clinicName": "Marble PS",
+   "clinicSlug": "marble-ps",
+   "source": "GangnamUnni",
+   "date": "2026-04-13",
+   "snippet": "The reviewer had breast augmentation to address very low volume and slight asymmetry, choosing..."
+  },
+  {
+   "id": 45,
+   "rating": 5,
+   "clinicName": "Marble PS",
+   "clinicSlug": "marble-ps",
+   "source": "GangnamUnni",
+   "date": "2026-04-13",
+   "snippet": "The reviewer had rhinoplasty to shorten a long nose, correct a severe hump, and..."
+  },
+  {
+   "id": 46,
+   "rating": 5,
+   "clinicName": "Pop PS",
+   "clinicSlug": "pop-ps",
+   "source": "GangnamUnni",
+   "date": "2026-04-13",
+   "snippet": "The reviewer had double-eyelid surgery with natural adhesion using an in-out line, plus incisional..."
+  },
+  {
+   "id": 47,
+   "rating": 5,
+   "clinicName": "View PS",
+   "clinicSlug": "view-ps",
+   "source": "GangnamUnni",
+   "date": "2026-04-13",
+   "snippet": "The patient had double-eyelid surgery to create a more natural-looking crease after being told..."
+  },
+  {
+   "id": 48,
+   "rating": 5,
+   "clinicName": "Chai PS",
+   "clinicSlug": "chai-ps",
+   "source": "GangnamUnni",
+   "date": "2026-04-13",
+   "snippet": "The patient had revision double-eyelid surgery because the left eye had loosened after an..."
+  },
+  {
+   "id": 49,
+   "rating": 5,
+   "clinicName": "Chai PS",
+   "clinicSlug": "chai-ps",
+   "source": "GangnamUnni",
+   "date": "2026-04-12",
+   "snippet": "The reviewer had a posterior lower blepharoplasty to address small, harsh-looking eyes and worsening..."
+  },
+  {
+   "id": 50,
+   "rating": 5,
+   "clinicName": "Chai PS",
+   "clinicSlug": "chai-ps",
+   "source": "GangnamUnni",
+   "date": "2026-04-12",
+   "snippet": "The reviewer had a back-and-bottom eye corner revision to make the eyes look larger..."
+  },
+  {
+   "id": 51,
+   "rating": 4.5,
+   "clinicName": "G clinic",
+   "clinicSlug": "g-clinic",
+   "source": "GangnamUnni",
+   "date": "2026-04-12",
+   "snippet": "The reviewer had a facial slimming acupuncture treatment and returned because the previous session..."
+  },
+  {
+   "id": 52,
+   "rating": 5,
+   "clinicName": "Marble PS",
+   "clinicSlug": "marble-ps",
+   "source": "GangnamUnni",
+   "date": "2026-04-12",
+   "snippet": "The reviewer had alar reduction surgery for a prominent bulbous nose and said the..."
+  },
+  {
+   "id": 53,
+   "rating": 5,
+   "clinicName": "Marble PS",
+   "clinicSlug": "marble-ps",
+   "source": "GangnamUnni",
+   "date": "2026-04-12",
+   "snippet": "The reviewer had nostril reduction surgery to address a wide nose that had bothered..."
+  },
+  {
+   "id": 54,
+   "rating": 5,
+   "clinicName": "G clinic",
+   "clinicSlug": "g-clinic",
+   "source": "GangnamUnni",
+   "date": "2026-04-12",
+   "snippet": "The reviewer had treatment for fine facial spots and redness. The spots reacted and..."
+  },
+  {
+   "id": 55,
+   "rating": 4.5,
+   "clinicName": "Hit PS",
+   "clinicSlug": "hit-ps",
+   "source": "GangnamUnni",
+   "date": "2026-04-12",
+   "snippet": "The reviewer had an endoscopic forehead lift and was two months out from surgery...."
+  },
+  {
+   "id": 56,
+   "rating": 5,
+   "clinicName": "View PS",
+   "clinicSlug": "view-ps",
+   "source": "GangnamUnni",
+   "date": "2026-04-12",
+   "snippet": "The patient had an eyelid procedure to correct hooded, drooping eyes that made them..."
+  },
+  {
+   "id": 57,
+   "rating": 5,
+   "clinicName": "View PS",
+   "clinicSlug": "view-ps",
+   "source": "GangnamUnni",
+   "date": "2026-04-12",
+   "snippet": "The reviewer had an eye-opening procedure to address small-looking eyes. By three weeks, the..."
+  },
+  {
+   "id": 58,
+   "rating": 5,
+   "clinicName": "View PS",
+   "clinicSlug": "view-ps",
+   "source": "GangnamUnni",
+   "date": "2026-04-12",
+   "snippet": "The reviewer had an eye procedure to address monolids and drooping, which had made..."
+  },
+  {
+   "id": 59,
+   "rating": 5,
+   "clinicName": "View PS",
+   "clinicSlug": "view-ps",
+   "source": "GangnamUnni",
+   "date": "2026-04-12",
+   "snippet": "The patient had an eye-opening procedure for small eyes. By 3 weeks, the initial..."
+  },
+  {
+   "id": 60,
+   "rating": 4.5,
+   "clinicName": "G clinic",
+   "clinicSlug": "g-clinic",
+   "source": "GangnamUnni",
+   "date": "2026-04-12",
+   "snippet": "The reviewer had a facial slimming acupuncture treatment, repeating it because they wanted a..."
+  },
+  {
+   "id": 61,
+   "rating": 5,
+   "clinicName": "View PS",
+   "clinicSlug": "view-ps",
+   "source": "GangnamUnni",
+   "date": "2026-04-12",
+   "snippet": "The patient, in her 50s, had breast lifting surgery because she became concerned about..."
+  },
+  {
+   "id": 62,
+   "rating": 5,
+   "clinicName": "G clinic",
+   "clinicSlug": "g-clinic",
+   "source": "GangnamUnni",
+   "date": "2026-04-12",
+   "snippet": "The reviewer had treatment for fine facial spots and redness. The spots reacted and..."
+  },
+  {
+   "id": 63,
+   "rating": 4.5,
+   "clinicName": "Hit PS",
+   "clinicSlug": "hit-ps",
+   "source": "GangnamUnni",
+   "date": "2026-04-12",
+   "snippet": "The reviewer had an endoscopic forehead lift and was two months out, reporting that..."
+  },
+  {
+   "id": 64,
+   "rating": 5,
+   "clinicName": "View PS",
+   "clinicSlug": "view-ps",
+   "source": "GangnamUnni",
+   "date": "2026-04-12",
+   "snippet": "The reviewer had double-eyelid surgery for heavy, single eyelids and also mentioned a prior..."
+  },
+  {
+   "id": 65,
+   "rating": 5,
+   "clinicName": "View PS",
+   "clinicSlug": "view-ps",
+   "source": "GangnamUnni",
+   "date": "2026-04-12",
+   "snippet": "The reviewer had double eyelid surgery and an epicanthoplasty to address a closed inner..."
+  },
+  {
+   "id": 66,
+   "rating": 5,
+   "clinicName": "View PS",
+   "clinicSlug": "view-ps",
+   "source": "GangnamUnni",
+   "date": "2026-04-12",
+   "snippet": "The reviewer, in her fifties, had breast lift surgery for sagging breasts after worrying..."
+  },
+  {
+   "id": 67,
+   "rating": 5,
+   "clinicName": "Braun PS",
+   "clinicSlug": "braun-ps",
+   "source": "GangnamUnni",
+   "date": "2026-04-12",
+   "snippet": "The patient had nasal surgery to address a wide nose. Eight weeks after the..."
+  },
+  {
+   "id": 68,
+   "rating": 5,
+   "clinicName": "Braun PS",
+   "clinicSlug": "braun-ps",
+   "source": "GangnamUnni",
+   "date": "2026-04-12",
+   "snippet": "The reviewer had eyelid surgery to address sagging lids and small eyes that had..."
+  },
+  {
+   "id": 69,
+   "rating": 5,
+   "clinicName": "Braun PS",
+   "clinicSlug": "braun-ps",
+   "source": "GangnamUnni",
+   "date": "2026-04-12",
+   "snippet": "The reviewer had nose surgery to address a wide nose. They said recovery was..."
+  },
+  {
+   "id": 70,
+   "rating": 5,
+   "clinicName": "Braun PS",
+   "clinicSlug": "braun-ps",
+   "source": "GangnamUnni",
+   "date": "2026-04-12",
+   "snippet": "The reviewer had eyelid surgery to address drooping eyelids and small eyes, and by..."
+  },
+  {
+   "id": 71,
+   "rating": 5,
+   "clinicName": "Girin PS",
+   "clinicSlug": "girin-ps",
+   "source": "GangnamUnni",
+   "date": "2026-04-12",
+   "snippet": "The reviewer had eye-lowering surgery to make the eyes look less upturned, and they..."
+  },
+  {
+   "id": 72,
+   "rating": 5,
+   "clinicName": "Girin PS",
+   "clinicSlug": "girin-ps",
+   "source": "GangnamUnni",
+   "date": "2026-04-12",
+   "snippet": "The reviewer had eye surgery to lower and reshape the outer corners of the..."
+  },
+  {
+   "id": 73,
+   "rating": 4,
+   "clinicName": "G clinic",
+   "clinicSlug": "g-clinic",
+   "source": "GangnamUnni",
+   "date": "2026-04-12",
+   "snippet": "The reviewer had a treatment for bite misalignment, teeth grinding, jaw fatigue, and facial..."
+  },
+  {
+   "id": 74,
+   "rating": 5,
+   "clinicName": "G clinic",
+   "clinicSlug": "g-clinic",
+   "source": "GangnamUnni",
+   "date": "2026-04-12",
+   "snippet": "The reviewer had a treatment to achieve a smaller face and relieve shoulder stiffness...."
+  },
+  {
+   "id": 75,
+   "rating": 4,
+   "clinicName": "G clinic",
+   "clinicSlug": "g-clinic",
+   "source": "GangnamUnni",
+   "date": "2026-04-12",
+   "snippet": "The reviewer sought treatment for a bad bite, years of teeth grinding, jaw fatigue,..."
+  },
+  {
+   "id": 76,
+   "rating": 4,
+   "clinicName": "G clinic",
+   "clinicSlug": "g-clinic",
+   "source": "GangnamUnni",
+   "date": "2026-04-12",
+   "snippet": "The reviewer had a treatment for sun spots and dullness. They reported almost no..."
+  },
+  {
+   "id": 77,
+   "rating": 5,
+   "clinicName": "G clinic",
+   "clinicSlug": "g-clinic",
+   "source": "GangnamUnni",
+   "date": "2026-04-12",
+   "snippet": "The patient had a procedure to achieve a smaller face and relieve shoulder stiffness...."
+  },
+  {
+   "id": 78,
+   "rating": 4,
+   "clinicName": "G clinic",
+   "clinicSlug": "g-clinic",
+   "source": "GangnamUnni",
+   "date": "2026-04-12",
+   "snippet": "The reviewer had a treatment for sun spots and dullness. They reported almost no..."
+  },
+  {
+   "id": 79,
+   "rating": 3.5,
+   "clinicName": "DA PS",
+   "clinicSlug": "da-ps",
+   "source": "GangnamUnni",
+   "date": "2026-04-12",
+   "snippet": "The reviewer had double eyelid buried sutures, partial fat removal, eye correction, and epicanthoplasty...."
+  },
+  {
+   "id": 80,
+   "rating": 5,
+   "clinicName": "View PS",
+   "clinicSlug": "view-ps",
+   "source": "GangnamUnni",
+   "date": "2026-04-12",
+   "snippet": "The reviewer had eyelid surgery for weak eye-opening strength and reported a clean facility..."
+  },
+  {
+   "id": 81,
+   "rating": 5,
+   "clinicName": "View PS",
+   "clinicSlug": "view-ps",
+   "source": "GangnamUnni",
+   "date": "2026-04-12",
+   "snippet": "The reviewer had an eye procedure to address severe weakness that made it hard..."
+  },
+  {
+   "id": 82,
+   "rating": 5,
+   "clinicName": "DA PS",
+   "clinicSlug": "da-ps",
+   "source": "GangnamUnni",
+   "date": "2026-04-12",
+   "snippet": "The reviewer had rhinoplasty for a bulbous, low nose that had bothered them since..."
+  },
+  {
+   "id": 83,
+   "rating": 5,
+   "clinicName": "DA PS",
+   "clinicSlug": "da-ps",
+   "source": "GangnamUnni",
+   "date": "2026-04-12",
+   "snippet": "The reviewer had nose surgery to correct a bulbous, low nose that had bothered..."
+  },
+  {
+   "id": 84,
+   "rating": 5,
+   "clinicName": "View PS",
+   "clinicSlug": "view-ps",
+   "source": "GangnamUnni",
+   "date": "2026-04-12",
+   "snippet": "The reviewer had breast augmentation with 4 cm implants after very small breasts and..."
+  },
+  {
+   "id": 85,
+   "rating": 5,
+   "clinicName": "G clinic",
+   "clinicSlug": "g-clinic",
+   "source": "GangnamUnni",
+   "date": "2026-04-12",
+   "snippet": "The patient had a treatment aimed at reducing trapezius muscle bulk. They reported a..."
+  },
+  {
+   "id": 86,
+   "rating": 5,
+   "clinicName": "G clinic",
+   "clinicSlug": "g-clinic",
+   "source": "GangnamUnni",
+   "date": "2026-04-12",
+   "snippet": "The reviewer had a treatment aimed at reducing trapezius muscle bulk. They said the..."
+  },
+  {
+   "id": 87,
+   "rating": 5,
+   "clinicName": "DA PS",
+   "clinicSlug": "da-ps",
+   "source": "GangnamUnni",
+   "date": "2026-04-12",
+   "snippet": "The reviewer had double eyelid surgery to create a more open eye shape because..."
+  },
+  {
+   "id": 88,
+   "rating": 3.5,
+   "clinicName": "DA PS",
+   "clinicSlug": "da-ps",
+   "source": "GangnamUnni",
+   "date": "2026-04-12",
+   "snippet": "The reviewer had double eyelid surgery with partial fat removal, eye correction, and epicanthoplasty...."
+  },
+  {
+   "id": 89,
+   "rating": 5,
+   "clinicName": "View PS",
+   "clinicSlug": "view-ps",
+   "source": "GangnamUnni",
+   "date": "2026-04-12",
+   "snippet": "The reviewer had breast augmentation with implants, choosing a 4 cm size after concerns..."
+  },
+  {
+   "id": 90,
+   "rating": 5,
+   "clinicName": "DA PS",
+   "clinicSlug": "da-ps",
+   "source": "GangnamUnni",
+   "date": "2026-04-12",
+   "snippet": "The reviewer had double eyelid surgery to address small, narrow-looking eyes with a lot..."
+  }
+ ],
+ "copies": [
+  {
+   "a": 6,
+   "b": 33,
+   "score": 0.21
+  },
+  {
+   "a": 1,
+   "b": 29,
+   "score": 0.18
+  },
+  {
+   "a": 2,
+   "b": 7,
+   "score": 0.29
+  },
+  {
+   "a": 3,
+   "b": 41,
+   "score": 0.36
+  },
+  {
+   "a": 20,
+   "b": 43,
+   "score": 0.2
+  },
+  {
+   "a": 27,
+   "b": 47,
+   "score": 0.17
+  },
+  {
+   "a": 9,
+   "b": 28,
+   "score": 0.14
+  },
+  {
+   "a": 34,
+   "b": 44,
+   "score": 0.23
+  },
+  {
+   "a": 4,
+   "b": 45,
+   "score": 0.22
+  },
+  {
+   "a": 5,
+   "b": 48,
+   "score": 0.22
+  },
+  {
+   "a": 8,
+   "b": 13,
+   "score": 0.32
+  },
+  {
+   "a": 10,
+   "b": 26,
+   "score": 0.35
+  },
+  {
+   "a": 11,
+   "b": 39,
+   "score": 0.39
+  },
+  {
+   "a": 19,
+   "b": 46,
+   "score": 0.35
+  },
+  {
+   "a": 12,
+   "b": 36,
+   "score": 0.23
+  },
+  {
+   "a": 37,
+   "b": 42,
+   "score": 0.23
+  },
+  {
+   "a": 25,
+   "b": 35,
+   "score": 0.18
+  },
+  {
+   "a": 23,
+   "b": 32,
+   "score": 0.34
+  },
+  {
+   "a": 21,
+   "b": 31,
+   "score": 0.31
+  },
+  {
+   "a": 15,
+   "b": 38,
+   "score": 0.31
+  },
+  {
+   "a": 14,
+   "b": 24,
+   "score": 0.22
+  },
+  {
+   "a": 16,
+   "b": 17,
+   "score": 0.25
+  },
+  {
+   "a": 18,
+   "b": 40,
+   "score": 0.34
+  },
+  {
+   "a": 22,
+   "b": 30,
+   "score": 0.26
+  },
+  {
+   "a": 51,
+   "b": 60,
+   "score": 0.23
+  },
+  {
+   "a": 52,
+   "b": 53,
+   "score": 0.16
+  },
+  {
+   "a": 54,
+   "b": 62,
+   "score": 0.84
+  },
+  {
+   "a": 74,
+   "b": 77,
+   "score": 0.58
+  },
+  {
+   "a": 85,
+   "b": 86,
+   "score": 0.22
+  },
+  {
+   "a": 55,
+   "b": 63,
+   "score": 0.45
+  },
+  {
+   "a": 56,
+   "b": 58,
+   "score": 0.32
+  },
+  {
+   "a": 57,
+   "b": 59,
+   "score": 0.26
+  },
+  {
+   "a": 80,
+   "b": 81,
+   "score": 0.23
+  },
+  {
+   "a": 64,
+   "b": 65,
+   "score": 0.21
+  },
+  {
+   "a": 84,
+   "b": 89,
+   "score": 0.15
+  },
+  {
+   "a": 61,
+   "b": 66,
+   "score": 0.15
+  },
+  {
+   "a": 67,
+   "b": 69,
+   "score": 0.29
+  },
+  {
+   "a": 68,
+   "b": 70,
+   "score": 0.22
+  },
+  {
+   "a": 71,
+   "b": 72,
+   "score": 0.2
+  },
+  {
+   "a": 76,
+   "b": 78,
+   "score": 0.35
+  },
+  {
+   "a": 73,
+   "b": 75,
+   "score": 0.26
+  },
+  {
+   "a": 79,
+   "b": 88,
+   "score": 0.23
+  },
+  {
+   "a": 82,
+   "b": 83,
+   "score": 0.31
+  },
+  {
+   "a": 87,
+   "b": 90,
+   "score": 0.27
+  }
+ ],
+ "clinics": [
+  {
+   "slug": "honesty-ps",
+   "name": "Honesty Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "아너스티성형외과"
+  },
+  {
+   "slug": "kokoline-clinic",
+   "name": "Kokoline Clinic",
+   "tier": "gold",
+   "koreanName": "코코라인의원"
+  },
+  {
+   "slug": "sketch-ps",
+   "name": "Sketch Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "스케치성형외과"
+  },
+  {
+   "slug": "muse-clinicgangnam",
+   "name": "Muse Clinic (Gangnam)",
+   "tier": "gold",
+   "koreanName": "뮤즈의원(강남점)"
+  },
+  {
+   "slug": "shimmian-clinic",
+   "name": "Shimmian Clinic",
+   "tier": "gold",
+   "koreanName": "심미안의원"
+  },
+  {
+   "slug": "bondi-ps",
+   "name": "Bondi Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "본디성형외과"
+  },
+  {
+   "slug": "4ever-ps",
+   "name": "4Ever Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "포에버성형외과"
+  },
+  {
+   "slug": "da-ps",
+   "name": "DA Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "디에이성형외과"
+  },
+  {
+   "slug": "arc-ps",
+   "name": "ARC Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "아크성형외과"
+  },
+  {
+   "slug": "onepeak-ps",
+   "name": "Onepeak Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "원픽성형외과"
+  },
+  {
+   "slug": "noselab-clinic",
+   "name": "Noselab Clinic",
+   "tier": "gold",
+   "koreanName": "노즈랩의원"
+  },
+  {
+   "slug": "note-ps",
+   "name": "Note Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "노트성형외과"
+  },
+  {
+   "slug": "thank-you-ps",
+   "name": "Thank You Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "땡큐성형외과"
+  },
+  {
+   "slug": "grace-oandyoung-ps",
+   "name": "Grace O&Young Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "그레이스오앤영성형외과"
+  },
+  {
+   "slug": "bio-ps",
+   "name": "Bio Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "비아이오성형외과"
+  },
+  {
+   "slug": "lamiche-ps",
+   "name": "Lamiche Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "라미체성형외과"
+  },
+  {
+   "slug": "bt-ps",
+   "name": "BT Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "비티성형외과"
+  },
+  {
+   "slug": "the-door-ps",
+   "name": "The Door Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "더도어성형외과"
+  },
+  {
+   "slug": "view-ps",
+   "name": "View Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "뷰성형외과"
+  },
+  {
+   "slug": "id-hospital",
+   "name": "ID Hospital",
+   "tier": "gold",
+   "koreanName": "아이디병원"
+  },
+  {
+   "slug": "respec-ps",
+   "name": "Respec Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "리스펙성형외과"
+  },
+  {
+   "slug": "banana-ps",
+   "name": "Banana Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "바나나성형외과"
+  },
+  {
+   "slug": "the-face-dental-clinic",
+   "name": "The Face Dental Clinic",
+   "tier": "gold",
+   "koreanName": "더페이스치과"
+  },
+  {
+   "slug": "shinseung-ps",
+   "name": "Shinseung Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "신승성형외과"
+  },
+  {
+   "slug": "the-plus-ps",
+   "name": "The Plus Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "더플러스성형외과"
+  },
+  {
+   "slug": "kobijou-clinic",
+   "name": "Kobijou Clinic",
+   "tier": "gold",
+   "koreanName": "코비쥬의원"
+  },
+  {
+   "slug": "soonplus-ps",
+   "name": "Soonplus Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "순플러스 성형외과"
+  },
+  {
+   "slug": "teuim-ps",
+   "name": "Teuim Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "트임성형외과"
+  },
+  {
+   "slug": "ts-ps",
+   "name": "TS Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "티에스성형외과"
+  },
+  {
+   "slug": "rohsanghoon-ps",
+   "name": "Rohsanghoon Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "노상훈성형외과"
+  },
+  {
+   "slug": "mind-ps",
+   "name": "Mind Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "마인드성형외과"
+  },
+  {
+   "slug": "ruby-ps",
+   "name": "Ruby Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "루비성형외과"
+  },
+  {
+   "slug": "kpuls-ps",
+   "name": "Kpuls Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "케이플러스성형외과"
+  },
+  {
+   "slug": "mark-ps",
+   "name": "Mark Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "마크성형외과"
+  },
+  {
+   "slug": "labom-ps",
+   "name": "Labom Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "라봄성형외과"
+  },
+  {
+   "slug": "lienjang-ps",
+   "name": "Lienjang Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "리앤장성형외과"
+  },
+  {
+   "slug": "gangnam-oz-ps",
+   "name": "Gangnam Oz Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "오즈성형외과"
+  },
+  {
+   "slug": "sharp-ps",
+   "name": "Sharp Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "샤프성형외과"
+  },
+  {
+   "slug": "iwell-ps",
+   "name": "Iwell Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "아이웰성형외과"
+  },
+  {
+   "slug": "aging-l-ps",
+   "name": "Aging L Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "에이징엘성형외과"
+  },
+  {
+   "slug": "eight-ps",
+   "name": "Eight Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "에이트성형외과"
+  },
+  {
+   "slug": "louvre-ps",
+   "name": "Louvre Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "루브르성형외과"
+  },
+  {
+   "slug": "woori-ps",
+   "name": "Woori Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "우리성형외과"
+  },
+  {
+   "slug": "kowon-ps",
+   "name": "Kowon Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "코원성형외과"
+  },
+  {
+   "slug": "girin-ps",
+   "name": "Girin Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "기린성형외과"
+  },
+  {
+   "slug": "stilla-psmbw",
+   "name": "Stilla PS (MBW)",
+   "tier": "gold",
+   "koreanName": "물방울성형외과"
+  },
+  {
+   "slug": "pitangui-clinic",
+   "name": "Pitangui Clinic",
+   "tier": "gold",
+   "koreanName": "삐땅기성형외과"
+  },
+  {
+   "slug": "fresh-ps",
+   "name": "Fresh Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "프레쉬성형외과"
+  },
+  {
+   "slug": "ilac-ps",
+   "name": "Ilac Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "아일락성형외과"
+  },
+  {
+   "slug": "naturalism-ps",
+   "name": "Naturalism Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "자연주의성형외과"
+  },
+  {
+   "slug": "wonjin-ps",
+   "name": "Wonjin Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "원진성형외과"
+  },
+  {
+   "slug": "gng-hospital",
+   "name": "GNG Hospital",
+   "tier": "gold",
+   "koreanName": "이앤지병원"
+  },
+  {
+   "slug": "sugar-ps",
+   "name": "Sugar Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "슈가성형외과"
+  },
+  {
+   "slug": "braun-ps",
+   "name": "Braun Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "브라운성형외과"
+  },
+  {
+   "slug": "made-young-ps",
+   "name": "Made Young Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "메이드영성형외과"
+  },
+  {
+   "slug": "sisun-ps",
+   "name": "Sisun Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "시선성형외과"
+  },
+  {
+   "slug": "hanabi-clinic",
+   "name": "Hanabi Clinic",
+   "tier": "gold",
+   "koreanName": "하나비의원"
+  },
+  {
+   "slug": "chai-ps",
+   "name": "Chai Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "차이성형외과"
+  },
+  {
+   "slug": "beandyoung-clinic",
+   "name": "Beandyoung Clinic",
+   "tier": "gold",
+   "koreanName": "비앤영의원"
+  },
+  {
+   "slug": "premier-ps",
+   "name": "Premier Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "프리미어성형외과"
+  },
+  {
+   "slug": "wannabe-ps",
+   "name": "Wannabe Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "워너비성형외과"
+  },
+  {
+   "slug": "pop-ps",
+   "name": "Pop Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "팝성형외과"
+  },
+  {
+   "slug": "cowell-ps",
+   "name": "Cowell Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "코웰성형외과"
+  },
+  {
+   "slug": "highend-ps",
+   "name": "HighEnd Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "하이앤드성형외과"
+  },
+  {
+   "slug": "365mc-hosptial",
+   "name": "365MC Hosptial",
+   "tier": "gold",
+   "koreanName": "365mc병원"
+  },
+  {
+   "slug": "saekim-ps",
+   "name": "Saekim Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "새김성형외과"
+  },
+  {
+   "slug": "wooa-ps",
+   "name": "Wooa Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "우아성형외과"
+  },
+  {
+   "slug": "the-ps",
+   "name": "The Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "더성형외과"
+  },
+  {
+   "slug": "zestar-ps",
+   "name": "Zestar Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "제스타성형외과"
+  },
+  {
+   "slug": "pride-ps",
+   "name": "Pride Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "프라이드성형외과"
+  },
+  {
+   "slug": "grand-ps",
+   "name": "Grand Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "그랜드성형외과"
+  },
+  {
+   "slug": "431-ps",
+   "name": "431 Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "4월31일성형외과"
+  },
+  {
+   "slug": "ipche-ps",
+   "name": "Ipche Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "입체성형외과"
+  },
+  {
+   "slug": "chiu-ps",
+   "name": "Chiu Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "치유성형외과"
+  },
+  {
+   "slug": "1mm-ps",
+   "name": "1mm Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "1mm성형외과"
+  },
+  {
+   "slug": "honnete-clinic",
+   "name": "Honnete Clinic",
+   "tier": "gold",
+   "koreanName": "오네뜨성형외과"
+  },
+  {
+   "slug": "uverse-ps",
+   "name": "Uverse Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "위버스성형외과"
+  },
+  {
+   "slug": "mighty-ps",
+   "name": "Mighty Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "마이티성형외과"
+  },
+  {
+   "slug": "nana-ps",
+   "name": "Nana Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "나나성형외과"
+  },
+  {
+   "slug": "top-tier-ps",
+   "name": "Top Tier Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "탑티어성형외과"
+  },
+  {
+   "slug": "verygood-ps",
+   "name": "Verygood Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "베리굿성형외과"
+  },
+  {
+   "slug": "top-face-ps",
+   "name": "Top Face Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "탑페이스성형외과"
+  },
+  {
+   "slug": "top-class-ps",
+   "name": "Top Class Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "탑클래스성형외과"
+  },
+  {
+   "slug": "wonderful-ps",
+   "name": "Wonderful Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "원더풀성형외과"
+  },
+  {
+   "slug": "almond-ps",
+   "name": "Almond Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "아몬드성형외과"
+  },
+  {
+   "slug": "vibe-ps",
+   "name": "Vibe Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "바이브성형외과"
+  },
+  {
+   "slug": "atop-ps",
+   "name": "Atop Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "에이탑성형외과"
+  },
+  {
+   "slug": "ilumi-ps",
+   "name": "Ilumi Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "아이루미성형외과"
+  },
+  {
+   "slug": "epic-ps",
+   "name": "Epic Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "에픽성형외과"
+  },
+  {
+   "slug": "345-ps",
+   "name": "345 Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "345성형외과(삼사오성형외과)"
+  },
+  {
+   "slug": "opera-ps",
+   "name": "Opera Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "오페라성형외과"
+  },
+  {
+   "slug": "jt-ps",
+   "name": "JT Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "제이티성형외과"
+  },
+  {
+   "slug": "banobagi-ps",
+   "name": "Banobagi Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "바노바기성형외과"
+  },
+  {
+   "slug": "1percent-ps",
+   "name": "1percent Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "일퍼센트성형외과"
+  },
+  {
+   "slug": "soda-ps",
+   "name": "SODA Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "소다성형외과"
+  },
+  {
+   "slug": "jw-jungwon-ps",
+   "name": "JW Jungwon Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "JW정원성형외과"
+  },
+  {
+   "slug": "marble-ps",
+   "name": "Marble Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "마블성형외과"
+  },
+  {
+   "slug": "limited-ps",
+   "name": "Limited Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "리미티드성형외과"
+  },
+  {
+   "slug": "vlif-ps",
+   "name": "Vlif Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "빌리프성형외과"
+  },
+  {
+   "slug": "inique-ps",
+   "name": "Inique Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "아이니크성형외과"
+  },
+  {
+   "slug": "hit-ps",
+   "name": "Hit Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "히트성형외과"
+  },
+  {
+   "slug": "ondo-ps",
+   "name": "Ondo Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "온도성형외과"
+  },
+  {
+   "slug": "yellow-ps",
+   "name": "Yellow Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "옐로우성형외과"
+  },
+  {
+   "slug": "guenal-ps",
+   "name": "Guenal Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "그날성형외과"
+  },
+  {
+   "slug": "obbli-ps",
+   "name": "Obbli Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "오블리성형외과"
+  },
+  {
+   "slug": "om-ps",
+   "name": "OM Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "오엠성형외과"
+  },
+  {
+   "slug": "miho-ps",
+   "name": "Miho Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "미호성형외과"
+  },
+  {
+   "slug": "start-ps",
+   "name": "Start Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "스타트성형외과"
+  },
+  {
+   "slug": "ab-ps",
+   "name": "AB Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "에이비성형외과"
+  },
+  {
+   "slug": "itsb-clinic",
+   "name": "It’sB Clinic",
+   "tier": "gold",
+   "koreanName": "잇츠비의원"
+  },
+  {
+   "slug": "private-ps",
+   "name": "Private Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "프라이빗성형외과"
+  },
+  {
+   "slug": "wave-clinic",
+   "name": "Wave Clinic",
+   "tier": "gold",
+   "koreanName": "웨이브의원"
+  },
+  {
+   "slug": "dress-ps",
+   "name": "Dress Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "드레스성형외과"
+  },
+  {
+   "slug": "rovl-avenue-clinic",
+   "name": "Rovl Avenue Clinic",
+   "tier": "gold",
+   "koreanName": "로블에비뉴의원"
+  },
+  {
+   "slug": "dana-ps",
+   "name": "Dana Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "다나성형외과"
+  },
+  {
+   "slug": "deese-ps",
+   "name": "Deese Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "청담여신성형외과"
+  },
+  {
+   "slug": "lim-ee-seok-dermatologic-clinic",
+   "name": "LIM EE SEOK dermatologic clinic",
+   "tier": "gold",
+   "koreanName": "임이석테마피부과"
+  },
+  {
+   "slug": "hyundai-aesthetic-ps",
+   "name": "Hyundai Aesthetic Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "현대미학성형외과"
+  },
+  {
+   "slug": "urban-ps",
+   "name": "Urban Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "어반성형외과"
+  },
+  {
+   "slug": "ucanb-ps",
+   "name": "Ucanb Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "유캔비성형외과"
+  },
+  {
+   "slug": "reandre-ps",
+   "name": "Re&Re Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "리앤리성형외과"
+  },
+  {
+   "slug": "okay-ps",
+   "name": "Okay Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "오케이성형외과"
+  },
+  {
+   "slug": "luarc-ps",
+   "name": "Luarc Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "루아크성형외과"
+  },
+  {
+   "slug": "machimpyo-ps",
+   "name": "Machimpyo Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "마침표성형외과"
+  },
+  {
+   "slug": "onair-ps",
+   "name": "Onair Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "온에어성형외과"
+  },
+  {
+   "slug": "omega-ps",
+   "name": "Omega Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "오메가성형외과"
+  },
+  {
+   "slug": "cookie-ps",
+   "name": "Cookie Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "쿠키성형외과"
+  },
+  {
+   "slug": "k-ps",
+   "name": "K Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "케이성형외과"
+  },
+  {
+   "slug": "unique-ps",
+   "name": "Unique Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "유니크성형외과"
+  },
+  {
+   "slug": "vn-ps",
+   "name": "VN Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "브이엔성형외과"
+  },
+  {
+   "slug": "reslim-clinic",
+   "name": "Reslim Clinic",
+   "tier": "gold",
+   "koreanName": "리슬림의원"
+  },
+  {
+   "slug": "wooahin-ps",
+   "name": "Wooahin Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "우아인성형외과"
+  },
+  {
+   "slug": "snow-clinic",
+   "name": "Snow Clinic",
+   "tier": "gold",
+   "koreanName": "스노우의원"
+  },
+  {
+   "slug": "qline-clinic",
+   "name": "Qline Clinic",
+   "tier": "gold",
+   "koreanName": "큐라인여성의원"
+  },
+  {
+   "slug": "pleasure-ps",
+   "name": "Pleasure Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "플레저성형외과"
+  },
+  {
+   "slug": "g-clinic",
+   "name": "G clinic",
+   "tier": "gold",
+   "koreanName": null
+  },
+  {
+   "slug": "luho-ps",
+   "name": "Luho Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "루호성형외과"
+  },
+  {
+   "slug": "ittem-ps",
+   "name": "Ittem Plastic Surgery",
+   "tier": "gold",
+   "koreanName": "잇템성형외과"
+  },
+  {
+   "slug": "first-button-clinic",
+   "name": "First Button Clinic",
+   "tier": "gold",
+   "koreanName": "첫단추의원"
+  },
+  {
+   "slug": "moon-clinic",
+   "name": "Moon Clinic",
+   "tier": "silver",
+   "koreanName": "문클리닉"
+  },
+  {
+   "slug": "macs-dental-clinic",
+   "name": "MACS Dental Clinic",
+   "tier": "silver",
+   "koreanName": "맥스구강악안면외과"
+  },
+  {
+   "slug": "cocoline-clinic",
+   "name": "Cocoline clinic",
+   "tier": "silver",
+   "koreanName": "코코라인의원"
+  },
+  {
+   "slug": "glam-clinic",
+   "name": "Glam Clinic",
+   "tier": "silver",
+   "koreanName": "글램외과"
+  },
+  {
+   "slug": "must-ps",
+   "name": "Must Plastic Surgery",
+   "tier": "silver",
+   "koreanName": "머스트성형외과"
+  },
+  {
+   "slug": "dite-ps",
+   "name": "Dite Plastic Surgery",
+   "tier": "silver",
+   "koreanName": "디테성형외과"
+  },
+  {
+   "slug": "mojerim-ps",
+   "name": "Mojerim Plastic Surgery",
+   "tier": "silver",
+   "koreanName": "모제림성형외과"
+  },
+  {
+   "slug": "cheongdam-slim-clinic",
+   "name": "Cheongdam Slim Clinic",
+   "tier": "silver",
+   "koreanName": "청담슬림의원"
+  },
+  {
+   "slug": "namu-ps-closed",
+   "name": "Namu PS - closed",
+   "tier": "silver",
+   "koreanName": "closed"
+  },
+  {
+   "slug": "mvp-clinic-closed",
+   "name": "MVP Clinic - closed",
+   "tier": "silver",
+   "koreanName": "closed"
+  },
+  {
+   "slug": "avant-ps",
+   "name": "Avant Plastic Surgery",
+   "tier": "silver",
+   "koreanName": "아반트성형외과"
+  },
+  {
+   "slug": "just-ps",
+   "name": "Just Plastic Surgery",
+   "tier": "silver",
+   "koreanName": "저스트성형외과"
+  },
+  {
+   "slug": "everm-dental-clinic",
+   "name": "EverM Dental Clinic",
+   "tier": "silver",
+   "koreanName": "에버엠치과"
+  },
+  {
+   "slug": "seoul-face-21-dental-hospital",
+   "name": "Seoul Face 21 Dental Hospital",
+   "tier": "silver",
+   "koreanName": "서울페이스21치과병원"
+  },
+  {
+   "slug": "custom-ps",
+   "name": "Custom Plastic Surgery",
+   "tier": "silver",
+   "koreanName": "커텀성형외과"
+  },
+  {
+   "slug": "likethefirsttime-ps",
+   "name": "LiketheFirsttime Plastic Surgery",
+   "tier": "silver",
+   "koreanName": "처음처럼성형외과"
+  },
+  {
+   "slug": "and-ps",
+   "name": "AND Plastic Surgery",
+   "tier": "silver",
+   "koreanName": "앤드성형외과"
+  },
+  {
+   "slug": "dday-ps",
+   "name": "Dday Plastic Surgery",
+   "tier": "silver",
+   "koreanName": "디데이성형외과"
+  },
+  {
+   "slug": "dr-creamy-clinic",
+   "name": "Dr. Creamy Clinic",
+   "tier": "silver",
+   "koreanName": "닥터크리미의원"
+  },
+  {
+   "slug": "daprs-clinicda-same",
+   "name": "DAPRS Clinic (DA same)",
+   "tier": "silver",
+   "koreanName": "Same with DA clinic"
+  },
+  {
+   "slug": "2yd-dental-clinic",
+   "name": "2yd Dental Clinic",
+   "tier": "silver",
+   "koreanName": "양윤돌구강악안면외과"
+  },
+  {
+   "slug": "iou-ps",
+   "name": "IOU Plastic Surgery",
+   "tier": "silver",
+   "koreanName": "아이오유성형외과"
+  },
+  {
+   "slug": "mate-ps",
+   "name": "Mate Plastic Surgery",
+   "tier": "silver",
+   "koreanName": "메이트성형외과"
+  },
+  {
+   "slug": "bk-ps",
+   "name": "BK Plastic Surgery",
+   "tier": "silver",
+   "koreanName": "비케이성형외과"
+  },
+  {
+   "slug": "batang-ps",
+   "name": "Batang Plastic Surgery",
+   "tier": "silver",
+   "koreanName": "바탕성형외과"
+  },
+  {
+   "slug": "baroko-clinic",
+   "name": "Baroko Clinic",
+   "tier": "silver",
+   "koreanName": "바로코의원"
+  },
+  {
+   "slug": "mine-ps",
+   "name": "Mine Plastic Surgery",
+   "tier": "silver",
+   "koreanName": "마인성형외과"
+  },
+  {
+   "slug": "igram-ps",
+   "name": "Igram Plastic Surgery",
+   "tier": "silver",
+   "koreanName": "아이그램성형외과"
+  },
+  {
+   "slug": "like-ps-2",
+   "name": "Like Plastic Surgery",
+   "tier": "silver",
+   "koreanName": "라이크성형외과"
+  },
+  {
+   "slug": "like-ps",
+   "name": "Like Plastic Surgery",
+   "tier": "silver",
+   "koreanName": "라이크성형외과"
+  },
+  {
+   "slug": "bbae-clinic",
+   "name": "Bbae Clinic",
+   "tier": "silver",
+   "koreanName": "뽐나게빼의원"
+  },
+  {
+   "slug": "momo-ps",
+   "name": "Momo Plastic Surgery",
+   "tier": "silver",
+   "koreanName": "모모성형외과"
+  },
+  {
+   "slug": "cheongdam-ok-ps",
+   "name": "Cheongdam OK Plastic Surgery",
+   "tier": "silver",
+   "koreanName": "청담오케이성형외과"
+  },
+  {
+   "slug": "drjin-ent-clinic",
+   "name": "Dr.Jin ENT Clinic",
+   "tier": "silver",
+   "koreanName": "닥터진이비인후과의원"
+  },
+  {
+   "slug": "daruem-ps",
+   "name": "Daruem Plastic Surgery",
+   "tier": "silver",
+   "koreanName": "다름성형외과"
+  },
+  {
+   "slug": "cohen-clinic",
+   "name": "Cohen Clinic",
+   "tier": "silver",
+   "koreanName": "코헨의원"
+  },
+  {
+   "slug": "nslim-clinic",
+   "name": "Nslim Clinic",
+   "tier": "silver",
+   "koreanName": "엔슬림의원"
+  },
+  {
+   "slug": "lively-ps",
+   "name": "Lively Plastic Surgery",
+   "tier": "silver",
+   "koreanName": "라이블리성형외과"
+  },
+  {
+   "slug": "facebone-ps",
+   "name": "Facebone Plastic Surgery",
+   "tier": "silver",
+   "koreanName": "얼굴본성형외과"
+  },
+  {
+   "slug": "chic-ps",
+   "name": "Chic Plastic Surgery",
+   "tier": "silver",
+   "koreanName": "시크성형외과"
+  },
+  {
+   "slug": "midas-clinicgangnam",
+   "name": "Midas Clinic (Gangnam)",
+   "tier": "silver",
+   "koreanName": "미다스의원"
+  },
+  {
+   "slug": "chamin-ps",
+   "name": "Chamin Plastic Surgery",
+   "tier": "silver",
+   "koreanName": "차민성형외과"
+  },
+  {
+   "slug": "onlif-ps",
+   "name": "Onlif Plastic Surgery",
+   "tier": "silver",
+   "koreanName": "온리프성형외과"
+  }
+ ]
+}

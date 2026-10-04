@@ -1,7 +1,26 @@
 // Cases are real records from the public directory snapshot (data/doctors.json).
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { romanise, skeleton, checkNameMatch, decidePair, resolve } from './resolver.js';
+import { romanise, skeleton, checkNameMatch, decidePair, resolve, findReviewCopies, matchSanctions } from './resolver.js';
+
+test('finds a re-summarised copy of one review and ignores a different review in the same block', () => {
+  const block = { clinicSlug: 'g-clinic', rating: 5, date: '2026-04-12' };
+  const copies = findReviewCopies([
+    { ...block, id: 1, text: 'The reviewer had treatment for fine facial spots and redness. The spots reacted and turned dark like moles for several days, but the visit was smooth.' },
+    { ...block, id: 2, text: 'The reviewer had treatment for fine facial spots and redness. The spots reacted and turned black like moles for several days, but the visit was smooth.' },
+    { ...block, id: 3, text: 'The patient had shoulder Botox to slim the shoulders and was happy with the quick appointment and friendly nurses.' },
+  ]);
+  assert.equal(copies.length, 1);
+  assert.deepEqual([copies[0].a.id, copies[0].b.id], [1, 2]);
+});
+
+test('joins a regulator action to a clinic on Korean name, ignoring the legal-entity suffix', () => {
+  const [hit] = matchSanctions(
+    [{ slug: 'ab-ps', name: 'AB Plastic Surgery', koreanName: '에이비성형외과' }],
+    [{ authority: 'KFTC', date: '2026-07-12', action: 'x', source: 'y', clinics: [{ koreanName: '에이비성형외과의원', remedy: 'z' }] }],
+  );
+  assert.equal(hit.siteClinic.slug, 'ab-ps');
+});
 
 const doc = (slug, romanizedName, koreanName, rating, reviewCount) => ({ slug, romanizedName, koreanName, rating, reviewCount });
 

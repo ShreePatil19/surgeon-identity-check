@@ -147,3 +147,70 @@ export function resolve(doctors) {
     nameMismatches,
   };
 }
+
+// ---- Review feed -------------------------------------------------------
+
+const wordPairs = (text) => {
+  const words = text.toLowerCase().replace(/[^a-z]+/g, ' ').trim().split(' ');
+  const pairs = new Set();
+  for (let i = 0; i < words.length - 1; i += 1) pairs.add(`${words[i]} ${words[i + 1]}`);
+  return pairs;
+};
+
+export function jaccard(a, b) {
+  let shared = 0;
+  for (const x of a) if (b.has(x)) shared += 1;
+  const union = a.size + b.size - shared;
+  return union === 0 ? 0 : shared / union;
+}
+
+// Measured on the live feed: unrelated reviews never score above 0.11,
+// paraphrased copies of one source review score 0.14 and up.
+export const REVIEW_COPY_THRESHOLD = 0.14;
+
+/**
+ * Copies of one source review, re-summarised with different wording.
+ * Block on (clinic, rating, date) first so only plausible pairs are compared,
+ * then pair each review with at most one best match above the threshold.
+ */
+export function findReviewCopies(reviews) {
+  const blocks = new Map();
+  for (const r of reviews) {
+    const key = `${r.clinicSlug}|${r.rating}|${r.date}`;
+    blocks.set(key, [...(blocks.get(key) || []), r]);
+  }
+  const copies = [];
+  for (const group of blocks.values()) {
+    const candidates = [];
+    for (let i = 0; i < group.length; i += 1) {
+      for (let j = i + 1; j < group.length; j += 1) {
+        candidates.push({ a: group[i], b: group[j], score: jaccard(wordPairs(group[i].text), wordPairs(group[j].text)) });
+      }
+    }
+    candidates.sort((x, y) => y.score - x.score);
+    const used = new Set();
+    for (const c of candidates) {
+      if (c.score < REVIEW_COPY_THRESHOLD || used.has(c.a) || used.has(c.b)) continue;
+      used.add(c.a);
+      used.add(c.b);
+      copies.push(c);
+    }
+  }
+  return copies;
+}
+
+// Regulators name the legal entity (에이비성형외과의원); the site drops the suffix.
+const clinicKey = (ko) => normaliseHangul(ko)?.replace(/(의원|병원)$/, '') || null;
+
+/** Join regulator actions to site clinics on normalised Korean name, never on English. */
+export function matchSanctions(clinics, actions) {
+  const byKey = new Map(clinics.map((c) => [clinicKey(c.koreanName), c]));
+  return actions.flatMap((action) => action.clinics.map((target) => ({
+    ...target,
+    authority: action.authority,
+    date: action.date,
+    action: action.action,
+    source: action.source,
+    siteClinic: byKey.get(clinicKey(target.koreanName)) || null,
+  })));
+}
