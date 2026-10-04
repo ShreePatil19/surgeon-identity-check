@@ -51,6 +51,11 @@
   <div id="sanctions"></div>
   <details><summary class="note">Show the copy pairs</summary><div id="copies"></div></details>
 
+  <h2>Clinics: one clinic, two listings</h2>
+  <p class="note">Clinics blocked on Korean name with the legal suffix (의원, 병원) stripped. A second list shows records whose Korean-name field holds something that is not Korean, which is where editorial notes leak into live data.</p>
+  <div id="clinic-dupes"></div>
+  <div id="clinic-notes"></div>
+
   <h2>How it decides</h2>
   <ol>
     <li><b>Block on Hangul, not English.</b> Romanisation is many-to-one (Gang/Kang, Hyeong/Hyung, U/Woo); Hangul is what Korean sources publish. Whitespace and Unicode form are normalised first.</li>
@@ -69,7 +74,7 @@
   <p class="note" id="source"></p>
 </main>
 <script type="module">
-  import { resolve, matchSanctions } from './resolver.js';
+  import { resolve, matchSanctions, findClinicIssues } from './resolver.js';
 
   const escape = (s) => String(s ?? '').replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
   const profile = (d) => `<a href="https://gangnambeautyguide.com/en/doctors/${d.slug}/" target="_blank" rel="noopener">${d.slug}</a> ${escape(d.romanizedName)}`;
@@ -105,6 +110,10 @@
       stat('flag', `${fromFlagged}/${feed.reviews.length}`, 'from clinics sanctioned for paid reviews'),
     ].join('');
     document.getElementById('sanctions').innerHTML = flags.map((f) => `<div class="row"><span class="ko">${escape(f.koreanName)}</span> ${f.siteClinic ? `<a href="https://gangnambeautyguide.com/en/clinics/${f.siteClinic.slug}/" target="_blank" rel="noopener">${escape(f.siteClinic.name)}</a> (${escape(f.siteClinic.tier)} tier on the site)` : 'not listed'}<ul><li>${escape(f.authority)}, ${escape(f.date)}: ${escape(f.action)}. Remedy: ${escape(f.remedy)}.</li><li><a href="${escape(f.source)}" target="_blank" rel="noopener">Source</a></li></ul></div>`).join('');
+    const clinicLink = (c) => `<a href="https://gangnambeautyguide.com/en/clinics/${c.slug}/" target="_blank" rel="noopener">${escape(c.slug)}</a> ${escape(c.name)} (${escape(c.tier)}, ${c.rating ?? 'no'} stars, ${c.reviewCount ?? 'no'} reviews)`;
+    const clinicIssues = findClinicIssues(feed.clinics);
+    document.getElementById('clinic-dupes').innerHTML = clinicIssues.duplicates.map((d) => `<div class="row"><span class="ko">${escape(d.koreanName)}</span><ul>${d.clinics.map((c) => `<li>${clinicLink(c)}</li>`).join('')}</ul></div>`).join('');
+    document.getElementById('clinic-notes').innerHTML = clinicIssues.notes.map((n) => `<div class="row">${clinicLink(n.clinic)}<ul><li>${escape(n.reason)}</li></ul></div>`).join('');
     document.getElementById('copies').innerHTML = feed.copies.map((c) => { const a = byId.get(c.a); const b = byId.get(c.b); return `<div class="row">${escape(a.clinicName)}, ${a.rating} stars, ${escape(a.date)}, similarity ${c.score}<ul><li>${escape(a.snippet)}</li><li>${escape(b.snippet)}</li></ul></div>`; }).join('');
   } catch (err) {
     document.getElementById('stats').innerHTML = `<div class="stat"><b>!</b><span>Could not load the snapshot: ${escape(err.message)}</span></div>`;

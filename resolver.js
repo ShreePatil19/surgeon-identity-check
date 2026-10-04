@@ -202,6 +202,29 @@ export function findReviewCopies(reviews) {
 // Regulators name the legal entity (에이비성형외과의원); the site drops the suffix.
 const clinicKey = (ko) => normaliseHangul(ko)?.replace(/(의원|병원)$/, '') || null;
 
+const HAS_HANGUL = /[가-힣]/;
+
+/**
+ * Clinics: block on normalised Korean name. Also flag records whose Korean
+ * name is not Korean at all, which is where editorial notes leak into data.
+ */
+export function findClinicIssues(clinics) {
+  const byKey = new Map();
+  const notes = [];
+  for (const c of clinics) {
+    const key = clinicKey(c.koreanName);
+    if (!key || !HAS_HANGUL.test(key)) {
+      notes.push({ clinic: c, reason: key ? `Korean name field holds "${key}"` : 'no Korean name' });
+      continue;
+    }
+    byKey.set(key, [...(byKey.get(key) || []), c]);
+  }
+  const duplicates = [...byKey.entries()]
+    .filter(([, group]) => group.length > 1)
+    .map(([koreanName, group]) => ({ koreanName, clinics: group }));
+  return { duplicates, notes };
+}
+
 /** Join regulator actions to site clinics on normalised Korean name, never on English. */
 export function matchSanctions(clinics, actions) {
   const byKey = new Map(clinics.map((c) => [clinicKey(c.koreanName), c]));

@@ -34,7 +34,16 @@ for (const m of clinicFlight.matchAll(CLINIC)) {
   const next = clinicFlight.indexOf('{"slug"', m.index + 1);
   const body = clinicFlight.slice(m.index, next === -1 ? undefined : next);
   const ko = body.match(/"koreanName":"([^"]*)"/);
-  clinics.push({ slug: m[1], name: m[2], tier: m[3], koreanName: ko ? ko[1] : null });
+  const rating = body.match(/"rating":([\d.]+)/);
+  const count = body.match(/"reviewCount":(\d+)/);
+  clinics.push({
+    slug: m[1],
+    name: m[2],
+    tier: m[3],
+    koreanName: ko ? ko[1] : null,
+    rating: rating ? Number(rating[1]) : null,
+    reviewCount: count ? Number(count[1]) : null,
+  });
 }
 
 const copies = findReviewCopies(reviews);

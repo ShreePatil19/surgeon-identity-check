@@ -1,7 +1,18 @@
 // Cases are real records from the public directory snapshot (data/doctors.json).
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { romanise, skeleton, checkNameMatch, decidePair, resolve, findReviewCopies, matchSanctions } from './resolver.js';
+import { romanise, skeleton, checkNameMatch, decidePair, resolve, findReviewCopies, matchSanctions, findClinicIssues } from './resolver.js';
+
+test('groups one clinic listed under two spellings and flags notes leaking into the Korean-name field', () => {
+  const r = findClinicIssues([
+    { slug: 'kokoline-clinic', name: 'Kokoline Clinic', koreanName: '코코라인의원' },
+    { slug: 'cocoline-clinic', name: 'Cocoline Clinic', koreanName: '코코라인' },
+    { slug: 'namu-ps-closed', name: 'Namu PS', koreanName: 'closed' },
+  ]);
+  assert.equal(r.duplicates.length, 1);
+  assert.equal(r.duplicates[0].clinics.length, 2);
+  assert.equal(r.notes[0].clinic.slug, 'namu-ps-closed');
+});
 
 test('finds a re-summarised copy of one review and ignores a different review in the same block', () => {
   const block = { clinicSlug: 'g-clinic', rating: 5, date: '2026-04-12' };

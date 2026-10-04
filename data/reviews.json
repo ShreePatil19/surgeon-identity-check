@@ -1,6 +1,6 @@
 {
  "source": "https://gangnambeautyguide.com/en/reviews/",
- "fetchedAt": "2026-10-04T09:24:37.556Z",
+ "fetchedAt": "2026-10-04T09:27:45.300Z",
  "reviews": [
   {
    "id": 1,
@@ -1040,1093 +1040,1457 @@
    "slug": "honesty-ps",
    "name": "Honesty Plastic Surgery",
    "tier": "gold",
-   "koreanName": "아너스티성형외과"
+   "koreanName": "아너스티성형외과",
+   "rating": 4.5,
+   "reviewCount": 21120
   },
   {
    "slug": "kokoline-clinic",
    "name": "Kokoline Clinic",
    "tier": "gold",
-   "koreanName": "코코라인의원"
+   "koreanName": "코코라인의원",
+   "rating": 4.5,
+   "reviewCount": 20385
   },
   {
    "slug": "sketch-ps",
    "name": "Sketch Plastic Surgery",
    "tier": "gold",
-   "koreanName": "스케치성형외과"
+   "koreanName": "스케치성형외과",
+   "rating": 4.7,
+   "reviewCount": 19391
   },
   {
    "slug": "muse-clinicgangnam",
    "name": "Muse Clinic (Gangnam)",
    "tier": "gold",
-   "koreanName": "뮤즈의원(강남점)"
+   "koreanName": "뮤즈의원(강남점)",
+   "rating": 4.1,
+   "reviewCount": 17107
   },
   {
    "slug": "shimmian-clinic",
    "name": "Shimmian Clinic",
    "tier": "gold",
-   "koreanName": "심미안의원"
+   "koreanName": "심미안의원",
+   "rating": 4.6,
+   "reviewCount": 15484
   },
   {
    "slug": "bondi-ps",
    "name": "Bondi Plastic Surgery",
    "tier": "gold",
-   "koreanName": "본디성형외과"
+   "koreanName": "본디성형외과",
+   "rating": 4.5,
+   "reviewCount": 14823
   },
   {
    "slug": "4ever-ps",
    "name": "4Ever Plastic Surgery",
    "tier": "gold",
-   "koreanName": "포에버성형외과"
+   "koreanName": "포에버성형외과",
+   "rating": 4.6,
+   "reviewCount": 14650
   },
   {
    "slug": "da-ps",
    "name": "DA Plastic Surgery",
    "tier": "gold",
-   "koreanName": "디에이성형외과"
+   "koreanName": "디에이성형외과",
+   "rating": 4.7,
+   "reviewCount": 13396
   },
   {
    "slug": "arc-ps",
    "name": "ARC Plastic Surgery",
    "tier": "gold",
-   "koreanName": "아크성형외과"
+   "koreanName": "아크성형외과",
+   "rating": 4.7,
+   "reviewCount": 12576
   },
   {
    "slug": "onepeak-ps",
    "name": "Onepeak Plastic Surgery",
    "tier": "gold",
-   "koreanName": "원픽성형외과"
+   "koreanName": "원픽성형외과",
+   "rating": 4.3,
+   "reviewCount": 11639
   },
   {
    "slug": "noselab-clinic",
    "name": "Noselab Clinic",
    "tier": "gold",
-   "koreanName": "노즈랩의원"
+   "koreanName": "노즈랩의원",
+   "rating": 4.5,
+   "reviewCount": 11522
   },
   {
    "slug": "note-ps",
    "name": "Note Plastic Surgery",
    "tier": "gold",
-   "koreanName": "노트성형외과"
+   "koreanName": "노트성형외과",
+   "rating": 4.7,
+   "reviewCount": 10792
   },
   {
    "slug": "thank-you-ps",
    "name": "Thank You Plastic Surgery",
    "tier": "gold",
-   "koreanName": "땡큐성형외과"
+   "koreanName": "땡큐성형외과",
+   "rating": 4.7,
+   "reviewCount": 10577
   },
   {
    "slug": "grace-oandyoung-ps",
    "name": "Grace O&Young Plastic Surgery",
    "tier": "gold",
-   "koreanName": "그레이스오앤영성형외과"
+   "koreanName": "그레이스오앤영성형외과",
+   "rating": 4.5,
+   "reviewCount": 10348
   },
   {
    "slug": "bio-ps",
    "name": "Bio Plastic Surgery",
    "tier": "gold",
-   "koreanName": "비아이오성형외과"
+   "koreanName": "비아이오성형외과",
+   "rating": 4.4,
+   "reviewCount": 9873
   },
   {
    "slug": "lamiche-ps",
    "name": "Lamiche Plastic Surgery",
    "tier": "gold",
-   "koreanName": "라미체성형외과"
+   "koreanName": "라미체성형외과",
+   "rating": 4.4,
+   "reviewCount": 9489
   },
   {
    "slug": "bt-ps",
    "name": "BT Plastic Surgery",
    "tier": "gold",
-   "koreanName": "비티성형외과"
+   "koreanName": "비티성형외과",
+   "rating": 4.5,
+   "reviewCount": 9288
   },
   {
    "slug": "the-door-ps",
    "name": "The Door Plastic Surgery",
    "tier": "gold",
-   "koreanName": "더도어성형외과"
+   "koreanName": "더도어성형외과",
+   "rating": 4.8,
+   "reviewCount": 9252
   },
   {
    "slug": "view-ps",
    "name": "View Plastic Surgery",
    "tier": "gold",
-   "koreanName": "뷰성형외과"
+   "koreanName": "뷰성형외과",
+   "rating": 4.8,
+   "reviewCount": 9167
   },
   {
    "slug": "id-hospital",
    "name": "ID Hospital",
    "tier": "gold",
-   "koreanName": "아이디병원"
+   "koreanName": "아이디병원",
+   "rating": 4.6,
+   "reviewCount": 8301
   },
   {
    "slug": "respec-ps",
    "name": "Respec Plastic Surgery",
    "tier": "gold",
-   "koreanName": "리스펙성형외과"
+   "koreanName": "리스펙성형외과",
+   "rating": 4.6,
+   "reviewCount": 8235
   },
   {
    "slug": "banana-ps",
    "name": "Banana Plastic Surgery",
    "tier": "gold",
-   "koreanName": "바나나성형외과"
+   "koreanName": "바나나성형외과",
+   "rating": 4.7,
+   "reviewCount": 7326
   },
   {
    "slug": "the-face-dental-clinic",
    "name": "The Face Dental Clinic",
    "tier": "gold",
-   "koreanName": "더페이스치과"
+   "koreanName": "더페이스치과",
+   "rating": 4.7,
+   "reviewCount": 7082
   },
   {
    "slug": "shinseung-ps",
    "name": "Shinseung Plastic Surgery",
    "tier": "gold",
-   "koreanName": "신승성형외과"
+   "koreanName": "신승성형외과",
+   "rating": 4.6,
+   "reviewCount": 6805
   },
   {
    "slug": "the-plus-ps",
    "name": "The Plus Plastic Surgery",
    "tier": "gold",
-   "koreanName": "더플러스성형외과"
+   "koreanName": "더플러스성형외과",
+   "rating": 4.7,
+   "reviewCount": 6640
   },
   {
    "slug": "kobijou-clinic",
    "name": "Kobijou Clinic",
    "tier": "gold",
-   "koreanName": "코비쥬의원"
+   "koreanName": "코비쥬의원",
+   "rating": 4.6,
+   "reviewCount": 6342
   },
   {
    "slug": "soonplus-ps",
    "name": "Soonplus Plastic Surgery",
    "tier": "gold",
-   "koreanName": "순플러스 성형외과"
+   "koreanName": "순플러스 성형외과",
+   "rating": 4.6,
+   "reviewCount": 6329
   },
   {
    "slug": "teuim-ps",
    "name": "Teuim Plastic Surgery",
    "tier": "gold",
-   "koreanName": "트임성형외과"
+   "koreanName": "트임성형외과",
+   "rating": 4.4,
+   "reviewCount": 6054
   },
   {
    "slug": "ts-ps",
    "name": "TS Plastic Surgery",
    "tier": "gold",
-   "koreanName": "티에스성형외과"
+   "koreanName": "티에스성형외과",
+   "rating": 4.5,
+   "reviewCount": 5575
   },
   {
    "slug": "rohsanghoon-ps",
    "name": "Rohsanghoon Plastic Surgery",
    "tier": "gold",
-   "koreanName": "노상훈성형외과"
+   "koreanName": "노상훈성형외과",
+   "rating": 4.8,
+   "reviewCount": 5368
   },
   {
    "slug": "mind-ps",
    "name": "Mind Plastic Surgery",
    "tier": "gold",
-   "koreanName": "마인드성형외과"
+   "koreanName": "마인드성형외과",
+   "rating": 4.7,
+   "reviewCount": 5201
   },
   {
    "slug": "ruby-ps",
    "name": "Ruby Plastic Surgery",
    "tier": "gold",
-   "koreanName": "루비성형외과"
+   "koreanName": "루비성형외과",
+   "rating": 4.7,
+   "reviewCount": 5179
   },
   {
    "slug": "kpuls-ps",
    "name": "Kpuls Plastic Surgery",
    "tier": "gold",
-   "koreanName": "케이플러스성형외과"
+   "koreanName": "케이플러스성형외과",
+   "rating": 4.6,
+   "reviewCount": 5178
   },
   {
    "slug": "mark-ps",
    "name": "Mark Plastic Surgery",
    "tier": "gold",
-   "koreanName": "마크성형외과"
+   "koreanName": "마크성형외과",
+   "rating": 4.7,
+   "reviewCount": 5089
   },
   {
    "slug": "labom-ps",
    "name": "Labom Plastic Surgery",
    "tier": "gold",
-   "koreanName": "라봄성형외과"
+   "koreanName": "라봄성형외과",
+   "rating": 4.7,
+   "reviewCount": 4889
   },
   {
    "slug": "lienjang-ps",
    "name": "Lienjang Plastic Surgery",
    "tier": "gold",
-   "koreanName": "리앤장성형외과"
+   "koreanName": "리앤장성형외과",
+   "rating": 4.5,
+   "reviewCount": 4737
   },
   {
    "slug": "gangnam-oz-ps",
    "name": "Gangnam Oz Plastic Surgery",
    "tier": "gold",
-   "koreanName": "오즈성형외과"
+   "koreanName": "오즈성형외과",
+   "rating": 4.8,
+   "reviewCount": 4723
   },
   {
    "slug": "sharp-ps",
    "name": "Sharp Plastic Surgery",
    "tier": "gold",
-   "koreanName": "샤프성형외과"
+   "koreanName": "샤프성형외과",
+   "rating": 4.3,
+   "reviewCount": 4693
   },
   {
    "slug": "iwell-ps",
    "name": "Iwell Plastic Surgery",
    "tier": "gold",
-   "koreanName": "아이웰성형외과"
+   "koreanName": "아이웰성형외과",
+   "rating": 4.6,
+   "reviewCount": 4435
   },
   {
    "slug": "aging-l-ps",
    "name": "Aging L Plastic Surgery",
    "tier": "gold",
-   "koreanName": "에이징엘성형외과"
+   "koreanName": "에이징엘성형외과",
+   "rating": 4.8,
+   "reviewCount": 4299
   },
   {
    "slug": "eight-ps",
    "name": "Eight Plastic Surgery",
    "tier": "gold",
-   "koreanName": "에이트성형외과"
+   "koreanName": "에이트성형외과",
+   "rating": 4.6,
+   "reviewCount": 4252
   },
   {
    "slug": "louvre-ps",
    "name": "Louvre Plastic Surgery",
    "tier": "gold",
-   "koreanName": "루브르성형외과"
+   "koreanName": "루브르성형외과",
+   "rating": 4.3,
+   "reviewCount": 4200
   },
   {
    "slug": "woori-ps",
    "name": "Woori Plastic Surgery",
    "tier": "gold",
-   "koreanName": "우리성형외과"
+   "koreanName": "우리성형외과",
+   "rating": 4.7,
+   "reviewCount": 4195
   },
   {
    "slug": "kowon-ps",
    "name": "Kowon Plastic Surgery",
    "tier": "gold",
-   "koreanName": "코원성형외과"
+   "koreanName": "코원성형외과",
+   "rating": 4.7,
+   "reviewCount": 3912
   },
   {
    "slug": "girin-ps",
    "name": "Girin Plastic Surgery",
    "tier": "gold",
-   "koreanName": "기린성형외과"
+   "koreanName": "기린성형외과",
+   "rating": 4.4,
+   "reviewCount": 3911
   },
   {
    "slug": "stilla-psmbw",
    "name": "Stilla PS (MBW)",
    "tier": "gold",
-   "koreanName": "물방울성형외과"
+   "koreanName": "물방울성형외과",
+   "rating": 4.6,
+   "reviewCount": 3773
   },
   {
    "slug": "pitangui-clinic",
    "name": "Pitangui Clinic",
    "tier": "gold",
-   "koreanName": "삐땅기성형외과"
+   "koreanName": "삐땅기성형외과",
+   "rating": 4.5,
+   "reviewCount": 3748
   },
   {
    "slug": "fresh-ps",
    "name": "Fresh Plastic Surgery",
    "tier": "gold",
-   "koreanName": "프레쉬성형외과"
+   "koreanName": "프레쉬성형외과",
+   "rating": 4.7,
+   "reviewCount": 3676
   },
   {
    "slug": "ilac-ps",
    "name": "Ilac Plastic Surgery",
    "tier": "gold",
-   "koreanName": "아일락성형외과"
+   "koreanName": "아일락성형외과",
+   "rating": 4.4,
+   "reviewCount": 3662
   },
   {
    "slug": "naturalism-ps",
    "name": "Naturalism Plastic Surgery",
    "tier": "gold",
-   "koreanName": "자연주의성형외과"
+   "koreanName": "자연주의성형외과",
+   "rating": 4.6,
+   "reviewCount": 3626
   },
   {
    "slug": "wonjin-ps",
    "name": "Wonjin Plastic Surgery",
    "tier": "gold",
-   "koreanName": "원진성형외과"
+   "koreanName": "원진성형외과",
+   "rating": 4.2,
+   "reviewCount": 3592
   },
   {
    "slug": "gng-hospital",
    "name": "GNG Hospital",
    "tier": "gold",
-   "koreanName": "이앤지병원"
+   "koreanName": "이앤지병원",
+   "rating": 4.6,
+   "reviewCount": 3581
   },
   {
    "slug": "sugar-ps",
    "name": "Sugar Plastic Surgery",
    "tier": "gold",
-   "koreanName": "슈가성형외과"
+   "koreanName": "슈가성형외과",
+   "rating": 4.7,
+   "reviewCount": 3523
   },
   {
    "slug": "braun-ps",
    "name": "Braun Plastic Surgery",
    "tier": "gold",
-   "koreanName": "브라운성형외과"
+   "koreanName": "브라운성형외과",
+   "rating": 4.8,
+   "reviewCount": 3490
   },
   {
    "slug": "made-young-ps",
    "name": "Made Young Plastic Surgery",
    "tier": "gold",
-   "koreanName": "메이드영성형외과"
+   "koreanName": "메이드영성형외과",
+   "rating": 4.1,
+   "reviewCount": 3395
   },
   {
    "slug": "sisun-ps",
    "name": "Sisun Plastic Surgery",
    "tier": "gold",
-   "koreanName": "시선성형외과"
+   "koreanName": "시선성형외과",
+   "rating": 4.6,
+   "reviewCount": 3381
   },
   {
    "slug": "hanabi-clinic",
    "name": "Hanabi Clinic",
    "tier": "gold",
-   "koreanName": "하나비의원"
+   "koreanName": "하나비의원",
+   "rating": 4.6,
+   "reviewCount": 3370
   },
   {
    "slug": "chai-ps",
    "name": "Chai Plastic Surgery",
    "tier": "gold",
-   "koreanName": "차이성형외과"
+   "koreanName": "차이성형외과",
+   "rating": 4.4,
+   "reviewCount": 3297
   },
   {
    "slug": "beandyoung-clinic",
    "name": "Beandyoung Clinic",
    "tier": "gold",
-   "koreanName": "비앤영의원"
+   "koreanName": "비앤영의원",
+   "rating": 4.7,
+   "reviewCount": 3244
   },
   {
    "slug": "premier-ps",
    "name": "Premier Plastic Surgery",
    "tier": "gold",
-   "koreanName": "프리미어성형외과"
+   "koreanName": "프리미어성형외과",
+   "rating": 4.7,
+   "reviewCount": 3175
   },
   {
    "slug": "wannabe-ps",
    "name": "Wannabe Plastic Surgery",
    "tier": "gold",
-   "koreanName": "워너비성형외과"
+   "koreanName": "워너비성형외과",
+   "rating": 4.4,
+   "reviewCount": 3098
   },
   {
    "slug": "pop-ps",
    "name": "Pop Plastic Surgery",
    "tier": "gold",
-   "koreanName": "팝성형외과"
+   "koreanName": "팝성형외과",
+   "rating": 4.6,
+   "reviewCount": 3095
   },
   {
    "slug": "cowell-ps",
    "name": "Cowell Plastic Surgery",
    "tier": "gold",
-   "koreanName": "코웰성형외과"
+   "koreanName": "코웰성형외과",
+   "rating": 4.3,
+   "reviewCount": 3023
   },
   {
    "slug": "highend-ps",
    "name": "HighEnd Plastic Surgery",
    "tier": "gold",
-   "koreanName": "하이앤드성형외과"
+   "koreanName": "하이앤드성형외과",
+   "rating": 4.7,
+   "reviewCount": 2929
   },
   {
    "slug": "365mc-hosptial",
    "name": "365MC Hosptial",
    "tier": "gold",
-   "koreanName": "365mc병원"
+   "koreanName": "365mc병원",
+   "rating": 4.8,
+   "reviewCount": 2767
   },
   {
    "slug": "saekim-ps",
    "name": "Saekim Plastic Surgery",
    "tier": "gold",
-   "koreanName": "새김성형외과"
+   "koreanName": "새김성형외과",
+   "rating": 4.4,
+   "reviewCount": 2758
   },
   {
    "slug": "wooa-ps",
    "name": "Wooa Plastic Surgery",
    "tier": "gold",
-   "koreanName": "우아성형외과"
+   "koreanName": "우아성형외과",
+   "rating": 4.7,
+   "reviewCount": 2703
   },
   {
    "slug": "the-ps",
    "name": "The Plastic Surgery",
    "tier": "gold",
-   "koreanName": "더성형외과"
+   "koreanName": "더성형외과",
+   "rating": 4.8,
+   "reviewCount": 2689
   },
   {
    "slug": "zestar-ps",
    "name": "Zestar Plastic Surgery",
    "tier": "gold",
-   "koreanName": "제스타성형외과"
+   "koreanName": "제스타성형외과",
+   "rating": 4.7,
+   "reviewCount": 2622
   },
   {
    "slug": "pride-ps",
    "name": "Pride Plastic Surgery",
    "tier": "gold",
-   "koreanName": "프라이드성형외과"
+   "koreanName": "프라이드성형외과",
+   "rating": 4.6,
+   "reviewCount": 2615
   },
   {
    "slug": "grand-ps",
    "name": "Grand Plastic Surgery",
    "tier": "gold",
-   "koreanName": "그랜드성형외과"
+   "koreanName": "그랜드성형외과",
+   "rating": 4.6,
+   "reviewCount": 2615
   },
   {
    "slug": "431-ps",
    "name": "431 Plastic Surgery",
    "tier": "gold",
-   "koreanName": "4월31일성형외과"
+   "koreanName": "4월31일성형외과",
+   "rating": 4.2,
+   "reviewCount": 2508
   },
   {
    "slug": "ipche-ps",
    "name": "Ipche Plastic Surgery",
    "tier": "gold",
-   "koreanName": "입체성형외과"
+   "koreanName": "입체성형외과",
+   "rating": 4.3,
+   "reviewCount": 2504
   },
   {
    "slug": "chiu-ps",
    "name": "Chiu Plastic Surgery",
    "tier": "gold",
-   "koreanName": "치유성형외과"
+   "koreanName": "치유성형외과",
+   "rating": 4.8,
+   "reviewCount": 2473
   },
   {
    "slug": "1mm-ps",
    "name": "1mm Plastic Surgery",
    "tier": "gold",
-   "koreanName": "1mm성형외과"
+   "koreanName": "1mm성형외과",
+   "rating": 4.2,
+   "reviewCount": 2468
   },
   {
    "slug": "honnete-clinic",
    "name": "Honnete Clinic",
    "tier": "gold",
-   "koreanName": "오네뜨성형외과"
+   "koreanName": "오네뜨성형외과",
+   "rating": 4.7,
+   "reviewCount": 2441
   },
   {
    "slug": "uverse-ps",
    "name": "Uverse Plastic Surgery",
    "tier": "gold",
-   "koreanName": "위버스성형외과"
+   "koreanName": "위버스성형외과",
+   "rating": 4.6,
+   "reviewCount": 2410
   },
   {
    "slug": "mighty-ps",
    "name": "Mighty Plastic Surgery",
    "tier": "gold",
-   "koreanName": "마이티성형외과"
+   "koreanName": "마이티성형외과",
+   "rating": 4.6,
+   "reviewCount": 2357
   },
   {
    "slug": "nana-ps",
    "name": "Nana Plastic Surgery",
    "tier": "gold",
-   "koreanName": "나나성형외과"
+   "koreanName": "나나성형외과",
+   "rating": 4.4,
+   "reviewCount": 2335
   },
   {
    "slug": "top-tier-ps",
    "name": "Top Tier Plastic Surgery",
    "tier": "gold",
-   "koreanName": "탑티어성형외과"
+   "koreanName": "탑티어성형외과",
+   "rating": 4.3,
+   "reviewCount": 2205
   },
   {
    "slug": "verygood-ps",
    "name": "Verygood Plastic Surgery",
    "tier": "gold",
-   "koreanName": "베리굿성형외과"
+   "koreanName": "베리굿성형외과",
+   "rating": 4.5,
+   "reviewCount": 2067
   },
   {
    "slug": "top-face-ps",
    "name": "Top Face Plastic Surgery",
    "tier": "gold",
-   "koreanName": "탑페이스성형외과"
+   "koreanName": "탑페이스성형외과",
+   "rating": 4.5,
+   "reviewCount": 1949
   },
   {
    "slug": "top-class-ps",
    "name": "Top Class Plastic Surgery",
    "tier": "gold",
-   "koreanName": "탑클래스성형외과"
+   "koreanName": "탑클래스성형외과",
+   "rating": 4.3,
+   "reviewCount": 1873
   },
   {
    "slug": "wonderful-ps",
    "name": "Wonderful Plastic Surgery",
    "tier": "gold",
-   "koreanName": "원더풀성형외과"
+   "koreanName": "원더풀성형외과",
+   "rating": 4.7,
+   "reviewCount": 1797
   },
   {
    "slug": "almond-ps",
    "name": "Almond Plastic Surgery",
    "tier": "gold",
-   "koreanName": "아몬드성형외과"
+   "koreanName": "아몬드성형외과",
+   "rating": 4.6,
+   "reviewCount": 1705
   },
   {
    "slug": "vibe-ps",
    "name": "Vibe Plastic Surgery",
    "tier": "gold",
-   "koreanName": "바이브성형외과"
+   "koreanName": "바이브성형외과",
+   "rating": 4.7,
+   "reviewCount": 1556
   },
   {
    "slug": "atop-ps",
    "name": "Atop Plastic Surgery",
    "tier": "gold",
-   "koreanName": "에이탑성형외과"
+   "koreanName": "에이탑성형외과",
+   "rating": 4.7,
+   "reviewCount": 1554
   },
   {
    "slug": "ilumi-ps",
    "name": "Ilumi Plastic Surgery",
    "tier": "gold",
-   "koreanName": "아이루미성형외과"
+   "koreanName": "아이루미성형외과",
+   "rating": 4.3,
+   "reviewCount": 1519
   },
   {
    "slug": "epic-ps",
    "name": "Epic Plastic Surgery",
    "tier": "gold",
-   "koreanName": "에픽성형외과"
+   "koreanName": "에픽성형외과",
+   "rating": 4.7,
+   "reviewCount": 1445
   },
   {
    "slug": "345-ps",
    "name": "345 Plastic Surgery",
    "tier": "gold",
-   "koreanName": "345성형외과(삼사오성형외과)"
+   "koreanName": "345성형외과(삼사오성형외과)",
+   "rating": 4.8,
+   "reviewCount": 1444
   },
   {
    "slug": "opera-ps",
    "name": "Opera Plastic Surgery",
    "tier": "gold",
-   "koreanName": "오페라성형외과"
+   "koreanName": "오페라성형외과",
+   "rating": 4.7,
+   "reviewCount": 1422
   },
   {
    "slug": "jt-ps",
    "name": "JT Plastic Surgery",
    "tier": "gold",
-   "koreanName": "제이티성형외과"
+   "koreanName": "제이티성형외과",
+   "rating": 4.8,
+   "reviewCount": 1164
   },
   {
    "slug": "banobagi-ps",
    "name": "Banobagi Plastic Surgery",
    "tier": "gold",
-   "koreanName": "바노바기성형외과"
+   "koreanName": "바노바기성형외과",
+   "rating": 4.8,
+   "reviewCount": 869
   },
   {
    "slug": "1percent-ps",
    "name": "1percent Plastic Surgery",
    "tier": "gold",
-   "koreanName": "일퍼센트성형외과"
+   "koreanName": "일퍼센트성형외과",
+   "rating": 4.6,
+   "reviewCount": 856
   },
   {
    "slug": "soda-ps",
    "name": "SODA Plastic Surgery",
    "tier": "gold",
-   "koreanName": "소다성형외과"
+   "koreanName": "소다성형외과",
+   "rating": 4.4,
+   "reviewCount": 807
   },
   {
    "slug": "jw-jungwon-ps",
    "name": "JW Jungwon Plastic Surgery",
    "tier": "gold",
-   "koreanName": "JW정원성형외과"
+   "koreanName": "JW정원성형외과",
+   "rating": 4.6,
+   "reviewCount": 668
   },
   {
    "slug": "marble-ps",
    "name": "Marble Plastic Surgery",
    "tier": "gold",
-   "koreanName": "마블성형외과"
+   "koreanName": "마블성형외과",
+   "rating": 4.3,
+   "reviewCount": 643
   },
   {
    "slug": "limited-ps",
    "name": "Limited Plastic Surgery",
    "tier": "gold",
-   "koreanName": "리미티드성형외과"
+   "koreanName": "리미티드성형외과",
+   "rating": 4.1,
+   "reviewCount": 617
   },
   {
    "slug": "vlif-ps",
    "name": "Vlif Plastic Surgery",
    "tier": "gold",
-   "koreanName": "빌리프성형외과"
+   "koreanName": "빌리프성형외과",
+   "rating": 4.6,
+   "reviewCount": 488
   },
   {
    "slug": "inique-ps",
    "name": "Inique Plastic Surgery",
    "tier": "gold",
-   "koreanName": "아이니크성형외과"
+   "koreanName": "아이니크성형외과",
+   "rating": 4.7,
+   "reviewCount": 488
   },
   {
    "slug": "hit-ps",
    "name": "Hit Plastic Surgery",
    "tier": "gold",
-   "koreanName": "히트성형외과"
+   "koreanName": "히트성형외과",
+   "rating": 4.4,
+   "reviewCount": 323
   },
   {
    "slug": "ondo-ps",
    "name": "Ondo Plastic Surgery",
    "tier": "gold",
-   "koreanName": "온도성형외과"
+   "koreanName": "온도성형외과",
+   "rating": 4.5,
+   "reviewCount": 298
   },
   {
    "slug": "yellow-ps",
    "name": "Yellow Plastic Surgery",
    "tier": "gold",
-   "koreanName": "옐로우성형외과"
+   "koreanName": "옐로우성형외과",
+   "rating": 3.8,
+   "reviewCount": 274
   },
   {
    "slug": "guenal-ps",
    "name": "Guenal Plastic Surgery",
    "tier": "gold",
-   "koreanName": "그날성형외과"
+   "koreanName": "그날성형외과",
+   "rating": 3.8,
+   "reviewCount": 254
   },
   {
    "slug": "obbli-ps",
    "name": "Obbli Plastic Surgery",
    "tier": "gold",
-   "koreanName": "오블리성형외과"
+   "koreanName": "오블리성형외과",
+   "rating": 4.5,
+   "reviewCount": 240
   },
   {
    "slug": "om-ps",
    "name": "OM Plastic Surgery",
    "tier": "gold",
-   "koreanName": "오엠성형외과"
+   "koreanName": "오엠성형외과",
+   "rating": 3.2,
+   "reviewCount": 197
   },
   {
    "slug": "miho-ps",
    "name": "Miho Plastic Surgery",
    "tier": "gold",
-   "koreanName": "미호성형외과"
+   "koreanName": "미호성형외과",
+   "rating": 4.8,
+   "reviewCount": 197
   },
   {
    "slug": "start-ps",
    "name": "Start Plastic Surgery",
    "tier": "gold",
-   "koreanName": "스타트성형외과"
+   "koreanName": "스타트성형외과",
+   "rating": 4.8,
+   "reviewCount": 186
   },
   {
    "slug": "ab-ps",
    "name": "AB Plastic Surgery",
    "tier": "gold",
-   "koreanName": "에이비성형외과"
+   "koreanName": "에이비성형외과",
+   "rating": 4.8,
+   "reviewCount": 182
   },
   {
    "slug": "itsb-clinic",
    "name": "It’sB Clinic",
    "tier": "gold",
-   "koreanName": "잇츠비의원"
+   "koreanName": "잇츠비의원",
+   "rating": 4.7,
+   "reviewCount": 171
   },
   {
    "slug": "private-ps",
    "name": "Private Plastic Surgery",
    "tier": "gold",
-   "koreanName": "프라이빗성형외과"
+   "koreanName": "프라이빗성형외과",
+   "rating": 3.6,
+   "reviewCount": 166
   },
   {
    "slug": "wave-clinic",
    "name": "Wave Clinic",
    "tier": "gold",
-   "koreanName": "웨이브의원"
+   "koreanName": "웨이브의원",
+   "rating": 4.9,
+   "reviewCount": 150
   },
   {
    "slug": "dress-ps",
    "name": "Dress Plastic Surgery",
    "tier": "gold",
-   "koreanName": "드레스성형외과"
+   "koreanName": "드레스성형외과",
+   "rating": 4.6,
+   "reviewCount": 114
   },
   {
    "slug": "rovl-avenue-clinic",
    "name": "Rovl Avenue Clinic",
    "tier": "gold",
-   "koreanName": "로블에비뉴의원"
+   "koreanName": "로블에비뉴의원",
+   "rating": 4.2,
+   "reviewCount": 112
   },
   {
    "slug": "dana-ps",
    "name": "Dana Plastic Surgery",
    "tier": "gold",
-   "koreanName": "다나성형외과"
+   "koreanName": "다나성형외과",
+   "rating": 3.9,
+   "reviewCount": 109
   },
   {
    "slug": "deese-ps",
    "name": "Deese Plastic Surgery",
    "tier": "gold",
-   "koreanName": "청담여신성형외과"
+   "koreanName": "청담여신성형외과",
+   "rating": 4.5,
+   "reviewCount": 78
   },
   {
    "slug": "lim-ee-seok-dermatologic-clinic",
    "name": "LIM EE SEOK dermatologic clinic",
    "tier": "gold",
-   "koreanName": "임이석테마피부과"
+   "koreanName": "임이석테마피부과",
+   "rating": 4.4,
+   "reviewCount": 75
   },
   {
    "slug": "hyundai-aesthetic-ps",
    "name": "Hyundai Aesthetic Plastic Surgery",
    "tier": "gold",
-   "koreanName": "현대미학성형외과"
+   "koreanName": "현대미학성형외과",
+   "rating": 4.9,
+   "reviewCount": 50
   },
   {
    "slug": "urban-ps",
    "name": "Urban Plastic Surgery",
    "tier": "gold",
-   "koreanName": "어반성형외과"
+   "koreanName": "어반성형외과",
+   "rating": 5,
+   "reviewCount": 46
   },
   {
    "slug": "ucanb-ps",
    "name": "Ucanb Plastic Surgery",
    "tier": "gold",
-   "koreanName": "유캔비성형외과"
+   "koreanName": "유캔비성형외과",
+   "rating": 4.4,
+   "reviewCount": 40
   },
   {
    "slug": "reandre-ps",
    "name": "Re&Re Plastic Surgery",
    "tier": "gold",
-   "koreanName": "리앤리성형외과"
+   "koreanName": "리앤리성형외과",
+   "rating": 4.5,
+   "reviewCount": 34
   },
   {
    "slug": "okay-ps",
    "name": "Okay Plastic Surgery",
    "tier": "gold",
-   "koreanName": "오케이성형외과"
+   "koreanName": "오케이성형외과",
+   "rating": 3.4,
+   "reviewCount": 14
   },
   {
    "slug": "luarc-ps",
    "name": "Luarc Plastic Surgery",
    "tier": "gold",
-   "koreanName": "루아크성형외과"
+   "koreanName": "루아크성형외과",
+   "rating": 4.4,
+   "reviewCount": 14
   },
   {
    "slug": "machimpyo-ps",
    "name": "Machimpyo Plastic Surgery",
    "tier": "gold",
-   "koreanName": "마침표성형외과"
+   "koreanName": "마침표성형외과",
+   "rating": 4.5,
+   "reviewCount": 11
   },
   {
    "slug": "onair-ps",
    "name": "Onair Plastic Surgery",
    "tier": "gold",
-   "koreanName": "온에어성형외과"
+   "koreanName": "온에어성형외과",
+   "rating": 4.5,
+   "reviewCount": 8
   },
   {
    "slug": "omega-ps",
    "name": "Omega Plastic Surgery",
    "tier": "gold",
-   "koreanName": "오메가성형외과"
+   "koreanName": "오메가성형외과",
+   "rating": 4.4,
+   "reviewCount": 8
   },
   {
    "slug": "cookie-ps",
    "name": "Cookie Plastic Surgery",
    "tier": "gold",
-   "koreanName": "쿠키성형외과"
+   "koreanName": "쿠키성형외과",
+   "rating": 4.3,
+   "reviewCount": 7
   },
   {
    "slug": "k-ps",
    "name": "K Plastic Surgery",
    "tier": "gold",
-   "koreanName": "케이성형외과"
+   "koreanName": "케이성형외과",
+   "rating": 4.5,
+   "reviewCount": 3
   },
   {
    "slug": "unique-ps",
    "name": "Unique Plastic Surgery",
    "tier": "gold",
-   "koreanName": "유니크성형외과"
+   "koreanName": "유니크성형외과",
+   "rating": null,
+   "reviewCount": null
   },
   {
    "slug": "vn-ps",
    "name": "VN Plastic Surgery",
    "tier": "gold",
-   "koreanName": "브이엔성형외과"
+   "koreanName": "브이엔성형외과",
+   "rating": null,
+   "reviewCount": null
   },
   {
    "slug": "reslim-clinic",
    "name": "Reslim Clinic",
    "tier": "gold",
-   "koreanName": "리슬림의원"
+   "koreanName": "리슬림의원",
+   "rating": null,
+   "reviewCount": null
   },
   {
    "slug": "wooahin-ps",
    "name": "Wooahin Plastic Surgery",
    "tier": "gold",
-   "koreanName": "우아인성형외과"
+   "koreanName": "우아인성형외과",
+   "rating": null,
+   "reviewCount": null
   },
   {
    "slug": "snow-clinic",
    "name": "Snow Clinic",
    "tier": "gold",
-   "koreanName": "스노우의원"
+   "koreanName": "스노우의원",
+   "rating": null,
+   "reviewCount": null
   },
   {
    "slug": "qline-clinic",
    "name": "Qline Clinic",
    "tier": "gold",
-   "koreanName": "큐라인여성의원"
+   "koreanName": "큐라인여성의원",
+   "rating": null,
+   "reviewCount": null
   },
   {
    "slug": "pleasure-ps",
    "name": "Pleasure Plastic Surgery",
    "tier": "gold",
-   "koreanName": "플레저성형외과"
+   "koreanName": "플레저성형외과",
+   "rating": null,
+   "reviewCount": null
   },
   {
    "slug": "g-clinic",
    "name": "G clinic",
    "tier": "gold",
-   "koreanName": null
+   "koreanName": null,
+   "rating": null,
+   "reviewCount": null
   },
   {
    "slug": "luho-ps",
    "name": "Luho Plastic Surgery",
    "tier": "gold",
-   "koreanName": "루호성형외과"
+   "koreanName": "루호성형외과",
+   "rating": null,
+   "reviewCount": null
   },
   {
    "slug": "ittem-ps",
    "name": "Ittem Plastic Surgery",
    "tier": "gold",
-   "koreanName": "잇템성형외과"
+   "koreanName": "잇템성형외과",
+   "rating": null,
+   "reviewCount": null
   },
   {
    "slug": "first-button-clinic",
    "name": "First Button Clinic",
    "tier": "gold",
-   "koreanName": "첫단추의원"
+   "koreanName": "첫단추의원",
+   "rating": null,
+   "reviewCount": null
   },
   {
    "slug": "moon-clinic",
    "name": "Moon Clinic",
    "tier": "silver",
-   "koreanName": "문클리닉"
+   "koreanName": "문클리닉",
+   "rating": 4.6,
+   "reviewCount": 33679
   },
   {
    "slug": "macs-dental-clinic",
    "name": "MACS Dental Clinic",
    "tier": "silver",
-   "koreanName": "맥스구강악안면외과"
+   "koreanName": "맥스구강악안면외과",
+   "rating": 4.8,
+   "reviewCount": 29132
   },
   {
    "slug": "cocoline-clinic",
    "name": "Cocoline clinic",
    "tier": "silver",
-   "koreanName": "코코라인의원"
+   "koreanName": "코코라인의원",
+   "rating": 4.6,
+   "reviewCount": 26642
   },
   {
    "slug": "glam-clinic",
    "name": "Glam Clinic",
    "tier": "silver",
-   "koreanName": "글램외과"
+   "koreanName": "글램외과",
+   "rating": 4.7,
+   "reviewCount": 19497
   },
   {
    "slug": "must-ps",
    "name": "Must Plastic Surgery",
    "tier": "silver",
-   "koreanName": "머스트성형외과"
+   "koreanName": "머스트성형외과",
+   "rating": 4.7,
+   "reviewCount": 17227
   },
   {
    "slug": "dite-ps",
    "name": "Dite Plastic Surgery",
    "tier": "silver",
-   "koreanName": "디테성형외과"
+   "koreanName": "디테성형외과",
+   "rating": 4.6,
+   "reviewCount": 17207
   },
   {
    "slug": "mojerim-ps",
    "name": "Mojerim Plastic Surgery",
    "tier": "silver",
-   "koreanName": "모제림성형외과"
+   "koreanName": "모제림성형외과",
+   "rating": 4.4,
+   "reviewCount": 14582
   },
   {
    "slug": "cheongdam-slim-clinic",
    "name": "Cheongdam Slim Clinic",
    "tier": "silver",
-   "koreanName": "청담슬림의원"
+   "koreanName": "청담슬림의원",
+   "rating": 4.7,
+   "reviewCount": 8066
   },
   {
    "slug": "namu-ps-closed",
    "name": "Namu PS - closed",
    "tier": "silver",
-   "koreanName": "closed"
+   "koreanName": "closed",
+   "rating": 4.5,
+   "reviewCount": 7889
   },
   {
    "slug": "mvp-clinic-closed",
    "name": "MVP Clinic - closed",
    "tier": "silver",
-   "koreanName": "closed"
+   "koreanName": "closed",
+   "rating": 4.4,
+   "reviewCount": 7770
   },
   {
    "slug": "avant-ps",
    "name": "Avant Plastic Surgery",
    "tier": "silver",
-   "koreanName": "아반트성형외과"
+   "koreanName": "아반트성형외과",
+   "rating": 4.5,
+   "reviewCount": 7127
   },
   {
    "slug": "just-ps",
    "name": "Just Plastic Surgery",
    "tier": "silver",
-   "koreanName": "저스트성형외과"
+   "koreanName": "저스트성형외과",
+   "rating": 4.7,
+   "reviewCount": 6032
   },
   {
    "slug": "everm-dental-clinic",
    "name": "EverM Dental Clinic",
    "tier": "silver",
-   "koreanName": "에버엠치과"
+   "koreanName": "에버엠치과",
+   "rating": 4.7,
+   "reviewCount": 6015
   },
   {
    "slug": "seoul-face-21-dental-hospital",
    "name": "Seoul Face 21 Dental Hospital",
    "tier": "silver",
-   "koreanName": "서울페이스21치과병원"
+   "koreanName": "서울페이스21치과병원",
+   "rating": 4.6,
+   "reviewCount": 5565
   },
   {
    "slug": "custom-ps",
    "name": "Custom Plastic Surgery",
    "tier": "silver",
-   "koreanName": "커텀성형외과"
+   "koreanName": "커텀성형외과",
+   "rating": 4.4,
+   "reviewCount": 5473
   },
   {
    "slug": "likethefirsttime-ps",
    "name": "LiketheFirsttime Plastic Surgery",
    "tier": "silver",
-   "koreanName": "처음처럼성형외과"
+   "koreanName": "처음처럼성형외과",
+   "rating": 4.7,
+   "reviewCount": 3191
   },
   {
    "slug": "and-ps",
    "name": "AND Plastic Surgery",
    "tier": "silver",
-   "koreanName": "앤드성형외과"
+   "koreanName": "앤드성형외과",
+   "rating": 4.5,
+   "reviewCount": 2530
   },
   {
    "slug": "dday-ps",
    "name": "Dday Plastic Surgery",
    "tier": "silver",
-   "koreanName": "디데이성형외과"
+   "koreanName": "디데이성형외과",
+   "rating": 4.5,
+   "reviewCount": 2038
   },
   {
    "slug": "dr-creamy-clinic",
    "name": "Dr. Creamy Clinic",
    "tier": "silver",
-   "koreanName": "닥터크리미의원"
+   "koreanName": "닥터크리미의원",
+   "rating": 4.6,
+   "reviewCount": 1832
   },
   {
    "slug": "daprs-clinicda-same",
    "name": "DAPRS Clinic (DA same)",
    "tier": "silver",
-   "koreanName": "Same with DA clinic"
+   "koreanName": "Same with DA clinic",
+   "rating": 4.6,
+   "reviewCount": 1622
   },
   {
    "slug": "2yd-dental-clinic",
    "name": "2yd Dental Clinic",
    "tier": "silver",
-   "koreanName": "양윤돌구강악안면외과"
+   "koreanName": "양윤돌구강악안면외과",
+   "rating": 4.8,
+   "reviewCount": 908
   },
   {
    "slug": "iou-ps",
    "name": "IOU Plastic Surgery",
    "tier": "silver",
-   "koreanName": "아이오유성형외과"
+   "koreanName": "아이오유성형외과",
+   "rating": 4.4,
+   "reviewCount": 806
   },
   {
    "slug": "mate-ps",
    "name": "Mate Plastic Surgery",
    "tier": "silver",
-   "koreanName": "메이트성형외과"
+   "koreanName": "메이트성형외과",
+   "rating": 4.5,
+   "reviewCount": 611
   },
   {
    "slug": "bk-ps",
    "name": "BK Plastic Surgery",
    "tier": "silver",
-   "koreanName": "비케이성형외과"
+   "koreanName": "비케이성형외과",
+   "rating": 4.7,
+   "reviewCount": 558
   },
   {
    "slug": "batang-ps",
    "name": "Batang Plastic Surgery",
    "tier": "silver",
-   "koreanName": "바탕성형외과"
+   "koreanName": "바탕성형외과",
+   "rating": 4,
+   "reviewCount": 406
   },
   {
    "slug": "baroko-clinic",
    "name": "Baroko Clinic",
    "tier": "silver",
-   "koreanName": "바로코의원"
+   "koreanName": "바로코의원",
+   "rating": 3.6,
+   "reviewCount": 262
   },
   {
    "slug": "mine-ps",
    "name": "Mine Plastic Surgery",
    "tier": "silver",
-   "koreanName": "마인성형외과"
+   "koreanName": "마인성형외과",
+   "rating": 4.8,
+   "reviewCount": 229
   },
   {
    "slug": "igram-ps",
    "name": "Igram Plastic Surgery",
    "tier": "silver",
-   "koreanName": "아이그램성형외과"
+   "koreanName": "아이그램성형외과",
+   "rating": 4.2,
+   "reviewCount": 160
   },
   {
    "slug": "like-ps-2",
    "name": "Like Plastic Surgery",
    "tier": "silver",
-   "koreanName": "라이크성형외과"
+   "koreanName": "라이크성형외과",
+   "rating": 4.9,
+   "reviewCount": 112
   },
   {
    "slug": "like-ps",
    "name": "Like Plastic Surgery",
    "tier": "silver",
-   "koreanName": "라이크성형외과"
+   "koreanName": "라이크성형외과",
+   "rating": 4.9,
+   "reviewCount": 112
   },
   {
    "slug": "bbae-clinic",
    "name": "Bbae Clinic",
    "tier": "silver",
-   "koreanName": "뽐나게빼의원"
+   "koreanName": "뽐나게빼의원",
+   "rating": 4.9,
+   "reviewCount": 98
   },
   {
    "slug": "momo-ps",
    "name": "Momo Plastic Surgery",
    "tier": "silver",
-   "koreanName": "모모성형외과"
+   "koreanName": "모모성형외과",
+   "rating": 4.6,
+   "reviewCount": 72
   },
   {
    "slug": "cheongdam-ok-ps",
    "name": "Cheongdam OK Plastic Surgery",
    "tier": "silver",
-   "koreanName": "청담오케이성형외과"
+   "koreanName": "청담오케이성형외과",
+   "rating": 3.4,
+   "reviewCount": 14
   },
   {
    "slug": "drjin-ent-clinic",
    "name": "Dr.Jin ENT Clinic",
    "tier": "silver",
-   "koreanName": "닥터진이비인후과의원"
+   "koreanName": "닥터진이비인후과의원",
+   "rating": 3.5,
+   "reviewCount": 11
   },
   {
    "slug": "daruem-ps",
    "name": "Daruem Plastic Surgery",
    "tier": "silver",
-   "koreanName": "다름성형외과"
+   "koreanName": "다름성형외과",
+   "rating": 4.4,
+   "reviewCount": 7
   },
   {
    "slug": "cohen-clinic",
    "name": "Cohen Clinic",
    "tier": "silver",
-   "koreanName": "코헨의원"
+   "koreanName": "코헨의원",
+   "rating": 3.2,
+   "reviewCount": 5
   },
   {
    "slug": "nslim-clinic",
    "name": "Nslim Clinic",
    "tier": "silver",
-   "koreanName": "엔슬림의원"
+   "koreanName": "엔슬림의원",
+   "rating": 5,
+   "reviewCount": 5
   },
   {
    "slug": "lively-ps",
    "name": "Lively Plastic Surgery",
    "tier": "silver",
-   "koreanName": "라이블리성형외과"
+   "koreanName": "라이블리성형외과",
+   "rating": 4.4,
+   "reviewCount": 3
   },
   {
    "slug": "facebone-ps",
    "name": "Facebone Plastic Surgery",
    "tier": "silver",
-   "koreanName": "얼굴본성형외과"
+   "koreanName": "얼굴본성형외과",
+   "rating": 4,
+   "reviewCount": 2
   },
   {
    "slug": "chic-ps",
    "name": "Chic Plastic Surgery",
    "tier": "silver",
-   "koreanName": "시크성형외과"
+   "koreanName": "시크성형외과",
+   "rating": 5,
+   "reviewCount": 1
   },
   {
    "slug": "midas-clinicgangnam",
    "name": "Midas Clinic (Gangnam)",
    "tier": "silver",
-   "koreanName": "미다스의원"
+   "koreanName": "미다스의원",
+   "rating": null,
+   "reviewCount": null
   },
   {
    "slug": "chamin-ps",
    "name": "Chamin Plastic Surgery",
    "tier": "silver",
-   "koreanName": "차민성형외과"
+   "koreanName": "차민성형외과",
+   "rating": null,
+   "reviewCount": null
   },
   {
    "slug": "onlif-ps",
    "name": "Onlif Plastic Surgery",
    "tier": "silver",
-   "koreanName": "온리프성형외과"
+   "koreanName": "온리프성형외과",
+   "rating": null,
+   "reviewCount": null
   }
  ]
 }
