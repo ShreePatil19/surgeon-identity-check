@@ -1,0 +1,4209 @@
+{
+ "source": "https://gangnambeautyguide.com/en/doctors/",
+ "fetchedAt": "2026-10-04T09:06:06.420Z",
+ "doctors": [
+  {
+   "slug": "dr-87",
+   "romanizedName": "A-Ra Kim",
+   "koreanName": "김아라",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-349",
+   "romanizedName": "A-Young Yoon",
+   "koreanName": "윤아영",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-393",
+   "romanizedName": "An-Yeong Ryu",
+   "koreanName": "류안영",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.8,
+   "reviewCount": 2068
+  },
+  {
+   "slug": "dr-123",
+   "romanizedName": "Anh",
+   "koreanName": "",
+   "specialty": "Specialist",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-335",
+   "romanizedName": "Ba-Reun Han",
+   "koreanName": "한바른",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.8,
+   "reviewCount": 278
+  },
+  {
+   "slug": "dr-461",
+   "romanizedName": "Barn Jae Sang",
+   "koreanName": "",
+   "specialty": "Specialist",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-48",
+   "romanizedName": "Beom-Sin Seo",
+   "koreanName": "서범신",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.9,
+   "reviewCount": 1445
+  },
+  {
+   "slug": "dr-112",
+   "romanizedName": "Bo-Hee Yang",
+   "koreanName": "양보희",
+   "specialty": "Dermatology",
+   "classification": "platform_verified",
+   "rating": 0,
+   "reviewCount": 24
+  },
+  {
+   "slug": "dr-171",
+   "romanizedName": "Bo-Hyung Lee",
+   "koreanName": "이보형",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.85,
+   "reviewCount": 1554
+  },
+  {
+   "slug": "dr-430",
+   "romanizedName": "Bo-Yeong Kang",
+   "koreanName": "강보영",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-333",
+   "romanizedName": "Bong-Sik Kwon",
+   "koreanName": "권봉식",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-165",
+   "romanizedName": "Bum-Jin Park",
+   "koreanName": "박범진",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-256",
+   "romanizedName": "Bum-Sik Bang",
+   "koreanName": "방범식",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-51",
+   "romanizedName": "Byeong-Hoe Lee",
+   "koreanName": "이병희",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-299",
+   "romanizedName": "Byeong-Soo Kang",
+   "koreanName": "강병수",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.9,
+   "reviewCount": 1268
+  },
+  {
+   "slug": "dr-50",
+   "romanizedName": "Byung-Chan Park",
+   "koreanName": "박병찬",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.95,
+   "reviewCount": 1562
+  },
+  {
+   "slug": "dr-24",
+   "romanizedName": "Byung-Hyun Kim",
+   "koreanName": "김병현",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-76",
+   "romanizedName": "Cha-Young Kang",
+   "koreanName": "강차영",
+   "specialty": "",
+   "classification": "listed",
+   "rating": 3.5,
+   "reviewCount": 217
+  },
+  {
+   "slug": "dr-260",
+   "romanizedName": "Chae-Min Kim",
+   "koreanName": "김채민",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-62",
+   "romanizedName": "Chan Kwon",
+   "koreanName": "권찬",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-134",
+   "romanizedName": "Chan Kwon",
+   "koreanName": "권찬",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-10",
+   "romanizedName": "Chan-Eol Seo",
+   "koreanName": "이정환",
+   "specialty": "",
+   "classification": "listed",
+   "rating": 4.7,
+   "reviewCount": 118
+  },
+  {
+   "slug": "dr-20",
+   "romanizedName": "Chan-Woo Kim",
+   "koreanName": "김찬우",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.7,
+   "reviewCount": 299
+  },
+  {
+   "slug": "dr-221",
+   "romanizedName": "Chan-Young Park",
+   "koreanName": "박찬용",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-328",
+   "romanizedName": "Chang",
+   "koreanName": "",
+   "specialty": "Specialist",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-465",
+   "romanizedName": "Chang Hyung",
+   "koreanName": "",
+   "specialty": "Specialist",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-269",
+   "romanizedName": "Chang-Gyun Kang",
+   "koreanName": "강창균",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.8,
+   "reviewCount": 1088
+  },
+  {
+   "slug": "dr-173",
+   "romanizedName": "Chang-Heon Hwang",
+   "koreanName": "황창헌",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.85,
+   "reviewCount": 430
+  },
+  {
+   "slug": "dr-384",
+   "romanizedName": "Chang-Hwan Lee",
+   "koreanName": "이창환",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-386",
+   "romanizedName": "Chang-Sik Seo",
+   "koreanName": "서창식",
+   "specialty": "",
+   "classification": "listed",
+   "rating": 4.75,
+   "reviewCount": 113
+  },
+  {
+   "slug": "dr-96",
+   "romanizedName": "Chang-Woon Yun",
+   "koreanName": "윤장운",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-352",
+   "romanizedName": "Cheol-u Park",
+   "koreanName": "박철우",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.9,
+   "reviewCount": 1228
+  },
+  {
+   "slug": "dr-281",
+   "romanizedName": "Cheon-Ho Song",
+   "koreanName": "송천호",
+   "specialty": "Plastic Surgery",
+   "classification": "platform_verified",
+   "rating": 4.8,
+   "reviewCount": 1009
+  },
+  {
+   "slug": "dr-391",
+   "romanizedName": "Cheong-Hui Lee",
+   "koreanName": "이청희",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-115",
+   "romanizedName": "Chi",
+   "koreanName": "",
+   "specialty": "Specialist",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-452",
+   "romanizedName": "Chi Young Bang",
+   "koreanName": "",
+   "specialty": "Specialist",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-445",
+   "romanizedName": "Chul Hwan Seul",
+   "koreanName": "",
+   "specialty": "Specialist",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-314",
+   "romanizedName": "Chul-Ho Jang",
+   "koreanName": "장철호",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.75,
+   "reviewCount": 2650
+  },
+  {
+   "slug": "dr-131",
+   "romanizedName": "Creamy",
+   "koreanName": "",
+   "specialty": "Specialist",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-77",
+   "romanizedName": "Da-Arm Kim",
+   "koreanName": "김다앎",
+   "specialty": "",
+   "classification": "board_certified",
+   "rating": 4.7,
+   "reviewCount": 596
+  },
+  {
+   "slug": "dr-205",
+   "romanizedName": "Da-Eun Lee",
+   "koreanName": "이다은",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-376",
+   "romanizedName": "Da-Han Kim",
+   "koreanName": "김다한",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.6,
+   "reviewCount": 286
+  },
+  {
+   "slug": "dr-75",
+   "romanizedName": "Dae-Gwang Lee",
+   "koreanName": "이대광",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-209",
+   "romanizedName": "Deok-Jun Park",
+   "koreanName": "박덕준",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.8,
+   "reviewCount": 473
+  },
+  {
+   "slug": "dr-433",
+   "romanizedName": "Deok-Jung Kim",
+   "koreanName": "김덕중",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.8,
+   "reviewCount": 406
+  },
+  {
+   "slug": "dr-113",
+   "romanizedName": "Do",
+   "koreanName": "",
+   "specialty": "Specialist",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-98",
+   "romanizedName": "Do-Hyung Kim",
+   "koreanName": "김도형",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.85,
+   "reviewCount": 192
+  },
+  {
+   "slug": "dr-192",
+   "romanizedName": "Do-Jin Hyun",
+   "koreanName": "현도진",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-185",
+   "romanizedName": "Do-Yeon Kim",
+   "koreanName": "김도연",
+   "specialty": "Plastic Surgery",
+   "classification": "platform_verified",
+   "rating": 4.8,
+   "reviewCount": 1445
+  },
+  {
+   "slug": "dr-94",
+   "romanizedName": "Dong-Chan Lee",
+   "koreanName": "이동찬",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.75,
+   "reviewCount": 2134
+  },
+  {
+   "slug": "dr-39",
+   "romanizedName": "Dong-Chan Lee",
+   "koreanName": "이동찬",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.75,
+   "reviewCount": 2134
+  },
+  {
+   "slug": "dr-218",
+   "romanizedName": "Dong-En Lee",
+   "koreanName": "이동은",
+   "specialty": "Plastic Surgery",
+   "classification": "platform_verified",
+   "rating": 4.75,
+   "reviewCount": 829
+  },
+  {
+   "slug": "dr-392",
+   "romanizedName": "Dong-Geol Kim",
+   "koreanName": "김동걸",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.9,
+   "reviewCount": 19100
+  },
+  {
+   "slug": "dr-16",
+   "romanizedName": "Dong-Gwon Park",
+   "koreanName": "박동권",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.45,
+   "reviewCount": 2328
+  },
+  {
+   "slug": "dr-345",
+   "romanizedName": "Dong-Hak Jung",
+   "koreanName": "정동학",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-106",
+   "romanizedName": "Dong-Hoon Lee",
+   "koreanName": "이동훈",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-108",
+   "romanizedName": "Dong-Kyu Lee",
+   "koreanName": "이동규",
+   "specialty": "Plastic Surgery",
+   "classification": "platform_verified",
+   "rating": 4.85,
+   "reviewCount": 296
+  },
+  {
+   "slug": "dr-334",
+   "romanizedName": "Dong-Seok Oh",
+   "koreanName": "오동석",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.5,
+   "reviewCount": 745
+  },
+  {
+   "slug": "dr-277",
+   "romanizedName": "Dong-Wan Ryu",
+   "koreanName": "류동완",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.75,
+   "reviewCount": 1786
+  },
+  {
+   "slug": "dr-181",
+   "romanizedName": "Dong-Woo Jung",
+   "koreanName": "정동우",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.8,
+   "reviewCount": 3979
+  },
+  {
+   "slug": "dr-261",
+   "romanizedName": "Dong-Woo Nam",
+   "koreanName": "남동우",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.75,
+   "reviewCount": 496
+  },
+  {
+   "slug": "dr-66",
+   "romanizedName": "Dong-Yeon Hwang",
+   "koreanName": "황동연",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.55,
+   "reviewCount": 1064
+  },
+  {
+   "slug": "dr-425",
+   "romanizedName": "Dong-Yun Yang",
+   "koreanName": "양동윤",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-3",
+   "romanizedName": "Eon-Rok Do",
+   "koreanName": "도언록",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-360",
+   "romanizedName": "Eun-Gyu Choi",
+   "koreanName": "최은규",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-105",
+   "romanizedName": "Eun-Seok Koh",
+   "koreanName": "고은석",
+   "specialty": "ENT (Ear, Nose & Throat)",
+   "classification": "platform_verified",
+   "rating": 4.7,
+   "reviewCount": 825
+  },
+  {
+   "slug": "dr-423",
+   "romanizedName": "Eun-Seong Seo",
+   "koreanName": "서은성",
+   "specialty": "",
+   "classification": "listed",
+   "rating": 4.95,
+   "reviewCount": 376
+  },
+  {
+   "slug": "dr-339",
+   "romanizedName": "Eung-Sam Kim",
+   "koreanName": "김응삼",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.75,
+   "reviewCount": 1260
+  },
+  {
+   "slug": "dr-432",
+   "romanizedName": "Eung-Yeol Ko",
+   "koreanName": "고응열",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.85,
+   "reviewCount": 313
+  },
+  {
+   "slug": "dr-396",
+   "romanizedName": "Gang-San Joo",
+   "koreanName": "주강산",
+   "specialty": "Plastic Surgery",
+   "classification": "platform_verified",
+   "rating": 4.55,
+   "reviewCount": 1335
+  },
+  {
+   "slug": "dr-60",
+   "romanizedName": "Gang-Woo Lee",
+   "koreanName": "이강우",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.6,
+   "reviewCount": 999
+  },
+  {
+   "slug": "dr-248",
+   "romanizedName": "Geun-Soek Lee",
+   "koreanName": "이근석",
+   "specialty": "ENT (Ear, Nose & Throat)",
+   "classification": "platform_verified",
+   "rating": 4.55,
+   "reviewCount": 87
+  },
+  {
+   "slug": "dr-379",
+   "romanizedName": "Gi-Ung Kim",
+   "koreanName": "김기웅",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.95,
+   "reviewCount": 2973
+  },
+  {
+   "slug": "dr-342",
+   "romanizedName": "Gwang-sik Jung",
+   "koreanName": "정광식",
+   "specialty": "Plastic Surgery",
+   "classification": "platform_verified",
+   "rating": 4.35,
+   "reviewCount": 90
+  },
+  {
+   "slug": "dr-259",
+   "romanizedName": "Gwi-Yong Park",
+   "koreanName": "박귀용",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-216",
+   "romanizedName": "Gyu-Sik Yoon",
+   "koreanName": "윤규식",
+   "specialty": "구강악안면외과",
+   "classification": "platform_verified",
+   "rating": 5,
+   "reviewCount": 1
+  },
+  {
+   "slug": "dr-296",
+   "romanizedName": "Ha-Jin Kim",
+   "koreanName": "김하진",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-91",
+   "romanizedName": "Hae-Ho Aum",
+   "koreanName": "엄해호",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-411",
+   "romanizedName": "Hae-Won Kang",
+   "koreanName": "강혜원",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.9,
+   "reviewCount": 3348
+  },
+  {
+   "slug": "dr-43",
+   "romanizedName": "Hae-Won Yang",
+   "koreanName": "양해원",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.75,
+   "reviewCount": 1641
+  },
+  {
+   "slug": "dr-152",
+   "romanizedName": "Hak-Soo Kim",
+   "koreanName": "김학수",
+   "specialty": "Plastic Surgery",
+   "classification": "platform_verified",
+   "rating": 4.4,
+   "reviewCount": 136
+  },
+  {
+   "slug": "dr-118",
+   "romanizedName": "Han",
+   "koreanName": "",
+   "specialty": "Specialist",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-460",
+   "romanizedName": "Han Kyu Nam",
+   "koreanName": "",
+   "specialty": "Specialist",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-15",
+   "romanizedName": "Han-Byeol Lee",
+   "koreanName": "이한별",
+   "specialty": "Plastic Surgery",
+   "classification": "platform_verified",
+   "rating": 4.75,
+   "reviewCount": 899
+  },
+  {
+   "slug": "dr-383",
+   "romanizedName": "Han-Eol Lee",
+   "koreanName": "이한얼",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-223",
+   "romanizedName": "Han-Jo Kim",
+   "koreanName": "김한조",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.9,
+   "reviewCount": 4678
+  },
+  {
+   "slug": "dr-21",
+   "romanizedName": "Han-Jung Lee",
+   "koreanName": "이한정",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.9,
+   "reviewCount": 910
+  },
+  {
+   "slug": "dr-263",
+   "romanizedName": "Han-Kyeol Kim",
+   "koreanName": "김한결",
+   "specialty": "ENT (Ear, Nose & Throat)",
+   "classification": "board_certified",
+   "rating": 4.65,
+   "reviewCount": 302
+  },
+  {
+   "slug": "dr-347",
+   "romanizedName": "Han-Wool Choung",
+   "koreanName": "정한울",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-464",
+   "romanizedName": "Hark Young",
+   "koreanName": "",
+   "specialty": "Specialist",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-163",
+   "romanizedName": "Hee-Jae Yang",
+   "koreanName": "양희재",
+   "specialty": "Plastic Surgery",
+   "classification": "platform_verified",
+   "rating": 4.7,
+   "reviewCount": 3650
+  },
+  {
+   "slug": "dr-150",
+   "romanizedName": "Hee-Jun Min",
+   "koreanName": "민희준",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.55,
+   "reviewCount": 362
+  },
+  {
+   "slug": "dr-180",
+   "romanizedName": "Ho Hwang",
+   "koreanName": "황호",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.85,
+   "reviewCount": 1066
+  },
+  {
+   "slug": "dr-26",
+   "romanizedName": "Ho-Bin Lee",
+   "koreanName": "이호빈",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-390",
+   "romanizedName": "Ho-Jun Kim",
+   "koreanName": "김호준",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.75,
+   "reviewCount": 1402
+  },
+  {
+   "slug": "dr-88",
+   "romanizedName": "Ho-Jun Lee",
+   "koreanName": "이호준",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.45,
+   "reviewCount": 3129
+  },
+  {
+   "slug": "dr-194",
+   "romanizedName": "Ho-Jun Lee",
+   "koreanName": "이호준",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.45,
+   "reviewCount": 3129
+  },
+  {
+   "slug": "dr-74",
+   "romanizedName": "Ho-Seong Son",
+   "koreanName": "손호승",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-126",
+   "romanizedName": "Hong",
+   "koreanName": "",
+   "specialty": "Specialist",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-1",
+   "romanizedName": "Hong-Jin Kim",
+   "koreanName": "김홍진",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-337",
+   "romanizedName": "Hong-Ryul Jin",
+   "koreanName": "진홍률",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-367",
+   "romanizedName": "Hoon Kim",
+   "koreanName": "김훈",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-207",
+   "romanizedName": "Hoon Song",
+   "koreanName": "송훈",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.75,
+   "reviewCount": 2903
+  },
+  {
+   "slug": "dr-370",
+   "romanizedName": "Hu-Seok Park",
+   "koreanName": "박후석",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-416",
+   "romanizedName": "Hui-Eun Jo",
+   "koreanName": "조희은",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.9,
+   "reviewCount": 1987
+  },
+  {
+   "slug": "dr-448",
+   "romanizedName": "Hwan Kim",
+   "koreanName": "",
+   "specialty": "Specialist",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-182",
+   "romanizedName": "Hye-Jin Yang",
+   "koreanName": "양혜진",
+   "specialty": "Family Medicine",
+   "classification": "platform_verified",
+   "rating": 4.7,
+   "reviewCount": 277
+  },
+  {
+   "slug": "dr-188",
+   "romanizedName": "Hye-Re Lee",
+   "koreanName": "이혜리",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-348",
+   "romanizedName": "Hye-Won Hwang",
+   "koreanName": "황혜원",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-196",
+   "romanizedName": "Hye-Young Kim",
+   "koreanName": "김혜영",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-80",
+   "romanizedName": "Hye-Young Moon",
+   "koreanName": "문지영",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-466",
+   "romanizedName": "Hyeon",
+   "koreanName": "",
+   "specialty": "Specialist",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-63",
+   "romanizedName": "Hyeon-Geon Lee",
+   "koreanName": "이현근",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-133",
+   "romanizedName": "Hyeon-Geon Lee",
+   "koreanName": "이현건",
+   "specialty": "Plastic Surgery",
+   "classification": "platform_verified",
+   "rating": 4.8,
+   "reviewCount": 688
+  },
+  {
+   "slug": "dr-417",
+   "romanizedName": "Hyeon-Ju Seong",
+   "koreanName": "성현주",
+   "specialty": "",
+   "classification": "listed",
+   "rating": 4.85,
+   "reviewCount": 1898
+  },
+  {
+   "slug": "dr-86",
+   "romanizedName": "Hyeong-Seok Kim",
+   "koreanName": "김형석",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.5,
+   "reviewCount": 8096
+  },
+  {
+   "slug": "dr-429",
+   "romanizedName": "Hyeong-Seok Moon",
+   "koreanName": "문형석",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-156",
+   "romanizedName": "Hyeong-Taek Kim",
+   "koreanName": "김형택",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.85,
+   "reviewCount": 549
+  },
+  {
+   "slug": "dr-292",
+   "romanizedName": "Hyeong-Yoon Choi",
+   "koreanName": "최형윤",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-389",
+   "romanizedName": "Hyeun-Woo Suh",
+   "koreanName": "서현우",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.7,
+   "reviewCount": 1261
+  },
+  {
+   "slug": "dr-141",
+   "romanizedName": "Hyo-Seok Seo",
+   "koreanName": "서효석",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-146",
+   "romanizedName": "Hyo-Sun Ko",
+   "koreanName": "고효선",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-110",
+   "romanizedName": "Hyuk-Kyu Choi",
+   "koreanName": "최혁규",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.95,
+   "reviewCount": 3110
+  },
+  {
+   "slug": "dr-211",
+   "romanizedName": "Hyun-Cheol Park",
+   "koreanName": "박현철",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-293",
+   "romanizedName": "Hyun-Je Lim",
+   "koreanName": "임현제",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-262",
+   "romanizedName": "Hyun-Joo Kim",
+   "koreanName": "김현주",
+   "specialty": "Family Medicine",
+   "classification": "board_certified",
+   "rating": 4.6,
+   "reviewCount": 124
+  },
+  {
+   "slug": "dr-268",
+   "romanizedName": "Hyun-Koo Kang",
+   "koreanName": "강현구",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.75,
+   "reviewCount": 1502
+  },
+  {
+   "slug": "dr-267",
+   "romanizedName": "Hyun-Kuk Ku",
+   "koreanName": "구현국",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.75,
+   "reviewCount": 2269
+  },
+  {
+   "slug": "dr-249",
+   "romanizedName": "Hyun-Sik Yoon",
+   "koreanName": "윤현식",
+   "specialty": "Plastic Surgery",
+   "classification": "platform_verified",
+   "rating": 4.85,
+   "reviewCount": 582
+  },
+  {
+   "slug": "dr-170",
+   "romanizedName": "Hyun-Soo Lee",
+   "koreanName": "이현수",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-169",
+   "romanizedName": "Hyun-Woo Cho",
+   "koreanName": "조현우",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.65,
+   "reviewCount": 2230
+  },
+  {
+   "slug": "dr-343",
+   "romanizedName": "Hyun-Wook Jung",
+   "koreanName": "정현욱",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.6,
+   "reviewCount": 616
+  },
+  {
+   "slug": "dr-92",
+   "romanizedName": "Hyung-Joon Kim",
+   "koreanName": "김형준",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.85,
+   "reviewCount": 132
+  },
+  {
+   "slug": "dr-65",
+   "romanizedName": "Hyung-Jun Kim",
+   "koreanName": "김형준",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.55,
+   "reviewCount": 939
+  },
+  {
+   "slug": "dr-44",
+   "romanizedName": "Hyung-Taek Kim",
+   "koreanName": "김형택",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.85,
+   "reviewCount": 549
+  },
+  {
+   "slug": "dr-53",
+   "romanizedName": "Il-Beom Seo",
+   "koreanName": "서일범",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.95,
+   "reviewCount": 1177
+  },
+  {
+   "slug": "dr-71",
+   "romanizedName": "Il-Hwan Kim",
+   "koreanName": "김일환",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-6",
+   "romanizedName": "In-Ho Bae",
+   "koreanName": "배인호",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.75,
+   "reviewCount": 3529
+  },
+  {
+   "slug": "dr-270",
+   "romanizedName": "In-Ho Lee",
+   "koreanName": "이인호",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.65,
+   "reviewCount": 1397
+  },
+  {
+   "slug": "dr-32",
+   "romanizedName": "In-Sang Kim",
+   "koreanName": "김인상",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-285",
+   "romanizedName": "In-Seop Geum",
+   "koreanName": "금인섭",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-235",
+   "romanizedName": "In-Soo Hwang",
+   "koreanName": "황인수",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-340",
+   "romanizedName": "In-Soo Seo",
+   "koreanName": "서인수",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.75,
+   "reviewCount": 712
+  },
+  {
+   "slug": "dr-252",
+   "romanizedName": "In-Soo Song",
+   "koreanName": "송인수",
+   "specialty": "Plastic Surgery",
+   "classification": "platform_verified",
+   "rating": 4.8,
+   "reviewCount": 602
+  },
+  {
+   "slug": "dr-236",
+   "romanizedName": "Jae-Hong Jung",
+   "koreanName": "정재홍",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-58",
+   "romanizedName": "Jae-Hoon Jung",
+   "koreanName": "정재훈",
+   "specialty": "ENT (Ear, Nose & Throat)",
+   "classification": "board_certified",
+   "rating": 4.85,
+   "reviewCount": 89
+  },
+  {
+   "slug": "dr-82",
+   "romanizedName": "Jae-Hoon Shin",
+   "koreanName": "신재훈",
+   "specialty": "",
+   "classification": "board_certified",
+   "rating": 4.4,
+   "reviewCount": 3558
+  },
+  {
+   "slug": "dr-385",
+   "romanizedName": "Jae-Hun Kim",
+   "koreanName": "김재훈",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.65,
+   "reviewCount": 125
+  },
+  {
+   "slug": "dr-17",
+   "romanizedName": "Jae-Hwan Kim",
+   "koreanName": "김재환",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-100",
+   "romanizedName": "Jae-Hyun Chung",
+   "koreanName": "정재현",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.8,
+   "reviewCount": 3190
+  },
+  {
+   "slug": "dr-282",
+   "romanizedName": "Jae-Ik Choi",
+   "koreanName": "최재익",
+   "specialty": "Plastic Surgery",
+   "classification": "platform_verified",
+   "rating": 4.8,
+   "reviewCount": 1034
+  },
+  {
+   "slug": "dr-213",
+   "romanizedName": "Jae-Il Lee",
+   "koreanName": "이재일",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-322",
+   "romanizedName": "Jae-Jin Ock",
+   "koreanName": "옥재진",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.7,
+   "reviewCount": 2788
+  },
+  {
+   "slug": "dr-151",
+   "romanizedName": "Jae-Min Park",
+   "koreanName": "박재민",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-318",
+   "romanizedName": "Jae-Sun Shim",
+   "koreanName": "심재선",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.95,
+   "reviewCount": 1059
+  },
+  {
+   "slug": "dr-323",
+   "romanizedName": "Jae-U Kim",
+   "koreanName": "김재우",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.7,
+   "reviewCount": 1162
+  },
+  {
+   "slug": "dr-274",
+   "romanizedName": "Jae-Won Kim",
+   "koreanName": "김재원",
+   "specialty": "Anesthesiology",
+   "classification": "platform_verified",
+   "rating": 4.65,
+   "reviewCount": 4
+  },
+  {
+   "slug": "dr-199",
+   "romanizedName": "Jae-Won Oh",
+   "koreanName": "오재원",
+   "specialty": "General Surgery",
+   "classification": "platform_verified",
+   "rating": 4.95,
+   "reviewCount": 771
+  },
+  {
+   "slug": "dr-253",
+   "romanizedName": "Jae-Won Seo",
+   "koreanName": "서재원",
+   "specialty": "",
+   "classification": "listed",
+   "rating": 4.85,
+   "reviewCount": 259
+  },
+  {
+   "slug": "dr-406",
+   "romanizedName": "Jae-Woon Lee",
+   "koreanName": "이재운",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.6,
+   "reviewCount": 568
+  },
+  {
+   "slug": "dr-255",
+   "romanizedName": "Jae-Yeong Bae",
+   "koreanName": "배재영",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.85,
+   "reviewCount": 1604
+  },
+  {
+   "slug": "dr-208",
+   "romanizedName": "Jae-Yong Song",
+   "koreanName": "송재영",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-422",
+   "romanizedName": "Jae-Young Lee",
+   "koreanName": "이재영",
+   "specialty": "",
+   "classification": "listed",
+   "rating": 4.9,
+   "reviewCount": 174
+  },
+  {
+   "slug": "dr-437",
+   "romanizedName": "Jang",
+   "koreanName": "",
+   "specialty": "Specialist",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-30",
+   "romanizedName": "Jang-Hwan Min",
+   "koreanName": "민장환",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-46",
+   "romanizedName": "Je-Bong Park",
+   "koreanName": "박재봉",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-240",
+   "romanizedName": "Je-Hyeon Park",
+   "koreanName": "박제현",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-57",
+   "romanizedName": "Je-Jun Lee",
+   "koreanName": "이재은",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-436",
+   "romanizedName": "Jeong Mi Sun",
+   "koreanName": "",
+   "specialty": "Specialist",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-147",
+   "romanizedName": "Jeong-Bae Kim",
+   "koreanName": "김정배",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.6,
+   "reviewCount": 468
+  },
+  {
+   "slug": "dr-399",
+   "romanizedName": "Jeong-Ha Gwak",
+   "koreanName": "곽정하",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-59",
+   "romanizedName": "Jeong-Heum Park",
+   "koreanName": "박정흠",
+   "specialty": "Plastic Surgery",
+   "classification": "platform_verified",
+   "rating": 4.9,
+   "reviewCount": 2657
+  },
+  {
+   "slug": "dr-244",
+   "romanizedName": "Jeong-Hoon Choi",
+   "koreanName": "최정훈",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-356",
+   "romanizedName": "Jeong-Hwan Sim",
+   "koreanName": "심정환",
+   "specialty": "Plastic Surgery",
+   "classification": "platform_verified",
+   "rating": 4.6,
+   "reviewCount": 1432
+  },
+  {
+   "slug": "dr-310",
+   "romanizedName": "Jeong-Hwan Sim(Shim)",
+   "koreanName": "심정환",
+   "specialty": "Plastic Surgery",
+   "classification": "platform_verified",
+   "rating": 4.6,
+   "reviewCount": 1432
+  },
+  {
+   "slug": "dr-400",
+   "romanizedName": "Jeong-Hyu Kim",
+   "koreanName": "김정휴",
+   "specialty": "Plastic Surgery",
+   "classification": "platform_verified",
+   "rating": 4.7,
+   "reviewCount": 1317
+  },
+  {
+   "slug": "dr-320",
+   "romanizedName": "Jeong-Hyun Cheon",
+   "koreanName": "천정현",
+   "specialty": "Plastic Surgery",
+   "classification": "platform_verified",
+   "rating": 4.85,
+   "reviewCount": 1104
+  },
+  {
+   "slug": "dr-280",
+   "romanizedName": "Jeong-Il Park",
+   "koreanName": "박정일",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.8,
+   "reviewCount": 1524
+  },
+  {
+   "slug": "dr-97",
+   "romanizedName": "Jeong-Min Kim",
+   "koreanName": "김정민",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.85,
+   "reviewCount": 884
+  },
+  {
+   "slug": "dr-361",
+   "romanizedName": "Jeong-Min Lee",
+   "koreanName": "이정민",
+   "specialty": "",
+   "classification": "board_certified",
+   "rating": 4.7,
+   "reviewCount": 369
+  },
+  {
+   "slug": "dr-412",
+   "romanizedName": "Jeong-Nam Jo",
+   "koreanName": "조정남",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.85,
+   "reviewCount": 1584
+  },
+  {
+   "slug": "dr-73",
+   "romanizedName": "Jeong-Sik Choi",
+   "koreanName": "최정식",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.8,
+   "reviewCount": 4819
+  },
+  {
+   "slug": "dr-378",
+   "romanizedName": "Jeong-Sik Gong",
+   "koreanName": "공정식",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.95,
+   "reviewCount": 2711
+  },
+  {
+   "slug": "dr-140",
+   "romanizedName": "Jeong-Won Yoon",
+   "koreanName": "윤정원",
+   "specialty": "Plastic Surgery",
+   "classification": "platform_verified",
+   "rating": 4.9,
+   "reviewCount": 829
+  },
+  {
+   "slug": "dr-69",
+   "romanizedName": "Ji-Eun Kim",
+   "koreanName": "김지은",
+   "specialty": "Family Medicine",
+   "classification": "platform_verified",
+   "rating": 4.6,
+   "reviewCount": 212
+  },
+  {
+   "slug": "dr-427",
+   "romanizedName": "Ji-Han Yu",
+   "koreanName": "유지한",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.95,
+   "reviewCount": 2504
+  },
+  {
+   "slug": "dr-183",
+   "romanizedName": "Ji-Hong Yim",
+   "koreanName": "임지홍",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.85,
+   "reviewCount": 3658
+  },
+  {
+   "slug": "dr-214",
+   "romanizedName": "Ji-Hoon Moon",
+   "koreanName": "문지훈",
+   "specialty": "",
+   "classification": "listed",
+   "rating": 0,
+   "reviewCount": 0
+  },
+  {
+   "slug": "dr-380",
+   "romanizedName": "Ji-Hyeon Park",
+   "koreanName": "박지현",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.65,
+   "reviewCount": 1114
+  },
+  {
+   "slug": "dr-200",
+   "romanizedName": "Ji-Hyun Han",
+   "koreanName": "한지현",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.7,
+   "reviewCount": 1250
+  },
+  {
+   "slug": "dr-219",
+   "romanizedName": "Ji-Hyun Kim",
+   "koreanName": "김지현",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-201",
+   "romanizedName": "Ji-In Jeon",
+   "koreanName": "전지인",
+   "specialty": "Plastic Surgery",
+   "classification": "platform_verified",
+   "rating": 4.7,
+   "reviewCount": 1222
+  },
+  {
+   "slug": "dr-79",
+   "romanizedName": "Ji-Meong Kim",
+   "koreanName": "김지명",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.8,
+   "reviewCount": 2394
+  },
+  {
+   "slug": "dr-101",
+   "romanizedName": "Ji-Min Kim",
+   "koreanName": "김지민",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-206",
+   "romanizedName": "Ji-Myeong Won",
+   "koreanName": "원지명",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-210",
+   "romanizedName": "Ji-Na Kim",
+   "koreanName": "김지나",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-321",
+   "romanizedName": "Ji-Seon Choi",
+   "koreanName": "최지선",
+   "specialty": "",
+   "classification": "listed",
+   "rating": 4.65,
+   "reviewCount": 165
+  },
+  {
+   "slug": "dr-193",
+   "romanizedName": "Ji-Soo Kim",
+   "koreanName": "김지수",
+   "specialty": "Plastic Surgery",
+   "classification": "platform_verified",
+   "rating": 4.05,
+   "reviewCount": 53
+  },
+  {
+   "slug": "dr-33",
+   "romanizedName": "Ji-Won Lee",
+   "koreanName": "이지원",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.7,
+   "reviewCount": 880
+  },
+  {
+   "slug": "dr-278",
+   "romanizedName": "Ji-Won Lee",
+   "koreanName": "이지원",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.7,
+   "reviewCount": 880
+  },
+  {
+   "slug": "dr-326",
+   "romanizedName": "Ji-Yun Seong(Sung)",
+   "koreanName": "성지윤",
+   "specialty": "Plastic Surgery",
+   "classification": "platform_verified",
+   "rating": 4.6,
+   "reviewCount": 508
+  },
+  {
+   "slug": "dr-116",
+   "romanizedName": "Jin",
+   "koreanName": "",
+   "specialty": "Specialist",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-162",
+   "romanizedName": "Jin-Ho Han",
+   "koreanName": "한진호",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-387",
+   "romanizedName": "Jin-Hwa Lee",
+   "koreanName": "이진화",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.7,
+   "reviewCount": 6687
+  },
+  {
+   "slug": "dr-254",
+   "romanizedName": "Jin-Hwan Byun",
+   "koreanName": "변진환",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-84",
+   "romanizedName": "Jin-Hyung Kim",
+   "koreanName": "김진형",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.8,
+   "reviewCount": 1193
+  },
+  {
+   "slug": "dr-230",
+   "romanizedName": "Jin-Hyung Kim",
+   "koreanName": "김지형",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-405",
+   "romanizedName": "Jin-Uk Jang",
+   "koreanName": "장진욱",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-103",
+   "romanizedName": "Jin-Woo Cho",
+   "koreanName": "조진우",
+   "specialty": "Plastic Surgery",
+   "classification": "platform_verified",
+   "rating": 4.75,
+   "reviewCount": 1614
+  },
+  {
+   "slug": "dr-271",
+   "romanizedName": "Jin-Woo Han",
+   "koreanName": "한진우",
+   "specialty": "Plastic Surgery",
+   "classification": "platform_verified",
+   "rating": 4.9,
+   "reviewCount": 1186
+  },
+  {
+   "slug": "dr-102",
+   "romanizedName": "Jin-Woo Jeong",
+   "koreanName": "정진우",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-154",
+   "romanizedName": "Jin-Woo Kim",
+   "koreanName": "김진우",
+   "specialty": "Plastic Surgery",
+   "classification": "platform_verified",
+   "rating": 4.75,
+   "reviewCount": 482
+  },
+  {
+   "slug": "dr-99",
+   "romanizedName": "Jin-Wook Jeong",
+   "koreanName": "정진욱",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-245",
+   "romanizedName": "Jong-Eun Lee",
+   "koreanName": "이종은",
+   "specialty": "",
+   "classification": "listed",
+   "rating": 4.3,
+   "reviewCount": 71
+  },
+  {
+   "slug": "dr-241",
+   "romanizedName": "Jong-Ho Na",
+   "koreanName": "나중호",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-212",
+   "romanizedName": "Jong-Hyun Hong",
+   "koreanName": "홍종현",
+   "specialty": "",
+   "classification": "board_certified",
+   "rating": 4.05,
+   "reviewCount": 638
+  },
+  {
+   "slug": "dr-179",
+   "romanizedName": "Jong-Ku Kim",
+   "koreanName": "김종구",
+   "specialty": "Plastic Surgery",
+   "classification": "platform_verified",
+   "rating": 4.8,
+   "reviewCount": 606
+  },
+  {
+   "slug": "dr-341",
+   "romanizedName": "Jong-Min Lim",
+   "koreanName": "임종민",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.6,
+   "reviewCount": 543
+  },
+  {
+   "slug": "dr-239",
+   "romanizedName": "Jong-Ok Park",
+   "koreanName": "박종옥",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-404",
+   "romanizedName": "Jong-Seok Lee",
+   "koreanName": "이종석",
+   "specialty": "Plastic Surgery",
+   "classification": "platform_verified",
+   "rating": 4.7,
+   "reviewCount": 937
+  },
+  {
+   "slug": "dr-290",
+   "romanizedName": "Jong-Won Lee",
+   "koreanName": "이종원",
+   "specialty": "",
+   "classification": "listed",
+   "rating": 4.25,
+   "reviewCount": 236
+  },
+  {
+   "slug": "dr-297",
+   "romanizedName": "Jong-Woo Lim",
+   "koreanName": "임종우",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.9,
+   "reviewCount": 1324
+  },
+  {
+   "slug": "dr-7",
+   "romanizedName": "Joo-Yeon Kim",
+   "koreanName": "김주연",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.75,
+   "reviewCount": 2087
+  },
+  {
+   "slug": "dr-257",
+   "romanizedName": "Joon-Woo Park",
+   "koreanName": "박준우",
+   "specialty": "ENT (Ear, Nose & Throat)",
+   "classification": "platform_verified",
+   "rating": 4.75,
+   "reviewCount": 1161
+  },
+  {
+   "slug": "dr-237",
+   "romanizedName": "Joong-Ho Ryu",
+   "koreanName": "유중호",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-366",
+   "romanizedName": "Joong-Kyou Lee",
+   "koreanName": "이중규",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-83",
+   "romanizedName": "Ju-Cheol Lee",
+   "koreanName": "이주철",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-374",
+   "romanizedName": "Ju-Hyun Kim",
+   "koreanName": "김주현",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.75,
+   "reviewCount": 263
+  },
+  {
+   "slug": "dr-167",
+   "romanizedName": "Ju-Myeong Baek",
+   "koreanName": "백주영",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-38",
+   "romanizedName": "Ju-Young Bae",
+   "koreanName": "배주영",
+   "specialty": "",
+   "classification": "listed",
+   "rating": 4.8,
+   "reviewCount": 2453
+  },
+  {
+   "slug": "dr-304",
+   "romanizedName": "Jun-Beom Lee",
+   "koreanName": "이준범",
+   "specialty": "Plastic Surgery",
+   "classification": "platform_verified",
+   "rating": 4.95,
+   "reviewCount": 356
+  },
+  {
+   "slug": "dr-364",
+   "romanizedName": "Jun-Ho Kim",
+   "koreanName": "김준호",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.75,
+   "reviewCount": 2006
+  },
+  {
+   "slug": "dr-362",
+   "romanizedName": "Jun-Hyeok Lee",
+   "koreanName": "이준혁",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.95,
+   "reviewCount": 930
+  },
+  {
+   "slug": "dr-54",
+   "romanizedName": "Jun-Hyeong Kim",
+   "koreanName": "김준형",
+   "specialty": "Plastic Surgery",
+   "classification": "platform_verified",
+   "rating": 4.8,
+   "reviewCount": 1605
+  },
+  {
+   "slug": "dr-289",
+   "romanizedName": "Jun-Hyung Ha",
+   "koreanName": "하준형",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-381",
+   "romanizedName": "Jun-U Lee",
+   "koreanName": "이준우",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.65,
+   "reviewCount": 4734
+  },
+  {
+   "slug": "dr-388",
+   "romanizedName": "Jun-Woo Lee",
+   "koreanName": "이준우",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.65,
+   "reviewCount": 4734
+  },
+  {
+   "slug": "dr-294",
+   "romanizedName": "Jun-Yong Lim",
+   "koreanName": "임준용",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-120",
+   "romanizedName": "Jung Hyunwook",
+   "koreanName": "",
+   "specialty": "Specialist",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-11",
+   "romanizedName": "Jung-Hwan Lee",
+   "koreanName": "이정환",
+   "specialty": "",
+   "classification": "listed",
+   "rating": 4.7,
+   "reviewCount": 118
+  },
+  {
+   "slug": "dr-184",
+   "romanizedName": "Jung-Min Yoon",
+   "koreanName": "윤정민",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-350",
+   "romanizedName": "Jung-Woo Hu",
+   "koreanName": "허정우",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.9,
+   "reviewCount": 2063
+  },
+  {
+   "slug": "dr-407",
+   "romanizedName": "Jung-Woo Kwon",
+   "koreanName": "권정우",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.95,
+   "reviewCount": 593
+  },
+  {
+   "slug": "dr-382",
+   "romanizedName": "Jung-Woo Lee",
+   "koreanName": "이정우",
+   "specialty": "",
+   "classification": "board_certified",
+   "rating": 4.95,
+   "reviewCount": 2361
+  },
+  {
+   "slug": "dr-330",
+   "romanizedName": "Kang",
+   "koreanName": "",
+   "specialty": "Specialist",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-444",
+   "romanizedName": "Kang",
+   "koreanName": "",
+   "specialty": "Specialist",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-136",
+   "romanizedName": "Kang-Woo Lee",
+   "koreanName": "이강우",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.6,
+   "reviewCount": 999
+  },
+  {
+   "slug": "dr-222",
+   "romanizedName": "Ki-Won Ham",
+   "koreanName": "함기원",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-220",
+   "romanizedName": "Ki-Wook Sung",
+   "koreanName": "성기욱",
+   "specialty": "Plastic Surgery",
+   "classification": "platform_verified",
+   "rating": 4.75,
+   "reviewCount": 1522
+  },
+  {
+   "slug": "dr-351",
+   "romanizedName": "Ki-Young Ha",
+   "koreanName": "하기영",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.9,
+   "reviewCount": 493
+  },
+  {
+   "slug": "dr-114",
+   "romanizedName": "Kim",
+   "koreanName": "",
+   "specialty": "Specialist",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-331",
+   "romanizedName": "Kim",
+   "koreanName": "",
+   "specialty": "Specialist",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-457",
+   "romanizedName": "Kim",
+   "koreanName": "",
+   "specialty": "Specialist",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-124",
+   "romanizedName": "Kim Chae Mun",
+   "koreanName": "",
+   "specialty": "Specialist",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-467",
+   "romanizedName": "Kim Hyungsuk",
+   "koreanName": "",
+   "specialty": "Specialist",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-442",
+   "romanizedName": "Kim Jun Hyung",
+   "koreanName": "",
+   "specialty": "Specialist",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-127",
+   "romanizedName": "Kim Tae Woo",
+   "koreanName": "",
+   "specialty": "Specialist",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-336",
+   "romanizedName": "Kirk",
+   "koreanName": "",
+   "specialty": "Specialist",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-455",
+   "romanizedName": "Koo Hyun Kook",
+   "koreanName": "",
+   "specialty": "Specialist",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-132",
+   "romanizedName": "Kwang-Rae Kang",
+   "koreanName": "강광래",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-332",
+   "romanizedName": "Kwon",
+   "koreanName": "",
+   "specialty": "Specialist",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-439",
+   "romanizedName": "Kwon Byung Yoon",
+   "koreanName": "",
+   "specialty": "Specialist",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-166",
+   "romanizedName": "Kyo-Jun Kang",
+   "koreanName": "강교준",
+   "specialty": "Plastic Surgery",
+   "classification": "platform_verified",
+   "rating": 4.75,
+   "reviewCount": 2268
+  },
+  {
+   "slug": "dr-346",
+   "romanizedName": "Kyoung-Jin Kang",
+   "koreanName": "강경진",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-191",
+   "romanizedName": "Kyu-Ho Lee",
+   "koreanName": "이규호",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-450",
+   "romanizedName": "Kyung Min Lee",
+   "koreanName": "",
+   "specialty": "Specialist",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-451",
+   "romanizedName": "Kyung Min Lee",
+   "koreanName": "",
+   "specialty": "Specialist",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-251",
+   "romanizedName": "Kyung-Chan Ahn",
+   "koreanName": "안경찬",
+   "specialty": "Plastic Surgery",
+   "classification": "platform_verified",
+   "rating": 4.75,
+   "reviewCount": 826
+  },
+  {
+   "slug": "dr-187",
+   "romanizedName": "Kyung-Han Yoo",
+   "koreanName": "유경한",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.95,
+   "reviewCount": 3081
+  },
+  {
+   "slug": "dr-186",
+   "romanizedName": "Kyung-Wook Choi",
+   "koreanName": "최경욱",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-129",
+   "romanizedName": "Lee",
+   "koreanName": "",
+   "specialty": "Specialist",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-329",
+   "romanizedName": "Lee",
+   "koreanName": "",
+   "specialty": "Specialist",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-458",
+   "romanizedName": "Lee",
+   "koreanName": "",
+   "specialty": "Specialist",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-434",
+   "romanizedName": "Lee Dong Chan",
+   "koreanName": "",
+   "specialty": "Specialist",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-456",
+   "romanizedName": "Lee Dong Chang",
+   "koreanName": "",
+   "specialty": "Specialist",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-462",
+   "romanizedName": "Lee Hyun-Taek",
+   "koreanName": "",
+   "specialty": "Specialist",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-463",
+   "romanizedName": "Lee Hyuntaek",
+   "koreanName": "",
+   "specialty": "Specialist",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-440",
+   "romanizedName": "Lee Jun Hee",
+   "koreanName": "",
+   "specialty": "Specialist",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-453",
+   "romanizedName": "Lee Sang-Woo",
+   "koreanName": "",
+   "specialty": "Specialist",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-449",
+   "romanizedName": "Lee Seok Jae",
+   "koreanName": "",
+   "specialty": "Specialist",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-358",
+   "romanizedName": "Lee Suk Hyun",
+   "koreanName": "",
+   "specialty": "Specialist",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-122",
+   "romanizedName": "Lee Wu Seub",
+   "koreanName": "",
+   "specialty": "Specialist",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-446",
+   "romanizedName": "Man Koon Suh",
+   "koreanName": "",
+   "specialty": "Specialist",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-424",
+   "romanizedName": "Mi-So Kang",
+   "koreanName": "강미소",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-67",
+   "romanizedName": "Mi-Sun Jung",
+   "koreanName": "정미선",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.8,
+   "reviewCount": 3105
+  },
+  {
+   "slug": "dr-414",
+   "romanizedName": "Min Oh",
+   "koreanName": "오민",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.55,
+   "reviewCount": 843
+  },
+  {
+   "slug": "dr-398",
+   "romanizedName": "Min-Gyeong Jeong",
+   "koreanName": "정민경",
+   "specialty": "",
+   "classification": "listed",
+   "rating": 4,
+   "reviewCount": 3
+  },
+  {
+   "slug": "dr-300",
+   "romanizedName": "Min-Hyuk Kang",
+   "koreanName": "강민혁",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-420",
+   "romanizedName": "Min-Ju Hong",
+   "koreanName": "홍민주",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-284",
+   "romanizedName": "Min-Jung Park",
+   "koreanName": "박민정",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-302",
+   "romanizedName": "Min-Seok Choi",
+   "koreanName": "최민석",
+   "specialty": "",
+   "classification": "board_certified",
+   "rating": 4.15,
+   "reviewCount": 278
+  },
+  {
+   "slug": "dr-258",
+   "romanizedName": "Min-Seok Park",
+   "koreanName": "박민석",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.7,
+   "reviewCount": 1778
+  },
+  {
+   "slug": "dr-56",
+   "romanizedName": "Min-Woo Park",
+   "koreanName": "박민우",
+   "specialty": "Plastic Surgery",
+   "classification": "platform_verified",
+   "rating": 4.75,
+   "reviewCount": 2248
+  },
+  {
+   "slug": "dr-139",
+   "romanizedName": "Moon-Quen Koo",
+   "koreanName": "구문근",
+   "specialty": "Plastic Surgery",
+   "classification": "platform_verified",
+   "rating": 4.95,
+   "reviewCount": 1747
+  },
+  {
+   "slug": "dr-190",
+   "romanizedName": "Moon-Seop Choi",
+   "koreanName": "최문섭",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-4",
+   "romanizedName": "Myeong-Geun Kang",
+   "koreanName": "강명근",
+   "specialty": "구강악안면외과",
+   "classification": "platform_verified",
+   "rating": 4.8,
+   "reviewCount": 723
+  },
+  {
+   "slug": "dr-315",
+   "romanizedName": "Myung-Kyu Cha",
+   "koreanName": "차명규",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.95,
+   "reviewCount": 2642
+  },
+  {
+   "slug": "dr-242",
+   "romanizedName": "Na-Rae Kim",
+   "koreanName": "김나래",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-49",
+   "romanizedName": "Nam Jang",
+   "koreanName": "장남",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-273",
+   "romanizedName": "Nam-Ju Cheon",
+   "koreanName": "천남주",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.7,
+   "reviewCount": 1705
+  },
+  {
+   "slug": "dr-217",
+   "romanizedName": "Oh-Young Joo",
+   "koreanName": "주오영",
+   "specialty": "Plastic Surgery",
+   "classification": "platform_verified",
+   "rating": 4.7,
+   "reviewCount": 1067
+  },
+  {
+   "slug": "dr-119",
+   "romanizedName": "Park",
+   "koreanName": "",
+   "specialty": "Specialist",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-128",
+   "romanizedName": "Park",
+   "koreanName": "",
+   "specialty": "Specialist",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-459",
+   "romanizedName": "Park",
+   "koreanName": "",
+   "specialty": "Specialist",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-438",
+   "romanizedName": "Park Song Yi",
+   "koreanName": "",
+   "specialty": "Specialist",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-301",
+   "romanizedName": "Pyeong-Jin Im",
+   "koreanName": "임평진",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.85,
+   "reviewCount": 1476
+  },
+  {
+   "slug": "dr-372",
+   "romanizedName": "Rae-Jun Jung",
+   "koreanName": "정래준",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-42",
+   "romanizedName": "Rak-Kyun Joo",
+   "koreanName": "주락균",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-175",
+   "romanizedName": "Rak-Kyun Joo",
+   "koreanName": "주락균",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-312",
+   "romanizedName": "Ryeol-U Kim",
+   "koreanName": "김렬우",
+   "specialty": "Plastic Surgery",
+   "classification": "platform_verified",
+   "rating": 4.65,
+   "reviewCount": 588
+  },
+  {
+   "slug": "dr-357",
+   "romanizedName": "Ryeol-U Kim",
+   "koreanName": "김렬우",
+   "specialty": "Plastic Surgery",
+   "classification": "platform_verified",
+   "rating": 4.65,
+   "reviewCount": 588
+  },
+  {
+   "slug": "dr-243",
+   "romanizedName": "Sa-Hyuk Hong",
+   "koreanName": "홍사혁",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-454",
+   "romanizedName": "Sang Woo Lee",
+   "koreanName": "",
+   "specialty": "Specialist",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-204",
+   "romanizedName": "Sang-Geon Lee",
+   "koreanName": "이상근",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-313",
+   "romanizedName": "Sang-Gyun Jin",
+   "koreanName": "진상균",
+   "specialty": "ENT (Ear, Nose & Throat)",
+   "classification": "platform_verified",
+   "rating": 4.9,
+   "reviewCount": 84
+  },
+  {
+   "slug": "dr-401",
+   "romanizedName": "Sang-Heon Kim",
+   "koreanName": "김상헌",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.5,
+   "reviewCount": 2264
+  },
+  {
+   "slug": "dr-14",
+   "romanizedName": "Sang-Heon Kim",
+   "koreanName": "김상헌",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.5,
+   "reviewCount": 2264
+  },
+  {
+   "slug": "dr-377",
+   "romanizedName": "Sang-Hoon Roh",
+   "koreanName": "노상훈",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-394",
+   "romanizedName": "Sang-il Kim",
+   "koreanName": "김상일",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-172",
+   "romanizedName": "Sang-Kyu Choi",
+   "koreanName": "최상규",
+   "specialty": "Plastic Surgery",
+   "classification": "platform_verified",
+   "rating": 4.7,
+   "reviewCount": 931
+  },
+  {
+   "slug": "dr-158",
+   "romanizedName": "Sang-Min Hyun",
+   "koreanName": "현상민",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-160",
+   "romanizedName": "Sang-Min Park",
+   "koreanName": "박상민",
+   "specialty": "Plastic Surgery",
+   "classification": "platform_verified",
+   "rating": 4.8,
+   "reviewCount": 1405
+  },
+  {
+   "slug": "dr-149",
+   "romanizedName": "Sang-Pil Tae",
+   "koreanName": "태상필",
+   "specialty": "Plastic Surgery",
+   "classification": "platform_verified",
+   "rating": 4.45,
+   "reviewCount": 243
+  },
+  {
+   "slug": "dr-144",
+   "romanizedName": "Sang-Rok Choi",
+   "koreanName": "최상록",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.65,
+   "reviewCount": 669
+  },
+  {
+   "slug": "dr-247",
+   "romanizedName": "Sang-Woo Lee",
+   "koreanName": "이상우",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.75,
+   "reviewCount": 1117
+  },
+  {
+   "slug": "dr-283",
+   "romanizedName": "Se-Il Jeong",
+   "koreanName": "정세일",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-155",
+   "romanizedName": "Se-Yeong Kim",
+   "koreanName": "김세영",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.8,
+   "reviewCount": 161
+  },
+  {
+   "slug": "dr-324",
+   "romanizedName": "Se-Young Kim",
+   "koreanName": "김세영",
+   "specialty": "General Surgery",
+   "classification": "platform_verified",
+   "rating": 4.75,
+   "reviewCount": 128
+  },
+  {
+   "slug": "dr-125",
+   "romanizedName": "Seo",
+   "koreanName": "",
+   "specialty": "Specialist",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-148",
+   "romanizedName": "Seo-Min Park",
+   "koreanName": "박서민",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-428",
+   "romanizedName": "Seo-Yun Jang",
+   "koreanName": "장서윤",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.9,
+   "reviewCount": 1288
+  },
+  {
+   "slug": "dr-325",
+   "romanizedName": "Seok-Min Choi",
+   "koreanName": "최석민",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-228",
+   "romanizedName": "Seok-Yong Lee",
+   "koreanName": "이석용",
+   "specialty": "",
+   "classification": "listed",
+   "rating": 4.6,
+   "reviewCount": 263
+  },
+  {
+   "slug": "dr-157",
+   "romanizedName": "Seon-Gu Kim",
+   "koreanName": "김선구",
+   "specialty": "ENT (Ear, Nose & Throat)",
+   "classification": "board_certified",
+   "rating": 4.8,
+   "reviewCount": 1598
+  },
+  {
+   "slug": "dr-311",
+   "romanizedName": "Seon-Hui Park",
+   "koreanName": "박선희",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-359",
+   "romanizedName": "Seon-Hui Park",
+   "koreanName": "박선희",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-177",
+   "romanizedName": "Seon-Sik Yoon",
+   "koreanName": "윤선식",
+   "specialty": "Plastic Surgery",
+   "classification": "platform_verified",
+   "rating": 4.85,
+   "reviewCount": 105
+  },
+  {
+   "slug": "dr-298",
+   "romanizedName": "Seong-Chan Kim",
+   "koreanName": "김성찬",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.85,
+   "reviewCount": 2668
+  },
+  {
+   "slug": "dr-159",
+   "romanizedName": "Seong-Hyun Oh",
+   "koreanName": "오승현",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.85,
+   "reviewCount": 1528
+  },
+  {
+   "slug": "dr-37",
+   "romanizedName": "Seong-Mo Jeong",
+   "koreanName": "정성모",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.95,
+   "reviewCount": 2641
+  },
+  {
+   "slug": "dr-373",
+   "romanizedName": "Seong-U Jung",
+   "koreanName": "정성우",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-36",
+   "romanizedName": "Seung-Am Park",
+   "koreanName": "박승암",
+   "specialty": "",
+   "classification": "listed",
+   "rating": 4.85,
+   "reviewCount": 1192
+  },
+  {
+   "slug": "dr-31",
+   "romanizedName": "Seung-Beom Han",
+   "koreanName": "한승범",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-402",
+   "romanizedName": "Seung-Bin Jang",
+   "koreanName": "장승빈",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-395",
+   "romanizedName": "Seung-Eun Jo",
+   "koreanName": "조성은",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-229",
+   "romanizedName": "Seung-Gee Kwon",
+   "koreanName": "권승기",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 0,
+   "reviewCount": 215
+  },
+  {
+   "slug": "dr-234",
+   "romanizedName": "Seung-Heon Hong",
+   "koreanName": "홍성흔",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-27",
+   "romanizedName": "Seung-Ho Lee",
+   "koreanName": "이승호",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-23",
+   "romanizedName": "Seung-Ho Shin",
+   "koreanName": "신승호",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.7,
+   "reviewCount": 730
+  },
+  {
+   "slug": "dr-225",
+   "romanizedName": "Seung-Hwan Kim",
+   "koreanName": "김승환",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-307",
+   "romanizedName": "Seung-Hwan Lee",
+   "koreanName": "이승환",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.6,
+   "reviewCount": 163
+  },
+  {
+   "slug": "dr-189",
+   "romanizedName": "Seung-Hye Choi",
+   "koreanName": "최승혜",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-5",
+   "romanizedName": "Seung-Hyun Ahn",
+   "koreanName": "안승현",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.8,
+   "reviewCount": 2166
+  },
+  {
+   "slug": "dr-238",
+   "romanizedName": "Seung-Hyun Ryu",
+   "koreanName": "유성현",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-354",
+   "romanizedName": "Seung-Il Oh",
+   "koreanName": "오승일",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-72",
+   "romanizedName": "Seung-Je Lee",
+   "koreanName": "이승제",
+   "specialty": "Plastic Surgery",
+   "classification": "platform_verified",
+   "rating": 4.7,
+   "reviewCount": 1678
+  },
+  {
+   "slug": "dr-68",
+   "romanizedName": "Seung-Je Seong",
+   "koreanName": "성승제",
+   "specialty": "Plastic Surgery",
+   "classification": "platform_verified",
+   "rating": 4.65,
+   "reviewCount": 1020
+  },
+  {
+   "slug": "dr-309",
+   "romanizedName": "Seung-Jo Seo",
+   "koreanName": "서승조",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.55,
+   "reviewCount": 3624
+  },
+  {
+   "slug": "dr-355",
+   "romanizedName": "Seung-Jo Seo",
+   "koreanName": "서승조",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.55,
+   "reviewCount": 3624
+  },
+  {
+   "slug": "dr-215",
+   "romanizedName": "Seung-Kyu Yoon",
+   "koreanName": "윤승규",
+   "specialty": "구강악안면외과",
+   "classification": "platform_verified",
+   "rating": 4.8,
+   "reviewCount": 68
+  },
+  {
+   "slug": "dr-276",
+   "romanizedName": "Seung-Min Kim",
+   "koreanName": "김성민",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-202",
+   "romanizedName": "Seung-Min Lee",
+   "koreanName": "이승민",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-363",
+   "romanizedName": "Seung-Ryeol Baek",
+   "koreanName": "백승렬",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-415",
+   "romanizedName": "Seung-Ryeol Ji",
+   "koreanName": "지승렬",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-203",
+   "romanizedName": "Seung-Ryong Lee",
+   "koreanName": "이승룡",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.8,
+   "reviewCount": 1538
+  },
+  {
+   "slug": "dr-22",
+   "romanizedName": "Seung-Tae Son",
+   "koreanName": "손승태",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.7,
+   "reviewCount": 1136
+  },
+  {
+   "slug": "dr-365",
+   "romanizedName": "Seung-Uk Park",
+   "koreanName": "박성욱",
+   "specialty": "Plastic Surgery",
+   "classification": "platform_verified",
+   "rating": 4.6,
+   "reviewCount": 1437
+  },
+  {
+   "slug": "dr-178",
+   "romanizedName": "Seung-Wan Tak",
+   "koreanName": "탁승완",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-137",
+   "romanizedName": "Shin",
+   "koreanName": "",
+   "specialty": "Specialist",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-233",
+   "romanizedName": "Sil-Ri Son",
+   "koreanName": "손길리",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-109",
+   "romanizedName": "So-Young Kim",
+   "koreanName": "김소영",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.7,
+   "reviewCount": 444
+  },
+  {
+   "slug": "dr-121",
+   "romanizedName": "Son Won Il Miho PS",
+   "koreanName": "",
+   "specialty": "Specialist",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-117",
+   "romanizedName": "Song",
+   "koreanName": "",
+   "specialty": "Specialist",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-64",
+   "romanizedName": "Song-Yi Park",
+   "koreanName": "박송이",
+   "specialty": "Plastic Surgery",
+   "classification": "platform_verified",
+   "rating": 4.75,
+   "reviewCount": 2339
+  },
+  {
+   "slug": "dr-410",
+   "romanizedName": "Soo-Hee Jung",
+   "koreanName": "정수희",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-130",
+   "romanizedName": "Soo-Hye Shin",
+   "koreanName": "신수혜",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.85,
+   "reviewCount": 974
+  },
+  {
+   "slug": "dr-142",
+   "romanizedName": "Soo-Hye Shin",
+   "koreanName": "신수혜",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.85,
+   "reviewCount": 974
+  },
+  {
+   "slug": "dr-291",
+   "romanizedName": "Soo-Yeon Lee",
+   "koreanName": "이수연",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-52",
+   "romanizedName": "Soo-Yeon Park",
+   "koreanName": "박수연",
+   "specialty": "Plastic Surgery",
+   "classification": "platform_verified",
+   "rating": 4.75,
+   "reviewCount": 577
+  },
+  {
+   "slug": "dr-12",
+   "romanizedName": "Soon-Beom Kwon",
+   "koreanName": "권순범",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.9,
+   "reviewCount": 3369
+  },
+  {
+   "slug": "dr-338",
+   "romanizedName": "Soon-Dong Kim",
+   "koreanName": "김순동",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.55,
+   "reviewCount": 704
+  },
+  {
+   "slug": "dr-47",
+   "romanizedName": "Soon-Jung Hwang",
+   "koreanName": "황순정",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-95",
+   "romanizedName": "Soon-Woo Choi",
+   "koreanName": "최순우",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.7,
+   "reviewCount": 1805
+  },
+  {
+   "slug": "dr-89",
+   "romanizedName": "Soong-Oh Hwang",
+   "koreanName": "황숭오",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-13",
+   "romanizedName": "Su-Cheol Kim",
+   "koreanName": "김수철",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-227",
+   "romanizedName": "Su-Jeong Hong",
+   "koreanName": "홍수정",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.9,
+   "reviewCount": 6156
+  },
+  {
+   "slug": "dr-441",
+   "romanizedName": "Suh Yong Hoon",
+   "koreanName": "",
+   "specialty": "Specialist",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-138",
+   "romanizedName": "Suk-Ho Yoon",
+   "koreanName": "윤석호",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.9,
+   "reviewCount": 2550
+  },
+  {
+   "slug": "dr-408",
+   "romanizedName": "Sun-Bin Chang",
+   "koreanName": "장선빈",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-426",
+   "romanizedName": "Sun-Geun Kwon",
+   "koreanName": "권순근",
+   "specialty": "Plastic Surgery",
+   "classification": "platform_verified",
+   "rating": 4.95,
+   "reviewCount": 3337
+  },
+  {
+   "slug": "dr-111",
+   "romanizedName": "Sun-Hye Yoo",
+   "koreanName": "유선혜",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-435",
+   "romanizedName": "Sung Seung Jeh",
+   "koreanName": "",
+   "specialty": "Specialist",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-9",
+   "romanizedName": "Sung-Ho Park",
+   "koreanName": "박성호",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.75,
+   "reviewCount": 1392
+  },
+  {
+   "slug": "dr-197",
+   "romanizedName": "Sung-Hoon Lee",
+   "koreanName": "이성훈",
+   "specialty": "ENT (Ear, Nose & Throat)",
+   "classification": "platform_verified",
+   "rating": 4.95,
+   "reviewCount": 489
+  },
+  {
+   "slug": "dr-295",
+   "romanizedName": "Sung-Hoon Lee",
+   "koreanName": "이승훈",
+   "specialty": "",
+   "classification": "board_certified",
+   "rating": 4.85,
+   "reviewCount": 48
+  },
+  {
+   "slug": "dr-8",
+   "romanizedName": "Sung-Hwan Ma",
+   "koreanName": "마성환",
+   "specialty": "Plastic Surgery",
+   "classification": "platform_verified",
+   "rating": 4.85,
+   "reviewCount": 1305
+  },
+  {
+   "slug": "dr-287",
+   "romanizedName": "Sung-Ik Seo",
+   "koreanName": "서성식",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-246",
+   "romanizedName": "Sung-Ju Lee",
+   "koreanName": "이성주",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.8,
+   "reviewCount": 1481
+  },
+  {
+   "slug": "dr-198",
+   "romanizedName": "Sung-Moon Hong",
+   "koreanName": " 홍성문",
+   "specialty": "ENT (Ear, Nose & Throat)",
+   "classification": "platform_verified",
+   "rating": 4.95,
+   "reviewCount": 504
+  },
+  {
+   "slug": "dr-266",
+   "romanizedName": "Sung-Taek Kim",
+   "koreanName": "김성택",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-19",
+   "romanizedName": "Sung-Wan Park",
+   "koreanName": "박성완",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.85,
+   "reviewCount": 541
+  },
+  {
+   "slug": "dr-45",
+   "romanizedName": "Sung-Won Yoon",
+   "koreanName": "윤성원",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.65,
+   "reviewCount": 2380
+  },
+  {
+   "slug": "dr-250",
+   "romanizedName": "Tae-Geun Yoon",
+   "koreanName": "윤태근",
+   "specialty": "Plastic Surgery",
+   "classification": "platform_verified",
+   "rating": 4.7,
+   "reviewCount": 66
+  },
+  {
+   "slug": "dr-34",
+   "romanizedName": "Tae-Gyu Kim",
+   "koreanName": "김태규",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.4,
+   "reviewCount": 2005
+  },
+  {
+   "slug": "dr-279",
+   "romanizedName": "Tae-Gyu Kim",
+   "koreanName": "김태규",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.4,
+   "reviewCount": 2005
+  },
+  {
+   "slug": "dr-153",
+   "romanizedName": "Tae-Heon Kim",
+   "koreanName": "김태훈",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-81",
+   "romanizedName": "Tae-Ho Yoon",
+   "koreanName": "윤태호",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.75,
+   "reviewCount": 2728
+  },
+  {
+   "slug": "dr-353",
+   "romanizedName": "Tae-Hoon Kim",
+   "koreanName": "김태훈",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-264",
+   "romanizedName": "Tae-Hoon Kim",
+   "koreanName": "김태훈",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-40",
+   "romanizedName": "Tae-Hwan Kim",
+   "koreanName": "김태환",
+   "specialty": "ENT (Ear, Nose & Throat)",
+   "classification": "platform_verified",
+   "rating": 4.9,
+   "reviewCount": 856
+  },
+  {
+   "slug": "dr-107",
+   "romanizedName": "Tae-Min Yi",
+   "koreanName": "이태민",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-90",
+   "romanizedName": "Tae-Seob Kim",
+   "koreanName": "김태섭",
+   "specialty": "Plastic Surgery",
+   "classification": "platform_verified",
+   "rating": 4.9,
+   "reviewCount": 1745
+  },
+  {
+   "slug": "dr-431",
+   "romanizedName": "U-Sang Ryu",
+   "koreanName": "류우상",
+   "specialty": "Plastic Surgery",
+   "classification": "platform_verified",
+   "rating": 4.9,
+   "reviewCount": 522
+  },
+  {
+   "slug": "dr-369",
+   "romanizedName": "Un-Hoe Kim",
+   "koreanName": "김운회",
+   "specialty": "Plastic Surgery",
+   "classification": "platform_verified",
+   "rating": 4.85,
+   "reviewCount": 2199
+  },
+  {
+   "slug": "dr-28",
+   "romanizedName": "Won-Cheol Choi",
+   "koreanName": "최원철",
+   "specialty": "Plastic Surgery",
+   "classification": "platform_verified",
+   "rating": 4.8,
+   "reviewCount": 2443
+  },
+  {
+   "slug": "dr-286",
+   "romanizedName": "Won-Cheol Choi",
+   "koreanName": "최원철",
+   "specialty": "Plastic Surgery",
+   "classification": "platform_verified",
+   "rating": 4.8,
+   "reviewCount": 2443
+  },
+  {
+   "slug": "dr-368",
+   "romanizedName": "Won-Hong Seo",
+   "koreanName": "서원홍",
+   "specialty": "General Surgery",
+   "classification": "platform_verified",
+   "rating": 4.8,
+   "reviewCount": 1839
+  },
+  {
+   "slug": "dr-143",
+   "romanizedName": "Won-Il Choi",
+   "koreanName": "최원일",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.75,
+   "reviewCount": 516
+  },
+  {
+   "slug": "dr-375",
+   "romanizedName": "Won-Il Son",
+   "koreanName": "손원일",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-288",
+   "romanizedName": "Won-Ju Jung",
+   "koreanName": "정원주",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-371",
+   "romanizedName": "Won-Jun Kim",
+   "koreanName": "김원준",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-18",
+   "romanizedName": "Won-Seok Oh",
+   "koreanName": "오원석",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.95,
+   "reviewCount": 233
+  },
+  {
+   "slug": "dr-174",
+   "romanizedName": "Woo-Jin Heo",
+   "koreanName": "허우진",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.9,
+   "reviewCount": 2943
+  },
+  {
+   "slug": "dr-168",
+   "romanizedName": "Woo-Jin Jung",
+   "koreanName": "정우진",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.8,
+   "reviewCount": 1507
+  },
+  {
+   "slug": "dr-306",
+   "romanizedName": "Woo-Jung Kim",
+   "koreanName": "김우정",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.9,
+   "reviewCount": 4031
+  },
+  {
+   "slug": "dr-305",
+   "romanizedName": "Woo-Seok Hwang",
+   "koreanName": "황우석",
+   "specialty": "Plastic Surgery",
+   "classification": "platform_verified",
+   "rating": 4.9,
+   "reviewCount": 1207
+  },
+  {
+   "slug": "dr-275",
+   "romanizedName": "Woo-Seop Lee",
+   "koreanName": "이우섭",
+   "specialty": "Plastic Surgery",
+   "classification": "platform_verified",
+   "rating": 4.65,
+   "reviewCount": 2245
+  },
+  {
+   "slug": "dr-35",
+   "romanizedName": "Wu-Seop Lee",
+   "koreanName": "이우섭",
+   "specialty": "Plastic Surgery",
+   "classification": "platform_verified",
+   "rating": 4.65,
+   "reviewCount": 2245
+  },
+  {
+   "slug": "dr-397",
+   "romanizedName": "Yang-Seok Kim",
+   "koreanName": "김양석",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-232",
+   "romanizedName": "Ye-Ji Lim",
+   "koreanName": "임예지",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-226",
+   "romanizedName": "Ye-Seul Um",
+   "koreanName": "엄예슬",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-409",
+   "romanizedName": "yeo-Myeong Lee",
+   "koreanName": "이여명",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-443",
+   "romanizedName": "Yeon Jun Kim",
+   "koreanName": "",
+   "specialty": "Specialist",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-303",
+   "romanizedName": "Yeon-Hoon Lee",
+   "koreanName": "이연훈",
+   "specialty": "Plastic Surgery",
+   "classification": "platform_verified",
+   "rating": 4.75,
+   "reviewCount": 532
+  },
+  {
+   "slug": "dr-327",
+   "romanizedName": "Yeong-ho Kim",
+   "koreanName": "김영호",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.65,
+   "reviewCount": 1804
+  },
+  {
+   "slug": "dr-41",
+   "romanizedName": "Yeong-Il Ko",
+   "koreanName": "고영일",
+   "specialty": "Plastic Surgery",
+   "classification": "platform_verified",
+   "rating": 4.8,
+   "reviewCount": 2482
+  },
+  {
+   "slug": "dr-176",
+   "romanizedName": "Yeong-Il Ko",
+   "koreanName": "고영일",
+   "specialty": "Plastic Surgery",
+   "classification": "platform_verified",
+   "rating": 4.8,
+   "reviewCount": 2482
+  },
+  {
+   "slug": "dr-421",
+   "romanizedName": "Yeong-Jun Song",
+   "koreanName": "송영준",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-61",
+   "romanizedName": "Yeong-Taek Lee",
+   "koreanName": "이영택",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.5,
+   "reviewCount": 1005
+  },
+  {
+   "slug": "dr-135",
+   "romanizedName": "Yeong-Taek Lee",
+   "koreanName": "이영택",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.5,
+   "reviewCount": 1005
+  },
+  {
+   "slug": "dr-419",
+   "romanizedName": "Yeong-Taek Yun",
+   "koreanName": "윤영택",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-85",
+   "romanizedName": "Yo-An Choi",
+   "koreanName": "최요안",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.6,
+   "reviewCount": 747
+  },
+  {
+   "slug": "dr-195",
+   "romanizedName": "Yong-Hae Sung",
+   "koreanName": "성용해",
+   "specialty": "ENT (Ear, Nose & Throat)",
+   "classification": "platform_verified",
+   "rating": 4.9,
+   "reviewCount": 460
+  },
+  {
+   "slug": "dr-231",
+   "romanizedName": "Yong-Hoon Choi",
+   "koreanName": "최용훈",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-93",
+   "romanizedName": "Yong-Hoon Chun",
+   "koreanName": "천용훈",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-317",
+   "romanizedName": "Yong-Jin Jo(Cho)",
+   "koreanName": "조용진",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.8,
+   "reviewCount": 2106
+  },
+  {
+   "slug": "dr-29",
+   "romanizedName": "Yong-Seok Hwang",
+   "koreanName": "황용석",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.95,
+   "reviewCount": 1579
+  },
+  {
+   "slug": "dr-413",
+   "romanizedName": "Yong-Sik Park",
+   "koreanName": "박용식",
+   "specialty": "Plastic Surgery",
+   "classification": "platform_verified",
+   "rating": 4.7,
+   "reviewCount": 920
+  },
+  {
+   "slug": "dr-25",
+   "romanizedName": "Yong-Yeon Won",
+   "koreanName": "원용범",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-104",
+   "romanizedName": "Yoo-Sung Son",
+   "koreanName": "손유성",
+   "specialty": "Plastic Surgery",
+   "classification": "platform_verified",
+   "rating": 4.85,
+   "reviewCount": 951
+  },
+  {
+   "slug": "dr-265",
+   "romanizedName": "Yoon-Jung Kim",
+   "koreanName": "김윤정",
+   "specialty": "ENT (Ear, Nose & Throat)",
+   "classification": "platform_verified",
+   "rating": 4.7,
+   "reviewCount": 1468
+  },
+  {
+   "slug": "dr-161",
+   "romanizedName": "Yoon-Yong Park",
+   "koreanName": "박윤용",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-447",
+   "romanizedName": "Young Tae Seo",
+   "koreanName": "",
+   "specialty": "Specialist",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-164",
+   "romanizedName": "Young-Hoon Chung",
+   "koreanName": "정영훈",
+   "specialty": "Plastic Surgery",
+   "classification": "platform_verified",
+   "rating": 4.65,
+   "reviewCount": 1729
+  },
+  {
+   "slug": "dr-55",
+   "romanizedName": "Young-Hoon Seo",
+   "koreanName": "서영훈",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-308",
+   "romanizedName": "Young-Ji Park",
+   "koreanName": "박영지",
+   "specialty": "Plastic Surgery",
+   "classification": "platform_verified",
+   "rating": 4.95,
+   "reviewCount": 1860
+  },
+  {
+   "slug": "dr-316",
+   "romanizedName": "Young-Moon Yoo",
+   "koreanName": "유영문",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.75,
+   "reviewCount": 3509
+  },
+  {
+   "slug": "dr-344",
+   "romanizedName": "Young-Sik Shin",
+   "koreanName": "신영식",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-2",
+   "romanizedName": "Young-Soo Na",
+   "koreanName": "나영수",
+   "specialty": "Plastic Surgery",
+   "classification": "platform_verified",
+   "rating": 4.9,
+   "reviewCount": 375
+  },
+  {
+   "slug": "dr-145",
+   "romanizedName": "Young-Woo Jang",
+   "koreanName": "장영우",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-272",
+   "romanizedName": "Yu-Gil Park",
+   "koreanName": "박유길",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-403",
+   "romanizedName": "Yu-Seok Son",
+   "koreanName": "손유석",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.75,
+   "reviewCount": 2319
+  },
+  {
+   "slug": "dr-224",
+   "romanizedName": "Yun-Geun Lee",
+   "koreanName": "이윤근",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-70",
+   "romanizedName": "Yun-Ho Kim",
+   "koreanName": "김윤호",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.9,
+   "reviewCount": 2221
+  },
+  {
+   "slug": "dr-319",
+   "romanizedName": "Yun-Hwan Lee",
+   "koreanName": "이윤환",
+   "specialty": "Plastic Surgery",
+   "classification": "platform_verified",
+   "rating": 4.8,
+   "reviewCount": 1694
+  },
+  {
+   "slug": "dr-78",
+   "romanizedName": "Yun-Hyeok Lee",
+   "koreanName": "이윤혁",
+   "specialty": "Plastic Surgery",
+   "classification": "listed",
+   "rating": null,
+   "reviewCount": null
+  },
+  {
+   "slug": "dr-418",
+   "romanizedName": "Yun-Jae Lee",
+   "koreanName": "이윤재",
+   "specialty": "Plastic Surgery",
+   "classification": "board_certified",
+   "rating": 4.8,
+   "reviewCount": 271
+  }
+ ]
+}

@@ -1,1 +1,93 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="robots" content="noindex"><title>Surgeon Identity Check</title></head><body><p>Building.</p></body></html>
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Surgeon Identity Check</title>
+<style>
+  :root { --bg:#fbfaf8; --fg:#1d1b19; --muted:#6b655f; --line:#e6e1da; --card:#fff; --merge:#1f7a4d; --review:#a15c00; --flag:#b42318; }
+  @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --bg:#151413; --fg:#efebe6; --muted:#a39d96; --line:#2e2b28; --card:#1d1b19; --merge:#5cc28f; --review:#f0a446; --flag:#f27a6e; } }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--bg); color:var(--fg); font:15px/1.55 system-ui, -apple-system, "Segoe UI", sans-serif; }
+  main { max-width:960px; margin:0 auto; padding:32px 16px 64px; }
+  h1 { font-size:26px; margin:0 0 6px; }
+  h2 { font-size:18px; margin:36px 0 8px; }
+  p.lede { color:var(--muted); margin:0 0 20px; max-width:720px; }
+  .stats { display:grid; grid-template-columns:repeat(auto-fit, minmax(150px, 1fr)); gap:10px; }
+  .stat { background:var(--card); border:1px solid var(--line); border-radius:10px; padding:12px 14px; }
+  .stat b { display:block; font-size:24px; }
+  .stat span { color:var(--muted); font-size:13px; }
+  .merge b { color:var(--merge); } .review b { color:var(--review); } .flag b { color:var(--flag); }
+  .row { background:var(--card); border:1px solid var(--line); border-radius:10px; padding:12px 14px; margin:8px 0; overflow-wrap:anywhere; }
+  .row a { color:inherit; }
+  .row ul { margin:6px 0 0; padding-left:18px; color:var(--muted); font-size:13.5px; }
+  .ko { font-weight:600; }
+  .note { color:var(--muted); font-size:13.5px; }
+  ol, ul.plain { padding-left:20px; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Surgeon identity check</h1>
+  <p class="lede">The same surgeon listed twice, or a profile showing the wrong English name, undercuts a "verified surgeon" badge. This page runs a deterministic resolver over a snapshot of the public Gangnam Beauty Guide doctor directory and shows every decision with its evidence.</p>
+  <div class="stats" id="stats"><div class="stat"><b>...</b><span>loading snapshot</span></div></div>
+
+  <h2>Safe to merge</h2>
+  <p class="note">Same Hangul name, identical review count and identical rating. Two independent signals agree.</p>
+  <div id="merge"></div>
+
+  <h2>Needs a human</h2>
+  <p class="note">Same Hangul name, but the stats are missing or differ. Korean names collide often, so these could be two different people.</p>
+  <div id="review"></div>
+
+  <h2>English name does not spell the Hangul</h2>
+  <p class="note">Checked by romanising the Hangul (Unicode syllable arithmetic, Revised Romanization) and comparing a variant-tolerant consonant key, syllable by syllable.</p>
+  <div id="flags"></div>
+
+  <h2>How it decides</h2>
+  <ol>
+    <li><b>Block on Hangul, not English.</b> Romanisation is many-to-one (Gang/Kang, Hyeong/Hyung, U/Woo); Hangul is what Korean sources publish. Whitespace and Unicode form are normalised first.</li>
+    <li><b>Auto-merge only on two agreeing signals</b> (review count and rating). A wrong merge would attach one surgeon's reviews and credentials to another person, which is worse than a duplicate.</li>
+    <li><b>Everything else goes to a human</b>, with the reason attached.</li>
+    <li><b>No language model in the loop.</b> Identity decisions in a medical directory have to be explainable and reversible.</li>
+  </ol>
+
+  <h2>Limits</h2>
+  <ul class="plain">
+    <li>Hangul name is a blocking key, not a unique key. The real key is name plus clinic plus medical licence number; the directory list does not expose clinic, so it is not used here.</li>
+    <li>Personal spellings can trip the name check (for example "Da-Arm" for 다앎). That is why flags go to review rather than being auto-corrected.</li>
+    <li>Two-syllable surnames (남궁, 선우) are not handled.</li>
+  </ul>
+
+  <p class="note" id="source"></p>
+</main>
+<script type="module">
+  import { resolve } from './resolver.js';
+
+  const escape = (s) => String(s ?? '').replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+  const profile = (d) => `<a href="https://gangnambeautyguide.com/en/doctors/${d.slug}/" target="_blank" rel="noopener">${d.slug}</a> ${escape(d.romanizedName)}`;
+  const pairRow = (p) => `<div class="row"><span class="ko">${escape(p.a.koreanName.trim())}</span> ${profile(p.a)} and ${profile(p.b)}<ul>${p.evidence.map((e) => `<li>${escape(e)}</li>`).join('')}</ul></div>`;
+  const flagRow = (f) => `<div class="row"><span class="ko">${escape(f.doctor.koreanName)}</span> ${profile(f.doctor)}<ul>${f.reasons.map((e) => `<li>${escape(e)}</li>`).join('')}</ul></div>`;
+  const stat = (cls, n, label) => `<div class="stat ${cls}"><b>${n}</b><span>${label}</span></div>`;
+
+  try {
+    const snapshot = await (await fetch('data/doctors.json')).json();
+    const r = resolve(snapshot.doctors);
+    document.getElementById('stats').innerHTML = [
+      stat('', r.total, 'profiles in snapshot'),
+      stat('', r.sharedNames, 'Hangul names on 2+ profiles'),
+      stat('merge', r.merge.length, 'safe to merge'),
+      stat('review', r.review.length, 'need a human'),
+      stat('flag', r.nameMismatches.length, 'name does not match Hangul'),
+    ].join('');
+    document.getElementById('merge').innerHTML = r.merge.map(pairRow).join('');
+    document.getElementById('review').innerHTML = r.review.map(pairRow).join('');
+    document.getElementById('flags').innerHTML = r.nameMismatches.map(flagRow).join('');
+    document.getElementById('source').textContent = `Snapshot of ${snapshot.source} taken ${snapshot.fetchedAt.slice(0, 10)}. Public directory fields only. Refresh with: node extract.mjs`;
+  } catch (err) {
+    document.getElementById('stats').innerHTML = `<div class="stat"><b>!</b><span>Could not load the snapshot: ${escape(err.message)}</span></div>`;
+  }
+</script>
+</body>
+</html>

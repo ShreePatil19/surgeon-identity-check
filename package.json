@@ -1,0 +1,6 @@
+{
+  "name": "surgeon-identity-check",
+  "private": true,
+  "type": "module",
+  "scripts": { "test": "node --test", "extract": "node extract.mjs" }
+}
